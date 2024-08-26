@@ -14,7 +14,7 @@ The contents of this prototype are
 
 -- to lock down the data as blockchain
 
-The function for validation
+The function of validation
 
 --  Trading statistics of buyer and supplier
 
