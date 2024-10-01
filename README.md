@@ -17,6 +17,7 @@ a.  模擬交易雛型 (Simulated Trading Prototype)
 * 03-SupplierOffers: 買家查找可提供指定商品之賣家 (Establishing a search function for buyer)
 * 04-MarketTrade: 某交易日中買賣搓合商品交易 (Simulating a condition of daily trade)
 * 07-BlockChainTrade: 鎖存某交易日中買賣搓合商品交易 (lock down the trading data as a daily blockchain)
+
 b. 驗證功能 (The Function of Validation)
 * 05-MarketTrade & 06-MarketTrade: 買賣家交易統計 (Trading statistics of buyer and supplier)
 * 08-BlockChainTrade: 商品交易區塊驗證 (Verification of blockchain information)
