@@ -1,0 +1,1001 @@
+_key,_id,_rev,supplierID,name,phone,email,address
+11048395-f441-4b91-b725-6349b2b60031,Suppliers/11048395-f441-4b91-b725-6349b2b60031,_g1-qaSy---,S00001,劉靜宜,0919061498,qiuguiying@example.org,17515 蘆洲縣頂福州路28號之6
+5ce039a8-2a0a-47eb-b231-73312df4dde4,Suppliers/5ce039a8-2a0a-47eb-b231-73312df4dde4,_g1-qaTG---,S00002,農欣怡,(07) 48724099,mingcai@example.com,82406 台南縣大仁路2段3號之4
+c9ebbdab-b643-40e4-9887-061d3f8c3d8b,Suppliers/c9ebbdab-b643-40e4-9887-061d3f8c3d8b,_g1-qaTO---,S00003,段威廷,041 87310737,fang64@example.com,34293 北斗縣育英街674號9樓
+cf605a2e-3789-436b-9300-7f573c163396,Suppliers/cf605a2e-3789-436b-9300-7f573c163396,_g1-qaTa---,S00004,李冠霖,08-32049987,min25@example.net,554 樹林縣永安路1段1號6樓
+14542e06-4514-479e-9106-a6ef5a1489b4,Suppliers/14542e06-4514-479e-9106-a6ef5a1489b4,_g1-qaTi---,S00005,顧婷婷,0940-574112,qpeng@example.com,384 蘆竹復興路8號4樓
+ee5d8718-6c71-4ab8-9f46-28f3020e0751,Suppliers/ee5d8718-6c71-4ab8-9f46-28f3020e0751,_g1-qaTm---,S00006,王美琪,0943-523370,xiadu@example.com,200 太保市劍潭路47號8樓
+90de7ab3-fa4c-4972-9953-1792d02033ec,Suppliers/90de7ab3-fa4c-4972-9953-1792d02033ec,_g1-qaTy---,S00007,羅宜君,0979175094,yang29@example.net,56044 新北縣文化路859號之6
+c7391913-f1cd-4f90-b34d-e81586960c39,Suppliers/c7391913-f1cd-4f90-b34d-e81586960c39,_g1-qaT6---,S00008,趙柏翰,(03) 78854159,yanren@example.com,900 北港新埔街67號之3
+af76ef66-7cb3-4f19-a5df-e98797e11bc0,Suppliers/af76ef66-7cb3-4f19-a5df-e98797e11bc0,_g1-qaUC---,S00009,蕭沖,02-36444354,xduan@example.net,11888 豐原市大仁街85號4樓
+d7b71641-cd15-4b92-a63b-6c871d54d4db,Suppliers/d7b71641-cd15-4b92-a63b-6c871d54d4db,_g1-qaUK---,S00010,孫惠雯,(06) 75796543,gang82@example.net,314 太保新莊巷1號之3
+f0f88776-138b-4148-82dd-35d90e827831,Suppliers/f0f88776-138b-4148-82dd-35d90e827831,_g1-qaUS---,S00011,張佩珊,(01) 23603706,fsu@example.net,411 馬公大勇巷1號1樓
+90397fa9-feed-4c32-9416-8421ea87801c,Suppliers/90397fa9-feed-4c32-9416-8421ea87801c,_g1-qaUW---,S00012,孫婉婷,0926-982813,lfan@example.net,70406 竹北縣關渡路9號之3
+08fcd5f7-cc4a-4efe-a530-3ecb75d55789,Suppliers/08fcd5f7-cc4a-4efe-a530-3ecb75d55789,_g1-qaUe---,S00013,路傑克,(00) 19883012,jinxia@example.net,65804 新營迴龍路8段75號之8
+f6cb0929-b38c-47b9-a3b6-9f9d4a786565,Suppliers/f6cb0929-b38c-47b9-a3b6-9f9d4a786565,_g1-qaUi---,S00014,安冠霖,0939348460,jinglu@example.org,609 中和縣永寧巷84號7樓
+5ad0b062-1ab8-4d4d-ae10-96978966bdb8,Suppliers/5ad0b062-1ab8-4d4d-ae10-96978966bdb8,_g1-qaUu---,S00015,施惠雯,(03) 36593193,min66@example.org,20597 鳳山育英巷5號5樓
+f7253116-a485-4a7d-9cc4-aa63eec7dd5c,Suppliers/f7253116-a485-4a7d-9cc4-aa63eec7dd5c,_g1-qaU2---,S00016,羅佳慧,00-53147829,xia38@example.com,257 員林大仁巷244號之9
+48b3a751-c022-4619-98d2-3a70bced54bb,Suppliers/48b3a751-c022-4619-98d2-3a70bced54bb,_g1-qaV----,S00017,黃冠霖,(07) 25274912,kongjie@example.org,95160 台東市復興巷8號之5
+30a049b9-f53d-426c-9adb-3a73697a7161,Suppliers/30a049b9-f53d-426c-9adb-3a73697a7161,_g1-qaVC---,S00018,楊雅慧,0965799575,wlai@example.com,785 宜蘭市光明路423號8樓
+c54c69ae-ff07-4bb5-997a-67e3284d7a11,Suppliers/c54c69ae-ff07-4bb5-997a-67e3284d7a11,_g1-qaVK---,S00019,王馨儀,0980380159,qcui@example.com,96354 彰化縣成功街21號之6
+a25a3531-54b9-42f1-995a-e23f517dc078,Suppliers/a25a3531-54b9-42f1-995a-e23f517dc078,_g1-qaVO---,S00020,郭飛,04 9467392,xufang@example.net,83420 桃園雙連路5段6號之6
+f59fca95-0e9b-4b94-861c-ad5ae3ce5c81,Suppliers/f59fca95-0e9b-4b94-861c-ad5ae3ce5c81,_g1-qaVW---,S00021,張怡如,09 3302833,kkang@example.org,55674 卑南關渡路308號之4
+1d500de3-0ad9-4743-85e7-a6f71a48774a,Suppliers/1d500de3-0ad9-4743-85e7-a6f71a48774a,_g1-qaVa---,S00022,程婷婷,0951-298610,houxiulan@example.net,101 宜蘭關渡路5號之6
+73c35efd-2b8d-4094-b3d7-fa79600e4f6f,Suppliers/73c35efd-2b8d-4094-b3d7-fa79600e4f6f,_g1-qaVi---,S00023,潘佩珊,0962-558529,qiang17@example.org,417 楊梅景美巷26號之7
+693dcf98-7f6c-480d-a4d0-afded23ab4f0,Suppliers/693dcf98-7f6c-480d-a4d0-afded23ab4f0,_g1-qaVq---,S00024,易怡如,00 3867136,xiulan47@example.net,71827 北斗市太平路4段353號之6
+6368fcce-97a7-43fb-9819-8cd729ad60da,Suppliers/6368fcce-97a7-43fb-9819-8cd729ad60da,_g1-qaVu---,S00025,林懿,(00) 64004617,zhangjing@example.net,72599 台中淡水路2段320號之0
+44eceed1-4b15-4ce0-83cc-c33d070db6d2,Suppliers/44eceed1-4b15-4ce0-83cc-c33d070db6d2,_g1-qaV2---,S00026,韓婉婷,0934417905,taopan@example.net,45900 屏東縣景美巷430號之9
+ebe2f851-33f8-41e4-9097-e4602dfb015b,Suppliers/ebe2f851-33f8-41e4-9097-e4602dfb015b,_g1-qaV6---,S00027,徐彥廷,020 29262048,dkang@example.org,17888 澎湖天母路1段8號之8
+8869cd78-cbdc-4146-856b-83a16d9c6c29,Suppliers/8869cd78-cbdc-4146-856b-83a16d9c6c29,_g1-qaWC---,S00028,蕭雅婷,04-15349476,minpeng@example.com,741 雲林市象山路346號之1
+6695888c-e0dc-4839-b234-d4f7aaeb8d67,Suppliers/6695888c-e0dc-4839-b234-d4f7aaeb8d67,_g1-qaWG---,S00029,陳郁雯,(09) 52147897,yuanna@example.com,71227 彰化中正街4號0樓
+946d2d76-589a-4067-9e81-8a1767a1e766,Suppliers/946d2d76-589a-4067-9e81-8a1767a1e766,_g1-qaWO---,S00030,鄧慧君,04 3220565,ganghu@example.com,86026 嘉義芝山街2號之9
+f6756e60-8173-4034-8552-22d16a877bd8,Suppliers/f6756e60-8173-4034-8552-22d16a877bd8,_g1-qaWS---,S00031,姚婷婷,(06) 13011516,mingluo@example.org,78101 苗栗古亭巷8段70號之3
+d16ddd2a-041c-4dfd-b4e4-6ecdb76cda18,Suppliers/d16ddd2a-041c-4dfd-b4e4-6ecdb76cda18,_g1-qaWa---,S00032,李中山,0925416758,juantao@example.org,25828 三重民富街19號之4
+06ca9e56-4399-45d2-9a21-dc1c30ce1841,Suppliers/06ca9e56-4399-45d2-9a21-dc1c30ce1841,_g1-qaWm---,S00033,廖淑娟,03-9086949,ping31@example.net,75146 永和縣自由路5號7樓
+8fb6990e-0adc-49ad-9abb-4ed967c8ee8b,Suppliers/8fb6990e-0adc-49ad-9abb-4ed967c8ee8b,_g1-qaWq---,S00034,陳冠霖,(07) 42904848,min76@example.net,77957 太保大安巷123號3樓
+dd5f5c31-7146-479b-a760-57bd86d71758,Suppliers/dd5f5c31-7146-479b-a760-57bd86d71758,_g1-qaWy---,S00035,楊宜君,02-7023808,xiuying43@example.org,39795 鳳山小碧潭巷595號之2
+cf5deaa2-f76e-4b97-81ae-a6cc80e1ee6d,Suppliers/cf5deaa2-f76e-4b97-81ae-a6cc80e1ee6d,_g1-qaW2---,S00036,孫宇軒,05 2969205,gang23@example.org,946 宜蘭大安街9號之9
+5b18e9f4-d05e-46d1-97ce-486b2fd8ddc4,Suppliers/5b18e9f4-d05e-46d1-97ce-486b2fd8ddc4,_g1-qaW6---,S00037,毛志豪,0906206045,ofang@example.org,206 新營縣民享巷4號之7
+7d3475d3-e0e7-4857-b850-63f9a6d777c0,Suppliers/7d3475d3-e0e7-4857-b850-63f9a6d777c0,_g1-qaXC---,S00038,白飛,0904-561820,mingmo@example.org,934 竹北士林路574號之1
+2d0e5a59-ca1b-43fd-9ba5-0a71a46eecd9,Suppliers/2d0e5a59-ca1b-43fd-9ba5-0a71a46eecd9,_g1-qaXG---,S00039,馬佳慧,0959-107572,xiuying52@example.org,24678 蘆洲莒光路99號5樓
+a1b1d4d9-be6f-435e-9f32-079329d0d5ad,Suppliers/a1b1d4d9-be6f-435e-9f32-079329d0d5ad,_g1-qaXO---,S00040,蔣懿,(00) 93142261,dingna@example.org,448 太保天母巷775號0樓
+9d22d960-93ba-43d3-95e1-0fa7f9767046,Suppliers/9d22d960-93ba-43d3-95e1-0fa7f9767046,_g1-qaXS---,S00041,陳飛,02-97698505,li92@example.org,784 中壢公園路2號2樓
+c65193bb-b248-4dcf-a279-f8f4019a71ee,Suppliers/c65193bb-b248-4dcf-a279-f8f4019a71ee,_g1-qaXa---,S00042,蔣慧君,(02) 72127682,sujing@example.org,72319 台東縣新生街22號8樓
+30b8eead-ae25-4f7b-90d4-717a7cf7685d,Suppliers/30b8eead-ae25-4f7b-90d4-717a7cf7685d,_g1-qaXi---,S00043,黃庭瑋,03 5892980,jinglai@example.com,389 頭份迴龍路471號之5
+18225406-a3c6-493a-bbec-a5ba89b2895e,Suppliers/18225406-a3c6-493a-bbec-a5ba89b2895e,_g1-qaXq---,S00044,張沖,03 7907876,idong@example.net,377 苗栗三民街5號5樓
+dd57b629-b8c3-4580-86e9-c21e50ac8a10,Suppliers/dd57b629-b8c3-4580-86e9-c21e50ac8a10,_g1-qaXy---,S00045,佘承翰,039 14123226,wutao@example.net,26944 北斗平和路7段1號之2
+fe8eb3d4-1c99-47ce-b393-c49a7e0e1571,Suppliers/fe8eb3d4-1c99-47ce-b393-c49a7e0e1571,_g1-qaX6---,S00046,王筱涵,0945-343854,yong15@example.net,187 汐止縣象山街8段59號之5
+dae9a331-4177-41f3-b0eb-1b6ce538c8b7,Suppliers/dae9a331-4177-41f3-b0eb-1b6ce538c8b7,_g1-qaYC---,S00047,王家銘,0981510885,gding@example.org,198 鳳山大坪巷398號之0
+0eaf35c7-1ab8-48c5-b239-7f1006968fe6,Suppliers/0eaf35c7-1ab8-48c5-b239-7f1006968fe6,_g1-qaYK---,S00048,安依婷,0994293826,fang20@example.org,634 員林市自立巷88號之8
+c3a5b008-ac34-4f1f-98c4-0c25f249b6a3,Suppliers/c3a5b008-ac34-4f1f-98c4-0c25f249b6a3,_g1-qaYS---,S00049,劉宗翰,05-75896205,fsun@example.org,88775 北斗大仁巷1段944號2樓
+469820f0-7a9d-4731-a9df-123c76fea322,Suppliers/469820f0-7a9d-4731-a9df-123c76fea322,_g1-qaYa---,S00050,齊柏翰,0986739488,fmeng@example.net,41302 新北建國街4號7樓
+aebfc46c-d331-4237-8225-a9ecd0a3d831,Suppliers/aebfc46c-d331-4237-8225-a9ecd0a3d831,_g1-qaYi---,S00051,趙冠霖,04-8183534,songna@example.org,23571 中壢北投街8號0樓
+f1b9181b-e692-4e7d-83db-357c69c7a6aa,Suppliers/f1b9181b-e692-4e7d-83db-357c69c7a6aa,_g1-qaYm---,S00052,仲怡伶,006 98507219,zhouguiying@example.net,69764 台中縣民有巷837號之0
+10d252f1-329e-4ca9-b3e1-105667eff26c,Suppliers/10d252f1-329e-4ca9-b3e1-105667eff26c,_g1-qaYu---,S00053,周俊宏,064 65673027,li97@example.com,674 蘆竹文山巷8段7號7樓
+b169ea15-34f7-4bcd-8615-e73e8f4e33c9,Suppliers/b169ea15-34f7-4bcd-8615-e73e8f4e33c9,_g1-qaY2---,S00054,雷志豪,033 56120043,gangxiao@example.org,285 太保四維巷337號之1
+4ed1ca08-a3ef-4831-8654-3cbc6e5431b1,Suppliers/4ed1ca08-a3ef-4831-8654-3cbc6e5431b1,_g1-qaY6---,S00055,王嘉玲,0961323577,gxiao@example.net,901 新營縣民生路83號之1
+d0872fb2-c22e-4888-bcd2-d5aaa2a7c647,Suppliers/d0872fb2-c22e-4888-bcd2-d5aaa2a7c647,_g1-qaZC---,S00056,郭淑華,05-15205629,huxiulan@example.com,864 太保縣育英路599號之9
+a7718ae2-e228-42ef-bf94-fbae5736c9ef,Suppliers/a7718ae2-e228-42ef-bf94-fbae5736c9ef,_g1-qaZG---,S00057,謝懿,08-8270944,mxie@example.org,977 基隆大橋頭巷9號6樓
+6eeee788-391e-4474-8364-fcba798f2f8d,Suppliers/6eeee788-391e-4474-8364-fcba798f2f8d,_g1-qaZO---,S00058,劉宇軒,051 17609678,kongyang@example.org,101 中壢縣公園街5段39號之2
+97c19b3c-a3c9-4d4c-90ac-7fd712156283,Suppliers/97c19b3c-a3c9-4d4c-90ac-7fd712156283,_g1-qaZS---,S00059,周怡萱,08 3512137,rmao@example.com,78081 金門市興街6號之9
+2f3195e4-0226-43f1-ac54-870299257046,Suppliers/2f3195e4-0226-43f1-ac54-870299257046,_g1-qaZa---,S00060,張雅惠,06-8122608,weizhong@example.net,66456 屏東市劍潭街8段92號3樓
+4bca7e5a-0e82-42c3-a918-192ab05c141d,Suppliers/4bca7e5a-0e82-42c3-a918-192ab05c141d,_g1-qaZe---,S00061,張佳蓉,08-3084882,junwu@example.com,67889 古坑忠義巷8段27號之1
+9f9de9f8-6edb-45ec-80f1-6366446349e3,Suppliers/9f9de9f8-6edb-45ec-80f1-6366446349e3,_g1-qaZm---,S00062,顧信宏,0973574406,junhao@example.com,75477 新營北投路6段4號5樓
+b0ed4ba7-ff04-4dcb-acea-20634f297872,Suppliers/b0ed4ba7-ff04-4dcb-acea-20634f297872,_g1-qaZu---,S00063,張佩珊,02-8508971,nli@example.com,33833 員林市土城巷333號之6
+9cfbc78e-575f-40c7-9103-555ba2e41e35,Suppliers/9cfbc78e-575f-40c7-9103-555ba2e41e35,_g1-qaZ2---,S00064,周柏翰,040 35083852,xiulanshen@example.net,700 關山縣小碧潭路80號6樓
+f2b10aa2-bb31-405d-9c42-666792077681,Suppliers/f2b10aa2-bb31-405d-9c42-666792077681,_g1-qaZ6---,S00065,聶雅萍,065 61275689,yangxiang@example.net,26714 三重龍山寺巷31號之7
+88620b85-f32f-47c4-afcf-fd67746a9758,Suppliers/88620b85-f32f-47c4-afcf-fd67746a9758,_g1-qaaC---,S00066,趙淑娟,0982522421,dshen@example.org,39230 中和市光華巷7號9樓
+c3321ce1-b049-489c-8e95-27bf4f01812b,Suppliers/c3321ce1-b049-489c-8e95-27bf4f01812b,_g1-qaaK---,S00067,王冠廷,0975-891761,zhuyang@example.org,54528 頭份民享巷7段36號5樓
+734ed4f6-dd49-42d8-8300-84843c9f16d6,Suppliers/734ed4f6-dd49-42d8-8300-84843c9f16d6,_g1-qaaO---,S00068,李美琪,01-5407488,ming11@example.net,64017 新竹縣芝山路221號之4
+53cf02d1-561d-4d4e-9ed4-ad3e9de23ddb,Suppliers/53cf02d1-561d-4d4e-9ed4-ad3e9de23ddb,_g1-qaaW---,S00069,蕭雅玲,0945-254629,weixia@example.com,406 關山關渡路159號7樓
+812664a9-5b84-4b6b-bad4-56177486e09c,Suppliers/812664a9-5b84-4b6b-bad4-56177486e09c,_g1-qaae---,S00070,孔雅萍,096 38934937,rlin@example.net,82229 太保市三民路59號8樓
+2a7d32b9-f679-48f6-b118-ae902bef3c5e,Suppliers/2a7d32b9-f679-48f6-b118-ae902bef3c5e,_g1-qaai---,S00071,張依婷,(07) 88104638,qzeng@example.com,639 關山縣長春路6號0樓
+542a4c14-ee03-4b50-9710-d4b55d091f55,Suppliers/542a4c14-ee03-4b50-9710-d4b55d091f55,_g1-qaaq---,S00072,高雅芳,0953-786446,xiulanyang@example.net,660 汐止市中興街6號之2
+ab36de5f-8ec5-4d5d-a9c6-d01793b799ab,Suppliers/ab36de5f-8ec5-4d5d-a9c6-d01793b799ab,_g1-qaau---,S00073,蘇哲瑋,064 75761611,xpeng@example.net,23114 白沙市永寧路60號9樓
+b2138fc0-22f1-41e1-9dd5-0f895a25693e,Suppliers/b2138fc0-22f1-41e1-9dd5-0f895a25693e,_g1-qaay---,S00074,王俊傑,07-9024404,odeng@example.net,783 牡丹景美街418號之2
+4a730aa2-daae-47db-ac5f-6ca34388fbf9,Suppliers/4a730aa2-daae-47db-ac5f-6ca34388fbf9,_g1-qaa6---,S00075,李詩婷,0954807354,shenxiulan@example.com,567 卑南縣自強巷1段93號8樓
+4418ed1b-e212-44bb-a326-8567b9fe7dc9,Suppliers/4418ed1b-e212-44bb-a326-8567b9fe7dc9,_g1-qab----,S00076,陳雅萍,09 4728986,dxu@example.net,647 台東大仁巷60號之0
+1f2d25ab-a81b-4008-ba63-0042eb5f1612,Suppliers/1f2d25ab-a81b-4008-ba63-0042eb5f1612,_g1-qabG---,S00077,張飛,(03) 53152902,baiming@example.com,60949 蘆洲市中興巷606號之6
+ef6e3ff0-6325-4f6b-962f-e854650c6a1d,Suppliers/ef6e3ff0-6325-4f6b-962f-e854650c6a1d,_g1-qabK---,S00078,林志豪,(08) 20595336,wuguiying@example.org,170 阿里山中山路74號6樓
+db8e6d0c-f275-44bd-88c6-d6710dca2b88,Suppliers/db8e6d0c-f275-44bd-88c6-d6710dca2b88,_g1-qabO---,S00079,鐘雅惠,(09) 70836889,lei87@example.org,87320 竹田縣萬隆路18號8樓
+51c10a82-197b-4bdc-a12e-eccb2b685079,Suppliers/51c10a82-197b-4bdc-a12e-eccb2b685079,_g1-qabW---,S00080,姜佩君,047 60919917,caijuan@example.org,408 樹林福德街4段1號9樓
+06b3c7bf-3751-42d7-898a-4b290381cc27,Suppliers/06b3c7bf-3751-42d7-898a-4b290381cc27,_g1-qabe---,S00081,楊佩珊,07 4197298,yan28@example.net,808 光復縣小碧潭路3段782號8樓
+b85bb614-d524-4344-9d81-2df399755247,Suppliers/b85bb614-d524-4344-9d81-2df399755247,_g1-qabi---,S00082,羅宇軒,02-3100181,hechao@example.org,52969 永和縣莒光巷5號之3
+3782fb28-ec95-4733-af45-67eceb52c5b9,Suppliers/3782fb28-ec95-4733-af45-67eceb52c5b9,_g1-qabq---,S00083,邸冠宇,0975750178,sunchao@example.com,32490 八德市奇岩路21號之5
+bf7b8ff6-95fc-4b6e-90c9-0ea9385e683b,Suppliers/bf7b8ff6-95fc-4b6e-90c9-0ea9385e683b,_g1-qabu---,S00084,伍詩涵,0979-387337,juanqiu@example.com,331 光復縣正義路39號6樓
+676d8104-eb2e-4b4a-b202-ae7815d57bba,Suppliers/676d8104-eb2e-4b4a-b202-ae7815d57bba,_g1-qab2---,S00085,陳宗翰,0987-566951,li79@example.com,134 基隆市光華街8號8樓
+81b56cad-0496-4dc7-a570-38e43897d299,Suppliers/81b56cad-0496-4dc7-a570-38e43897d299,_g1-qab6---,S00086,黃俊賢,02-8951183,yaolei@example.org,61131 新竹關渡街2號之1
+0914071f-de2f-4dfb-9896-96be388831b4,Suppliers/0914071f-de2f-4dfb-9896-96be388831b4,_g1-qacC---,S00087,邱志宏,03-77334997,mingtang@example.org,125 新營市文化巷472號之0
+863f4a54-3c67-4b1b-ad56-08cacdfc0179,Suppliers/863f4a54-3c67-4b1b-ad56-08cacdfc0179,_g1-qacG---,S00088,闕家瑋,028 88883563,na77@example.net,68207 大里縣公園巷5段5號之6
+3cb3399b-9eee-458d-a1d5-d70b8db980ae,Suppliers/3cb3399b-9eee-458d-a1d5-d70b8db980ae,_g1-qacO---,S00089,郝俊宏,04-4084703,izheng@example.net,119 卑南育英巷8號4樓
+1f63eca8-cd99-44a4-8a22-877952e69e63,Suppliers/1f63eca8-cd99-44a4-8a22-877952e69e63,_g1-qacS---,S00090,夏婉婷,03 5222960,minxiao@example.com,30624 草屯新生巷871號4樓
+2378e899-6677-4803-ab4f-e0e0eb5e93ed,Suppliers/2378e899-6677-4803-ab4f-e0e0eb5e93ed,_g1-qaca---,S00091,周威廷,(05) 95622857,jun01@example.org,87213 楊梅縣劍潭街71號0樓
+ebc042ed-3dcb-4abf-b3be-f801aca82fd0,Suppliers/ebc042ed-3dcb-4abf-b3be-f801aca82fd0,_g1-qace---,S00092,王沖,02-9994274,yangsong@example.com,62380 北竿劍南街3號1樓
+bc83f1d8-6998-4676-b3ef-f26b58b77bf8,Suppliers/bc83f1d8-6998-4676-b3ef-f26b58b77bf8,_g1-qaci---,S00093,黃雅慧,0960-292802,icao@example.org,84207 新竹中山路256號之7
+5b51a6ed-b1cd-4b44-8888-5e542ca402eb,Suppliers/5b51a6ed-b1cd-4b44-8888-5e542ca402eb,_g1-qacm---,S00094,任郁雯,08-68834683,ashen@example.net,386 三重市東湖路7號之1
+6bd07ccf-75b5-4690-b1c0-23a57954a32e,Suppliers/6bd07ccf-75b5-4690-b1c0-23a57954a32e,_g1-qacu---,S00095,孫靜怡,0934735349,xiazou@example.net,20008 連江永安街2號6樓
+0afd884f-e9ca-4758-8019-d2508f8e061d,Suppliers/0afd884f-e9ca-4758-8019-d2508f8e061d,_g1-qacy---,S00096,楊靜怡,0907-860740,yang55@example.com,97870 彰化縣新埔路62號之3
+ffa628f0-717d-486e-a49c-f409f4bfc065,Suppliers/ffa628f0-717d-486e-a49c-f409f4bfc065,_g1-qac2---,S00097,曾雅文,095 93403797,zhengmin@example.org,44173 梅山縣大橋頭街2號之4
+b370d185-0df1-4952-b5e7-f57ee9db2478,Suppliers/b370d185-0df1-4952-b5e7-f57ee9db2478,_g1-qad----,S00098,彭佳蓉,02 8560802,duanxiuying@example.org,349 永康市新生巷885號3樓
+8732b67a-e9a0-43a9-ac86-010bfb0f142b,Suppliers/8732b67a-e9a0-43a9-ac86-010bfb0f142b,_g1-qadC---,S00099,孟佳樺,01 9546714,lei43@example.org,669 臺東縣自由巷734號9樓
+44bed5b2-3e18-4d07-90c0-6d3933219bf6,Suppliers/44bed5b2-3e18-4d07-90c0-6d3933219bf6,_g1-qadG---,S00100,王佳玲,0940-920787,dengmin@example.net,49983 板橋市中山巷1段15號之3
+8e0d6b73-a214-4200-9e59-445ff2dd4456,Suppliers/8e0d6b73-a214-4200-9e59-445ff2dd4456,_g1-qadO---,S00101,任雅惠,0968229596,wei61@example.com,335 北斗府中路7號之5
+c29694ac-6b27-4164-b2f1-dc665043a91d,Suppliers/c29694ac-6b27-4164-b2f1-dc665043a91d,_g1-qadS---,S00102,施淑玲,0967148766,xiulan87@example.org,317 嘉義復興街875號之8
+93a55422-35cb-40b9-a5fa-d999c09b1a3b,Suppliers/93a55422-35cb-40b9-a5fa-d999c09b1a3b,_g1-qadW---,S00103,趙嘉玲,01-8846962,guiying44@example.org,708 八德縣華興巷3號之8
+bf247c01-3681-4a00-980c-31e9aa84eed9,Suppliers/bf247c01-3681-4a00-980c-31e9aa84eed9,_g1-qade---,S00104,冉家豪,(03) 19397965,junwan@example.net,42971 草屯市迴龍路1號之1
+d6243506-78f0-4289-89fb-945e07ce7b0a,Suppliers/d6243506-78f0-4289-89fb-945e07ce7b0a,_g1-qadi---,S00105,董家豪,0951-540356,yonggong@example.com,952 褒忠大仁巷8號8樓
+d5ea6d84-58ab-404c-8d28-d42deffb61ac,Suppliers/d5ea6d84-58ab-404c-8d28-d42deffb61ac,_g1-qadm---,S00106,楊馨儀,0926-942596,jie23@example.net,653 牡丹松山街7號5樓
+9a3423ea-6734-4b8b-a249-a45d17432555,Suppliers/9a3423ea-6734-4b8b-a249-a45d17432555,_g1-qadu---,S00107,張雅婷,0939-437240,yanping@example.com,68967 金門迴龍路1號之4
+b6d5dfce-0953-448a-aeb6-6731af7a9120,Suppliers/b6d5dfce-0953-448a-aeb6-6731af7a9120,_g1-qady---,S00108,唐佩珊,024 39132750,cmao@example.net,76415 太平市紅樹林路326號之1
+3bf37dbc-5190-4fce-9a45-1a71fc32c616,Suppliers/3bf37dbc-5190-4fce-9a45-1a71fc32c616,_g1-qad2---,S00109,韓佳蓉,0959368537,zoumin@example.com,811 關山奇岩街7號0樓
+57c39ce8-9d2a-4606-96b9-1a0770b51513,Suppliers/57c39ce8-9d2a-4606-96b9-1a0770b51513,_g1-qae----,S00110,張雅慧,010 39943392,tao48@example.org,59158 大里市育英路605號5樓
+c94a3536-5959-4ce3-a4a8-eef9f1aa43a4,Suppliers/c94a3536-5959-4ce3-a4a8-eef9f1aa43a4,_g1-qaeC---,S00111,楊家瑜,083 39312992,yanjie@example.net,755 白沙縣自由巷60號5樓
+d64a8ee5-dc85-4b76-8844-caaa48cad6df,Suppliers/d64a8ee5-dc85-4b76-8844-caaa48cad6df,_g1-qaeG---,S00112,黃淑慧,05-63478283,taoduan@example.com,82450 三重縣自強路367號之0
+8b793634-32da-4765-98e3-43a42d20c9d2,Suppliers/8b793634-32da-4765-98e3-43a42d20c9d2,_g1-qaeK---,S00113,易雅芳,031 88551387,xiulan03@example.com,469 桃園德巷315號之4
+7f5c2a27-7cf1-4114-823b-59d1562f0e97,Suppliers/7f5c2a27-7cf1-4114-823b-59d1562f0e97,_g1-qaeS---,S00114,張郁婷,07-2287533,luxiuying@example.org,234 彰化縣建國路617號9樓
+826a2819-9013-471d-9433-a39b07cd3b60,Suppliers/826a2819-9013-471d-9433-a39b07cd3b60,_g1-qaei---,S00115,張佳慧,06 3201250,txiong@example.net,311 新營天母路238號之8
+6bfb782a-73b4-4230-bc33-67ad4a530984,Suppliers/6bfb782a-73b4-4230-bc33-67ad4a530984,_g1-qaem---,S00116,蔣家瑋,0968-106559,tao04@example.net,94171 台南興街367號之4
+501dd9dc-bf2f-4331-9292-aeb37d427f60,Suppliers/501dd9dc-bf2f-4331-9292-aeb37d427f60,_g1-qaeq---,S00117,吳婷婷,(01) 25767318,na84@example.com,74561 光復縣民族巷9號3樓
+b9cdd7f1-a5fe-4bd6-b5d7-f12759b0acb0,Suppliers/b9cdd7f1-a5fe-4bd6-b5d7-f12759b0acb0,_g1-qaey---,S00118,余思穎,0914-350848,chao09@example.org,36117 光復縣勝利巷2段3號1樓
+62b2eeb0-3f7e-4331-972c-8b70f7ae48a7,Suppliers/62b2eeb0-3f7e-4331-972c-8b70f7ae48a7,_g1-qae2---,S00119,鄒嘉玲,0914484786,weifang@example.net,58450 台東新興街73號之9
+432ee1c3-0aac-4d29-bcae-65a51106ff9f,Suppliers/432ee1c3-0aac-4d29-bcae-65a51106ff9f,_g1-qae6---,S00120,王淑華,027 75294121,huangli@example.net,94520 卑南市中正巷314號8樓
+99867d42-45fb-481a-9dc7-ba7a8491295d,Suppliers/99867d42-45fb-481a-9dc7-ba7a8491295d,_g1-qafC---,S00121,牛俊宏,0906178301,renchao@example.com,680 頭份民生街677號之1
+53b9579e-5151-4990-a52a-b79f2ff76d17,Suppliers/53b9579e-5151-4990-a52a-b79f2ff76d17,_g1-qafG---,S00122,程宇軒,02-42550578,qianlei@example.com,572 金門市自立街3號8樓
+9bb2b212-7db9-4d08-8604-2e0d383fe953,Suppliers/9bb2b212-7db9-4d08-8604-2e0d383fe953,_g1-qafK---,S00123,黃詩婷,0980314896,junren@example.com,791 平鎮市正義路90號7樓
+3c92342a-d559-43f4-9427-376cfd0d3fc5,Suppliers/3c92342a-d559-43f4-9427-376cfd0d3fc5,_g1-qafS---,S00124,黨俊賢,0928-776474,nyan@example.com,87956 光復關渡街56號9樓
+cb09cdcc-e98e-4a68-bba5-c180e540b30a,Suppliers/cb09cdcc-e98e-4a68-bba5-c180e540b30a,_g1-qafW---,S00125,魏婷婷,(06) 43204088,wei08@example.org,863 台北永寧街5段549號之2
+a6c66c67-5e1b-4ac8-a753-e38b2daffca7,Suppliers/a6c66c67-5e1b-4ac8-a753-e38b2daffca7,_g1-qafa---,S00126,黃靜怡,00 2697268,fangwan@example.org,661 頭份縣新莊路64號之8
+227e812e-c124-48e1-9459-8e174374e743,Suppliers/227e812e-c124-48e1-9459-8e174374e743,_g1-qafe---,S00127,丁信宏,02-2818841,dcheng@example.com,82081 永和縣仁愛路1號4樓
+458633c7-fd36-4c78-b652-a554c17d2c60,Suppliers/458633c7-fd36-4c78-b652-a554c17d2c60,_g1-qafm---,S00128,高心怡,02-4994673,lgong@example.org,83483 蘆洲市萬隆街5號7樓
+b6de0337-410c-4306-924a-7d474bbdb0dc,Suppliers/b6de0337-410c-4306-924a-7d474bbdb0dc,_g1-qafq---,S00129,金家銘,08-94110641,cfang@example.org,280 草屯新埔街9號5樓
+cb9e6621-e2c1-47c5-86cf-8bde59097602,Suppliers/cb9e6621-e2c1-47c5-86cf-8bde59097602,_g1-qafu---,S00130,紀中山,03-98915589,jiecheng@example.com,409 北斗東湖巷857號6樓
+d59198a2-bb3b-465f-8236-8910deb060f6,Suppliers/d59198a2-bb3b-465f-8236-8910deb060f6,_g1-qaf2---,S00131,郭柏翰,044 35502288,sshi@example.com,36149 新竹市士林巷8號之5
+6750621f-41fa-4973-a620-77f9a999815c,Suppliers/6750621f-41fa-4973-a620-77f9a999815c,_g1-qaf6---,S00132,閻詩婷,08-11320218,yan46@example.org,27435 平鎮縣中興路3段796號之0
+c256c2de-4ac5-4a82-8353-fe96df6ea28a,Suppliers/c256c2de-4ac5-4a82-8353-fe96df6ea28a,_g1-qag----,S00133,徐婉婷,02 8735069,yinxia@example.net,70222 太保長安路20號3樓
+6160a06a-9b27-4ec8-adc3-d7a8f4cdde76,Suppliers/6160a06a-9b27-4ec8-adc3-d7a8f4cdde76,_g1-qagG---,S00134,盧志宏,06-73815925,xiulan68@example.com,14068 牡丹市育英路7段14號之9
+a0c12b4c-4f5d-454a-aa7f-af9973efcf53,Suppliers/a0c12b4c-4f5d-454a-aa7f-af9973efcf53,_g1-qagK---,S00135,李婷婷,(05) 90360075,wgu@example.net,98417 竹北市和街路793號8樓
+417bc428-416c-48f5-874d-444d5a28e78c,Suppliers/417bc428-416c-48f5-874d-444d5a28e78c,_g1-qagO---,S00136,黃思穎,083 50793248,xiuying69@example.org,244 屏東市長春街5段928號2樓
+5994a231-8ccb-407f-9cea-ba2bc6768625,Suppliers/5994a231-8ccb-407f-9cea-ba2bc6768625,_g1-qagW---,S00137,周承翰,0910-084706,jiana@example.net,77014 太平市信義路1段9號之1
+1a70fe7f-4d8d-4340-9432-8fcafe316c16,Suppliers/1a70fe7f-4d8d-4340-9432-8fcafe316c16,_g1-qaga---,S00138,徐瑋婷,023 52178581,jiana@example.com,647 卑南水源巷94號之2
+4e310cf1-4593-45a1-8370-44fa6f8c3501,Suppliers/4e310cf1-4593-45a1-8370-44fa6f8c3501,_g1-qage---,S00139,呂雅婷,0938408346,odu@example.org,42552 新營市迴龍街14號5樓
+f833f6a5-0bb1-4eae-841e-19f8ce48b296,Suppliers/f833f6a5-0bb1-4eae-841e-19f8ce48b296,_g1-qagm---,S00140,張家豪,04-61462146,gzeng@example.com,51193 嘉義市永安街677號之7
+a873a10b-95d3-4441-8324-5a17536ba75e,Suppliers/a873a10b-95d3-4441-8324-5a17536ba75e,_g1-qagq---,S00141,李飛,064 36366280,haoli@example.com,275 竹田市頂福州巷2號之9
+28de6719-3206-4c6d-adb5-3bbf123cc4ca,Suppliers/28de6719-3206-4c6d-adb5-3bbf123cc4ca,_g1-qagy---,S00142,吳佳穎,0977-363513,mengchao@example.net,483 斗六奇岩路221號8樓
+1f3e1ef4-9deb-483c-aac7-9303fc6e769e,Suppliers/1f3e1ef4-9deb-483c-aac7-9303fc6e769e,_g1-qag2---,S00143,禹庭瑋,067 28016157,yongtang@example.net,80365 頭份縣育英路71號0樓
+2ce01838-17ed-4510-9d68-75b4beedd081,Suppliers/2ce01838-17ed-4510-9d68-75b4beedd081,_g1-qag6---,S00144,張淑娟,0922687467,xiuyingmeng@example.com,94483 三重大智街797號之1
+fca57cf0-b507-4a0b-9814-5dd9b26d1060,Suppliers/fca57cf0-b507-4a0b-9814-5dd9b26d1060,_g1-qahC---,S00145,梁馨儀,(00) 54347080,weiyao@example.com,50795 雲林民族巷5段425號5樓
+7ea52417-5790-4587-a988-4ded29924594,Suppliers/7ea52417-5790-4587-a988-4ded29924594,_g1-qahG---,S00146,潘佳樺,0936829213,ryi@example.net,25902 八德縣延平街741號6樓
+eadcb905-074d-407a-9cc1-a91660b5dbd9,Suppliers/eadcb905-074d-407a-9cc1-a91660b5dbd9,_g1-qahK---,S00147,王淑玲,09 9566765,qxiang@example.com,947 太平光華巷70號之0
+03ed6d2d-fbec-414b-8b65-8b59398e32fc,Suppliers/03ed6d2d-fbec-414b-8b65-8b59398e32fc,_g1-qahS---,S00148,朱龍,00-52528927,cchen@example.org,216 基隆博愛路7段85號1樓
+0edb2592-e136-499b-8db3-5e3a0ca08d64,Suppliers/0edb2592-e136-499b-8db3-5e3a0ca08d64,_g1-qahW---,S00149,王佳蓉,07 9602843,uwan@example.org,69080 台東縣民富路40號6樓
+06e7d012-5024-4ec1-bfa3-eabc1df4d199,Suppliers/06e7d012-5024-4ec1-bfa3-eabc1df4d199,_g1-qahe---,S00150,王柏翰,095 92862260,chao64@example.net,74899 苗栗縣新北投路675號7樓
+0445b80c-bd47-4bf4-ab48-c0c410079ad0,Suppliers/0445b80c-bd47-4bf4-ab48-c0c410079ad0,_g1-qahi---,S00151,林婉婷,04-8840559,btao@example.net,654 桃園市新生路7段685號4樓
+9703416d-e149-4e1a-b81b-b13b56618de1,Suppliers/9703416d-e149-4e1a-b81b-b13b56618de1,_g1-qahm---,S00152,高佩珊,0991360508,minjin@example.com,47110 橫山關渡街20號9樓
+693bdb81-80eb-420a-b2b8-39e45a33c31d,Suppliers/693bdb81-80eb-420a-b2b8-39e45a33c31d,_g1-qahu---,S00153,王惠雯,(04) 67079511,yongdong@example.org,21930 梅山市新生路40號3樓
+84430798-dc1c-455f-8de8-8fb275b042de,Suppliers/84430798-dc1c-455f-8de8-8fb275b042de,_g1-qahy---,S00154,袁庭瑋,05-11773297,yang99@example.com,72225 員林紅樹林巷26號5樓
+da3ee861-9d66-4315-ace1-aba2c546a493,Suppliers/da3ee861-9d66-4315-ace1-aba2c546a493,_g1-qah2---,S00155,高俊傑,00 6326101,yang25@example.com,26242 彰化德路51號4樓
+8f6bdb20-a1d0-4c63-870f-c79791e470c8,Suppliers/8f6bdb20-a1d0-4c63-870f-c79791e470c8,_g1-qai----,S00156,吳雅文,0962052357,zhuyang@example.net,161 白沙新北投路6段9號之3
+ba629a95-1d87-4b5e-9af8-0b9230d690e8,Suppliers/ba629a95-1d87-4b5e-9af8-0b9230d690e8,_g1-qaiC---,S00157,孫雅雯,03-53072223,chaopan@example.com,28833 平鎮縣關渡巷6段881號之9
+911977cd-b479-4131-a114-cf631f4bbb31,Suppliers/911977cd-b479-4131-a114-cf631f4bbb31,_g1-qaiG---,S00158,繆承翰,087 64412944,hanxiuying@example.net,243 臺中松山路445號之4
+ce0b6c9f-95d0-4c85-8c5d-53710bdca8ad,Suppliers/ce0b6c9f-95d0-4c85-8c5d-53710bdca8ad,_g1-qaiO---,S00159,王佳玲,05 1843423,chaoye@example.org,73337 阿里山府中路1段36號4樓
+01d34f4b-3848-46c1-9f92-9c46593260be,Suppliers/01d34f4b-3848-46c1-9f92-9c46593260be,_g1-qaiS---,S00160,周婉婷,066 54544104,majun@example.org,878 高雄民權街451號4樓
+6ca53e1d-fddd-4633-8f58-5cf4065ca499,Suppliers/6ca53e1d-fddd-4633-8f58-5cf4065ca499,_g1-qaiW---,S00161,敖雅萍,00-48903416,gangxie@example.com,38058 台東市中和巷47號之3
+5c940545-9099-4db2-93aa-e1027d8dddfa,Suppliers/5c940545-9099-4db2-93aa-e1027d8dddfa,_g1-qaia---,S00162,李志偉,09-4611525,nbai@example.org,285 頭份縣仁愛街78號之1
+c730470d-3dec-4831-9096-f1d23858718d,Suppliers/c730470d-3dec-4831-9096-f1d23858718d,_g1-qaii---,S00163,馬思穎,07 1007847,xiexiuying@example.net,90209 彰化縣松山街4號9樓
+a96f4ea1-c3ae-499c-83aa-f09a1040ba9e,Suppliers/a96f4ea1-c3ae-499c-83aa-f09a1040ba9e,_g1-qaim---,S00164,劉思穎,083 91205798,gangfu@example.com,41495 台中自強路880號9樓
+156f192f-6504-4bbf-8a05-1f5be57eccb4,Suppliers/156f192f-6504-4bbf-8a05-1f5be57eccb4,_g1-qaiu---,S00165,牟淑惠,0998-878438,jingli@example.org,127 豐原縣學府巷48號之8
+54b66a54-e22c-4074-9eaa-b4802e40755f,Suppliers/54b66a54-e22c-4074-9eaa-b4802e40755f,_g1-qaiy---,S00166,劉郁雯,03-1764173,cjin@example.com,776 南投民生路13號之7
+f9e5e8bd-f8b7-4869-b00a-acbaa1553b6f,Suppliers/f9e5e8bd-f8b7-4869-b00a-acbaa1553b6f,_g1-qai2---,S00167,劉怡如,024 54763519,fang26@example.com,45699 北竿市大安巷85號1樓
+801aa45c-3d7a-4239-b9ec-574b0cbf086a,Suppliers/801aa45c-3d7a-4239-b9ec-574b0cbf086a,_g1-qai6---,S00168,陳宇軒,088 26206575,wei55@example.org,43389 北竿市建國路1號之1
+3225ef38-9416-438b-a72d-daa00b0f3a83,Suppliers/3225ef38-9416-438b-a72d-daa00b0f3a83,_g1-qajC---,S00169,朱信宏,04-1733893,xiulanjiang@example.com,212 基隆市中和巷4號之3
+b94827df-0964-4cef-8ecb-15567b4c4b60,Suppliers/b94827df-0964-4cef-8ecb-15567b4c4b60,_g1-qajG---,S00170,齊羽,0977550025,fang27@example.net,34584 竹田市民生路2段47號之7
+5cbdca72-26a1-4a9b-9dbc-68fc108fccfb,Suppliers/5cbdca72-26a1-4a9b-9dbc-68fc108fccfb,_g1-qajK---,S00171,林宜庭,0961-983587,fengxiuying@example.net,557 彰化石牌巷4號4樓
+b6f77aa0-dc7d-4b9d-9dc4-f64ae3200175,Suppliers/b6f77aa0-dc7d-4b9d-9dc4-f64ae3200175,_g1-qajS---,S00172,鄭信宏,0965-767583,maoyan@example.org,55401 太平縣民生路77號之3
+d7af33f0-4b8c-428f-bd18-7480f944a2aa,Suppliers/d7af33f0-4b8c-428f-bd18-7480f944a2aa,_g1-qajW---,S00173,常志偉,0970-981359,lei03@example.net,18517 褒忠文山路12號6樓
+ee6fa961-54ad-465a-a585-9495dee4fa79,Suppliers/ee6fa961-54ad-465a-a585-9495dee4fa79,_g1-qaja---,S00174,古佳蓉,0957115106,qiang33@example.net,26621 花蓮長安街796號7樓
+3c91a44f-94dd-4204-b5f6-ef24b29d4f73,Suppliers/3c91a44f-94dd-4204-b5f6-ef24b29d4f73,_g1-qaje---,S00175,劉惠雯,09-9036311,chao93@example.org,13059 嘉義土城路27號之3
+a751dfd8-a66f-4efa-83ff-207840401076,Suppliers/a751dfd8-a66f-4efa-83ff-207840401076,_g1-qaji---,S00176,王俊傑,09 6010452,yshen@example.net,276 台南永和街79號之8
+3b7827f2-4c2d-4a38-8d24-e964e45d746d,Suppliers/3b7827f2-4c2d-4a38-8d24-e964e45d746d,_g1-qajm---,S00177,陳龍,07 3158509,ntao@example.org,801 臺東縣民治巷41號之2
+4629fb72-ff58-4e33-a965-a67d05a4e172,Suppliers/4629fb72-ff58-4e33-a965-a67d05a4e172,_g1-qaju---,S00178,劉雅琪,0954-143736,tao85@example.org,58540 馬公劍潭路593號4樓
+e577c858-d651-44ef-80ab-5d13847a1262,Suppliers/e577c858-d651-44ef-80ab-5d13847a1262,_g1-qajy---,S00179,李佩珊,0921-820660,yantian@example.net,777 北港福德街64號之8
+2594ea4c-9c02-4335-9cf6-1eaabbc0a14c,Suppliers/2594ea4c-9c02-4335-9cf6-1eaabbc0a14c,_g1-qaj2---,S00180,袁志宏,01-61839066,fangmeng@example.com,398 中和市大橋頭路76號之1
+e902de6b-a963-418a-9da4-4aebabcb18f9,Suppliers/e902de6b-a963-418a-9da4-4aebabcb18f9,_g1-qaj6---,S00181,萬家瑋,(09) 86090265,ping18@example.org,31861 汐止市文山街319號1樓
+4c2458f2-dc96-45b9-ae7b-367ec030e3c3,Suppliers/4c2458f2-dc96-45b9-ae7b-367ec030e3c3,_g1-qak----,S00182,張雅芳,08 2930387,pinghuang@example.org,679 南投縣成功街34號0樓
+4fdf2f9f-b08f-4070-997a-39c38449a44a,Suppliers/4fdf2f9f-b08f-4070-997a-39c38449a44a,_g1-qakG---,S00183,朱怡安,060 80737600,jing03@example.com,414 梅山民生街70號4樓
+f9c0ccf7-3193-48bd-a2a7-f88eeb44c312,Suppliers/f9c0ccf7-3193-48bd-a2a7-f88eeb44c312,_g1-qakK---,S00184,王俊賢,09 8481566,fengming@example.net,99677 樹林土城路9號1樓
+aa5c9f68-31eb-424d-9551-97fac6ed5804,Suppliers/aa5c9f68-31eb-424d-9551-97fac6ed5804,_g1-qakS---,S00185,羅靜宜,048 32610206,tbai@example.org,731 嘉義縣國凱八德街72號1樓
+6ec33f23-0137-4790-8a75-da5e21210e3f,Suppliers/6ec33f23-0137-4790-8a75-da5e21210e3f,_g1-qakW---,S00186,梁淑芬,(07) 89557522,jingmo@example.net,530 樹林縣林森巷656號之6
+3587da3f-9cc9-4c0b-9389-eb0162d4b4d4,Suppliers/3587da3f-9cc9-4c0b-9389-eb0162d4b4d4,_g1-qake---,S00187,李鈺婷,082 14127247,shaomin@example.com,90180 板橋中央路8段71號之0
+d639bce1-0cf1-450f-b61f-8f42819416e1,Suppliers/d639bce1-0cf1-450f-b61f-8f42819416e1,_g1-qaki---,S00188,馮佳玲,(04) 14440150,yongyuan@example.org,22808 花蓮縣雙連巷95號之3
+0dcc34d5-b5bc-4f8a-b822-fd0bdeeaaa1b,Suppliers/0dcc34d5-b5bc-4f8a-b822-fd0bdeeaaa1b,_g1-qakq---,S00189,徐淑華,09 9426000,shiyang@example.com,152 花蓮太平巷806號之3
+36a928f9-b289-4157-82dd-f70dd12727e5,Suppliers/36a928f9-b289-4157-82dd-f70dd12727e5,_g1-qaky---,S00190,王心怡,07-42343983,lei55@example.org,84975 北竿迴龍街636號5樓
+f12770a3-f48e-4a38-a485-7d2dbc020bbe,Suppliers/f12770a3-f48e-4a38-a485-7d2dbc020bbe,_g1-qak2---,S00191,張志宏,(00) 90360724,xialiu@example.net,85205 頭份縣中央路640號9樓
+3db77826-a91e-4efe-847f-2dc689fc65b4,Suppliers/3db77826-a91e-4efe-847f-2dc689fc65b4,_g1-qal----,S00192,黃志偉,(01) 93349272,min17@example.com,19360 中和市中和街695號8樓
+f9025aa2-3b62-469f-9b0b-43a39584e37e,Suppliers/f9025aa2-3b62-469f-9b0b-43a39584e37e,_g1-qalC---,S00193,劉依婷,05-32529670,jwei@example.net,72319 光復天母巷6段319號之1
+b8e56f93-39e4-4ea7-acf3-1061cf7ce301,Suppliers/b8e56f93-39e4-4ea7-acf3-1061cf7ce301,_g1-qalG---,S00194,王依婷,0991-787363,pengwei@example.net,54976 太平市民生巷232號7樓
+f6eebec2-a0d2-43ec-a60d-cbb943393a4a,Suppliers/f6eebec2-a0d2-43ec-a60d-cbb943393a4a,_g1-qalO---,S00195,蔔佳慧,024 52407782,leijuan@example.org,672 新營縣文山巷89號5樓
+40fe2d4e-6f39-4bb2-a214-271aa2b64e4f,Suppliers/40fe2d4e-6f39-4bb2-a214-271aa2b64e4f,_g1-qalW---,S00196,李雅涵,0907-143762,gulei@example.net,14279 斗六縣光復街9段12號之7
+951d11de-273f-4d19-ac39-1602d5abc652,Suppliers/951d11de-273f-4d19-ac39-1602d5abc652,_g1-qala---,S00197,宋佳穎,096 72390547,juansong@example.com,99918 太保大勇巷2號9樓
+9b0d465a-e78b-4d0d-9c7b-0969ac1a5040,Suppliers/9b0d465a-e78b-4d0d-9c7b-0969ac1a5040,_g1-qale---,S00198,李鈺婷,(00) 75749279,xiulan24@example.com,82237 高雄天母街745號8樓
+bc750bea-ac6d-4731-9c6c-f9e9f6949066,Suppliers/bc750bea-ac6d-4731-9c6c-f9e9f6949066,_g1-qalm---,S00199,蘇婉婷,0963-973982,junyin@example.org,22693 牡丹縣大仁巷17號1樓
+121e7eab-ffc2-4dc3-822e-259e2955c056,Suppliers/121e7eab-ffc2-4dc3-822e-259e2955c056,_g1-qalq---,S00200,郭鈺婷,0980-587599,rlu@example.org,282 朴子市新莊路6段345號3樓
+7f4ed96e-c4b7-4c25-8452-65335db077d7,Suppliers/7f4ed96e-c4b7-4c25-8452-65335db077d7,_g1-qaly---,S00201,金馨儀,01-21914579,xiayao@example.com,47152 草屯忠孝街18號7樓
+3dd742db-8e2b-47fc-9522-d0413be75a7e,Suppliers/3dd742db-8e2b-47fc-9522-d0413be75a7e,_g1-qal2---,S00202,匡怡如,(06) 67555497,duanjie@example.org,148 台中縣萬隆街31號2樓
+eafaf287-57e4-47b1-94c6-5036a2edf68e,Suppliers/eafaf287-57e4-47b1-94c6-5036a2edf68e,_g1-qam----,S00203,胡宗翰,01 9623797,yongma@example.net,460 雲林市民族路1段1號之4
+415e0bca-99c0-4cf6-a268-4a366546dc0e,Suppliers/415e0bca-99c0-4cf6-a268-4a366546dc0e,_g1-qamC---,S00204,車馨儀,0992463898,chaosun@example.com,743 中壢民生街69號之0
+78af8ec7-e40c-45d4-b0a2-70c3c995d2b5,Suppliers/78af8ec7-e40c-45d4-b0a2-70c3c995d2b5,_g1-qamK---,S00205,袁家瑜,03 8618057,jing29@example.org,475 新竹華興路8號之3
+c7fee74f-a5bd-4968-8b9e-022363066280,Suppliers/c7fee74f-a5bd-4968-8b9e-022363066280,_g1-qamS---,S00206,蒙淑慧,083 18648234,swu@example.org,175 關山市奇岩街1號7樓
+f7024c78-4eb7-4e5e-b6a3-edcc8504c861,Suppliers/f7024c78-4eb7-4e5e-b6a3-edcc8504c861,_g1-qama---,S00207,李淑慧,033 83122492,cwan@example.org,795 北港縣新店路5號之4
+58b03ef7-773f-45d9-bf1a-91312d0f05c2,Suppliers/58b03ef7-773f-45d9-bf1a-91312d0f05c2,_g1-qame---,S00208,陶筱涵,04 5528861,thao@example.com,52396 竹田士林路7段13號7樓
+a23c533c-e978-4075-a493-9a3526ce4af9,Suppliers/a23c533c-e978-4075-a493-9a3526ce4af9,_g1-qami---,S00209,劉雅惠,(07) 22770555,fang37@example.org,430 新竹昆陽街688號8樓
+d42024cc-e4db-4e22-9b41-8b1c3f36c9b9,Suppliers/d42024cc-e4db-4e22-9b41-8b1c3f36c9b9,_g1-qamq---,S00210,戴筱涵,0944-869224,juan46@example.com,216 台中福安街1段114號之3
+40da3206-6389-4ae6-b11a-5f9b34f58602,Suppliers/40da3206-6389-4ae6-b11a-5f9b34f58602,_g1-qamu---,S00211,畢鈺婷,0977-717459,klei@example.net,255 嘉義光明街9段72號4樓
+94019e40-1422-479f-8778-6a2265b29bd1,Suppliers/94019e40-1422-479f-8778-6a2265b29bd1,_g1-qamy---,S00212,尹淑玲,0944338632,laifang@example.org,68880 朴子縣頂福州街2號0樓
+bc5d57ed-4cd2-4803-a16d-fc5fb923f19d,Suppliers/bc5d57ed-4cd2-4803-a16d-fc5fb923f19d,_g1-qam6---,S00213,範信宏,0957-405335,zengming@example.net,69141 鳳山市忠孝街4段1號2樓
+98d66e55-3eea-4af9-8577-af08bfc49a28,Suppliers/98d66e55-3eea-4af9-8577-af08bfc49a28,_g1-qan----,S00214,鄭宜庭,09 9455369,renmin@example.com,97114 橫山水源巷7段1號7樓
+5e9e9918-76d5-4018-9aad-83e173333c7d,Suppliers/5e9e9918-76d5-4018-9aad-83e173333c7d,_g1-qanG---,S00215,張傑克,096 39236926,wangjun@example.org,535 苗栗興街8段6號3樓
+4d3e42ef-c4eb-41f3-8a0a-fdaab5d66b9a,Suppliers/4d3e42ef-c4eb-41f3-8a0a-fdaab5d66b9a,_g1-qanK---,S00216,潘宇軒,(02) 64503395,shaojun@example.net,94433 橫山中興路5號9樓
+8bbf83b1-1196-44d9-b2a5-5f0733b0478f,Suppliers/8bbf83b1-1196-44d9-b2a5-5f0733b0478f,_g1-qanS---,S00217,王怡婷,01 5132140,guiyingxiong@example.net,510 草屯市光華巷69號5樓
+0aff4aba-d90e-43c6-ba65-75b08a04f425,Suppliers/0aff4aba-d90e-43c6-ba65-75b08a04f425,_g1-qanW---,S00218,姬冠霖,02-31102619,sunyan@example.com,98534 台中莒光路695號之1
+f6e1302a-f22f-4542-a223-92cc79aa1ba4,Suppliers/f6e1302a-f22f-4542-a223-92cc79aa1ba4,_g1-qana---,S00219,李龍,0910-708300,yan31@example.org,96451 褒忠中山路8號之3
+c05620d7-7c66-476a-9846-0b8f881d26c6,Suppliers/c05620d7-7c66-476a-9846-0b8f881d26c6,_g1-qani---,S00220,左淑慧,05 3550736,asu@example.com,736 八德縣成功路9號之6
+23511472-3b33-424f-b728-30372fff6045,Suppliers/23511472-3b33-424f-b728-30372fff6045,_g1-qanm---,S00221,張羽,06-9651477,yaoguiying@example.net,78043 卑南縣正義街885號之7
+fdb41bf0-1178-4a7c-9196-fc79e51829a1,Suppliers/fdb41bf0-1178-4a7c-9196-fc79e51829a1,_g1-qanu---,S00222,王家銘,09-48129605,ichang@example.org,895 屏東太平路80號8樓
+74f89453-822d-4d6f-a57e-031258927bfd,Suppliers/74f89453-822d-4d6f-a57e-031258927bfd,_g1-qany---,S00223,趙雅萍,(06) 25948378,xia18@example.com,16203 澎湖縣福德街299號6樓
+2448d395-9fbc-4535-b8b8-f3ebf0318cb5,Suppliers/2448d395-9fbc-4535-b8b8-f3ebf0318cb5,_g1-qan2---,S00224,張家瑜,02-73550402,renchao@example.net,75300 宜蘭市光明路296號之9
+57c4164b-edf7-4948-9923-fe5e98700c4b,Suppliers/57c4164b-edf7-4948-9923-fe5e98700c4b,_g1-qan6---,S00225,蒙雅慧,0941-088909,guojun@example.org,421 蘆洲福安街1號之5
+26644c23-7fe0-4fb2-a13d-b0359d834567,Suppliers/26644c23-7fe0-4fb2-a13d-b0359d834567,_g1-qaoC---,S00226,房中山,(07) 44600871,xia35@example.net,55077 三重市大勇巷48號之2
+a4c138e7-6986-4275-bcf1-bdea5d7fcd8f,Suppliers/a4c138e7-6986-4275-bcf1-bdea5d7fcd8f,_g1-qaoG---,S00227,林筱涵,019 20430956,wwu@example.org,44142 樹林縣博愛巷8號7樓
+75aa0d8c-a3b3-4168-bad4-a8988ef6a25f,Suppliers/75aa0d8c-a3b3-4168-bad4-a8988ef6a25f,_g1-qaoO---,S00228,徐俊傑,00-3996073,na56@example.com,29749 頭份大同路82號之4
+554e6c8e-54f9-402f-ac5a-37e2120fe28c,Suppliers/554e6c8e-54f9-402f-ac5a-37e2120fe28c,_g1-qaoS---,S00229,黃冠廷,0938-389827,mingfang@example.net,150 桃園福德路648號8樓
+a0110451-f134-44d3-a4a9-28efda4622b8,Suppliers/a0110451-f134-44d3-a4a9-28efda4622b8,_g1-qaoW---,S00230,李佳玲,05-47224872,yren@example.org,39808 彰化縣新興路777號之8
+f290f061-92e3-43d8-b0a5-f24c819b5938,Suppliers/f290f061-92e3-43d8-b0a5-f24c819b5938,_g1-qaoa---,S00231,高俊宏,076 49761962,min82@example.net,91269 板橋市士林巷6段4號5樓
+318c652c-bb3c-45a5-b5be-385cd1e9f3fe,Suppliers/318c652c-bb3c-45a5-b5be-385cd1e9f3fe,_g1-qaoi---,S00232,夏雅雯,07 7816944,fangzhang@example.com,70365 花蓮縣迴龍街199號1樓
+78d40cd7-3372-41af-b726-1c013e9e181f,Suppliers/78d40cd7-3372-41af-b726-1c013e9e181f,_g1-qaom---,S00233,王淑惠,(07) 29528455,minglu@example.net,993 關山中山街9號2樓
+304525d6-54de-4562-b2e7-d61db1af8610,Suppliers/304525d6-54de-4562-b2e7-d61db1af8610,_g1-qaoq---,S00234,周婉婷,05 3773718,xsong@example.com,96624 竹田德巷3號4樓
+975ed856-a428-4507-ac03-7bb888fedb1c,Suppliers/975ed856-a428-4507-ac03-7bb888fedb1c,_g1-qaoy---,S00235,滕雅琪,039 77475760,pwen@example.com,20726 永和市明德巷1段97號之2
+d912d59b-8183-4d68-8971-ed94530fc843,Suppliers/d912d59b-8183-4d68-8971-ed94530fc843,_g1-qao2---,S00236,蔡依婷,0997254264,yangyuan@example.net,109 板橋市新興巷49號之3
+d04ec36e-0185-42a9-9cce-7cc59e28104f,Suppliers/d04ec36e-0185-42a9-9cce-7cc59e28104f,_g1-qap----,S00237,劉雅婷,0974631244,lei55@example.com,58607 牡丹中華街9段9號之7
+8977c293-4715-426b-a8cc-380d139809a7,Suppliers/8977c293-4715-426b-a8cc-380d139809a7,_g1-qapC---,S00238,周馨儀,(00) 80125081,minlei@example.com,577 八德育英巷65號0樓
+a08d0c61-6337-4189-bab0-dd60bf685c6d,Suppliers/a08d0c61-6337-4189-bab0-dd60bf685c6d,_g1-qapK---,S00239,倪冠廷,037 94674965,zengna@example.com,28990 頭份大智巷2號2樓
+f6c00ed8-e005-49ff-9655-63953b2da9b2,Suppliers/f6c00ed8-e005-49ff-9655-63953b2da9b2,_g1-qapO---,S00240,吳沖,(06) 28112335,jchen@example.net,547 竹田小碧潭街661號1樓
+109e68ca-3907-40c3-bba2-338092db20a8,Suppliers/109e68ca-3907-40c3-bba2-338092db20a8,_g1-qapS---,S00241,姜靜宜,0951698982,mingzhou@example.com,957 褒忠市新埔路23號7樓
+60f8c5bf-2eda-4c9c-a2aa-2f2b6d595f7f,Suppliers/60f8c5bf-2eda-4c9c-a2aa-2f2b6d595f7f,_g1-qapa---,S00242,蕭詩婷,(00) 30493195,bjiang@example.net,81671 古坑松山路2段685號之0
+22b29263-bf6d-4120-a8a8-dac425b98200,Suppliers/22b29263-bf6d-4120-a8a8-dac425b98200,_g1-qape---,S00243,吳佩珊,0934750146,xiuyingsu@example.net,401 新竹關渡巷2號之0
+6e16ddfe-13b7-4fd5-9372-694ab30ac7d4,Suppliers/6e16ddfe-13b7-4fd5-9372-694ab30ac7d4,_g1-qapm---,S00244,楊宇軒,(00) 45675029,tye@example.org,291 朴子縣福安街54號7樓
+e717ed98-d4eb-41fd-88d8-805f6a0f6927,Suppliers/e717ed98-d4eb-41fd-88d8-805f6a0f6927,_g1-qapq---,S00245,劉淑惠,0977309920,guiyinghou@example.com,23334 白沙民治街65號之6
+3057b906-eb22-48a1-8546-3504445873fb,Suppliers/3057b906-eb22-48a1-8546-3504445873fb,_g1-qapu---,S00246,李家豪,025 41084374,yong81@example.net,302 北斗林森巷523號0樓
+5e77ed84-a312-434a-8d75-43ee8b596ee5,Suppliers/5e77ed84-a312-434a-8d75-43ee8b596ee5,_g1-qapy---,S00247,郭詩婷,01-40327728,li65@example.net,453 牡丹縣四維街8號之0
+2d2c9870-ebd8-4e50-8dd5-72e3149e2c66,Suppliers/2d2c9870-ebd8-4e50-8dd5-72e3149e2c66,_g1-qap6---,S00248,莫家豪,03-90326211,chaolei@example.org,54991 阿里山新莊巷1號之0
+79c1ad12-7e68-46aa-8932-92f1c269c14d,Suppliers/79c1ad12-7e68-46aa-8932-92f1c269c14d,_g1-qaq----,S00249,安怡婷,076 99083763,taokong@example.com,524 永和市西門街90號5樓
+ae366830-5685-41f8-bb4d-18da53ff81a7,Suppliers/ae366830-5685-41f8-bb4d-18da53ff81a7,_g1-qaqG---,S00250,劉雅萍,(00) 41389228,yongxie@example.com,207 新竹縣民權路103號之5
+11bafb0a-8c4c-4e7c-aa4b-0a47cd734fe3,Suppliers/11bafb0a-8c4c-4e7c-aa4b-0a47cd734fe3,_g1-qaqK---,S00251,胡雅涵,04-6688769,xiuyingqin@example.com,25451 嘉義紅樹林街39號1樓
+1ace6231-2d6f-4f61-a098-ab21a0c7ea17,Suppliers/1ace6231-2d6f-4f61-a098-ab21a0c7ea17,_g1-qaqO---,S00252,莊雅筑,019 19864469,yandong@example.com,15609 褒忠縣國凱八德路58號之8
+98b05960-a2fb-485d-9ef7-4938e1104ddd,Suppliers/98b05960-a2fb-485d-9ef7-4938e1104ddd,_g1-qaqS---,S00253,梁冠霖,0909-472421,qiangmeng@example.com,358 鳳山縣五福巷3號之4
+e221e7ce-d19e-4d7c-b699-197e54fa13ba,Suppliers/e221e7ce-d19e-4d7c-b699-197e54fa13ba,_g1-qaqa---,S00254,王佳慧,05-80356082,duchao@example.com,66279 臺東民生路4段7號0樓
+ae9882e1-3752-4f8a-8272-8df63e7a4a9d,Suppliers/ae9882e1-3752-4f8a-8272-8df63e7a4a9d,_g1-qaqe---,S00255,陳馨儀,0976-760917,luyang@example.org,11740 梅山公園巷9號4樓
+e9ec71d0-076a-4ade-9c92-c7bf10a93e50,Suppliers/e9ec71d0-076a-4ade-9c92-c7bf10a93e50,_g1-qaqm---,S00256,龐依婷,044 18377598,juanwan@example.org,182 汐止縣東興路79號5樓
+cd278a68-368c-4a9d-891f-baf2e0464115,Suppliers/cd278a68-368c-4a9d-891f-baf2e0464115,_g1-qaqq---,S00257,劉家瑜,0971561895,guoqiang@example.org,39983 雲林芝山街648號之0
+9034939f-f25e-4cc4-b91d-43a28c34f79b,Suppliers/9034939f-f25e-4cc4-b91d-43a28c34f79b,_g1-qaqy---,S00258,陳傑克,0917-848485,yuanli@example.net,53668 鳳山縣昆陽街78號之7
+9a993741-c55a-4d70-8a7c-40b0f45f5b69,Suppliers/9a993741-c55a-4d70-8a7c-40b0f45f5b69,_g1-qaq2---,S00259,張宗翰,04-8217930,lei02@example.org,973 光復市平和路50號之9
+e4ff45ca-a45c-4fa4-a056-18038e917eb8,Suppliers/e4ff45ca-a45c-4fa4-a056-18038e917eb8,_g1-qar----,S00260,王羽,0990-335491,lpan@example.org,777 光復市勝利路4段24號6樓
+c65eb27d-0485-4a6e-94eb-4fa07ff199c1,Suppliers/c65eb27d-0485-4a6e-94eb-4fa07ff199c1,_g1-qarC---,S00261,王雅文,0938-410407,liyan@example.org,72238 馬公市大同巷20號之0
+d67fccb3-6abe-4b69-b5fd-1ef17763c3de,Suppliers/d67fccb3-6abe-4b69-b5fd-1ef17763c3de,_g1-qarK---,S00262,李雅涵,0953424963,minxia@example.com,135 員林縣雙連巷2段975號之0
+19d6197c-3508-4854-acd7-d40a02f3c690,Suppliers/19d6197c-3508-4854-acd7-d40a02f3c690,_g1-qarO---,S00263,繆靜宜,(03) 11365372,xiazeng@example.org,26715 基隆市迴龍路2段365號之6
+31cfdb87-8d16-40de-aea2-6c1263c6f5f0,Suppliers/31cfdb87-8d16-40de-aea2-6c1263c6f5f0,_g1-qarS---,S00264,尚佳穎,073 72982451,tpeng@example.org,441 桃園縣新生巷4段105號3樓
+f3539106-c3f3-4d95-8291-d6a696f9686b,Suppliers/f3539106-c3f3-4d95-8291-d6a696f9686b,_g1-qara---,S00265,胡怡婷,08 5682840,xiuying48@example.org,54357 蘆洲新店巷2段96號2樓
+3a974ea5-213c-4b9c-afb0-d835c28aede8,Suppliers/3a974ea5-213c-4b9c-afb0-d835c28aede8,_g1-qare---,S00266,黃筱涵,052 52544677,qianchao@example.org,85113 樹林市林森路3號之5
+876a53f5-047a-4063-9ba4-aa44427acd1b,Suppliers/876a53f5-047a-4063-9ba4-aa44427acd1b,_g1-qari---,S00267,蔣懿,06-30791642,jun76@example.org,703 台東自由街9號之6
+40e6a39f-974c-40c6-b9a8-dad0f9225a5f,Suppliers/40e6a39f-974c-40c6-b9a8-dad0f9225a5f,_g1-qarq---,S00268,石怡如,0904-932975,minyuan@example.net,22726 永和市劍南巷49號之8
+767cc01b-fe0b-4fa5-97b5-a246ed69fe14,Suppliers/767cc01b-fe0b-4fa5-97b5-a246ed69fe14,_g1-qaru---,S00269,蘇冠霖,06-7185647,ping48@example.com,198 臺中正義街909號之1
+71693999-50c9-4005-9396-48620502b85d,Suppliers/71693999-50c9-4005-9396-48620502b85d,_g1-qary---,S00270,韋雅婷,0956-960841,liren@example.net,88374 斗六光復街77號7樓
+f8fcb861-64a4-4aac-bca2-ee9696206f16,Suppliers/f8fcb861-64a4-4aac-bca2-ee9696206f16,_g1-qar6---,S00271,張怡萱,06-64432670,isu@example.org,962 中和縣水源巷657號0樓
+a6f98e64-1a85-48d7-806c-067445a9ce01,Suppliers/a6f98e64-1a85-48d7-806c-067445a9ce01,_g1-qasK---,S00272,吳怡萱,0959-108850,yuantao@example.org,65348 古坑縣育英巷6號9樓
+01e37f81-a8e2-443e-a6be-82157813e319,Suppliers/01e37f81-a8e2-443e-a6be-82157813e319,_g1-qasO---,S00273,薄佩珊,05-3022179,rkang@example.net,92263 中壢北投巷7段1號9樓
+196c69d5-471b-4c8c-b619-2d1ae953c87d,Suppliers/196c69d5-471b-4c8c-b619-2d1ae953c87d,_g1-qasS---,S00274,王怡萱,(02) 22266472,tanglei@example.com,25678 中和市奇岩街5段760號之7
+529be0ed-5a4d-441c-8362-52983722ea3c,Suppliers/529be0ed-5a4d-441c-8362-52983722ea3c,_g1-qasa---,S00275,陳怡婷,0949922409,minlu@example.net,478 斗六縣中華巷66號之1
+fc150393-289e-4fad-a52c-f4a29de6db12,Suppliers/fc150393-289e-4fad-a52c-f4a29de6db12,_g1-qase---,S00276,金彥廷,0934611456,kdu@example.com,506 屏東新生街65號9樓
+09aaa17d-5f4a-4c6b-ae46-1b4bb2170304,Suppliers/09aaa17d-5f4a-4c6b-ae46-1b4bb2170304,_g1-qasm---,S00277,胡家瑋,02-4943556,yan30@example.com,232 員林動物園街195號之6
+918f8e36-5a4a-48be-8312-846fdf452f3d,Suppliers/918f8e36-5a4a-48be-8312-846fdf452f3d,_g1-qasq---,S00278,楊琬婷,080 62690200,mren@example.net,856 朴子市學府巷757號之2
+8b7243c0-98bd-4020-b9f3-2c90ecd7a54c,Suppliers/8b7243c0-98bd-4020-b9f3-2c90ecd7a54c,_g1-qasu---,S00279,段家豪,04-2820794,zhangtao@example.org,463 台北縣關渡街7段778號之5
+b0e499d5-4349-49e9-b171-51292232e5fc,Suppliers/b0e499d5-4349-49e9-b171-51292232e5fc,_g1-qasy---,S00280,潘詩涵,0956672322,jing14@example.org,160 八德永寧巷510號3樓
+fa3bf8d6-dd3c-40b3-9650-f6c30e7dd28c,Suppliers/fa3bf8d6-dd3c-40b3-9650-f6c30e7dd28c,_g1-qas6---,S00281,杜雅涵,0950417467,xiatian@example.net,333 草屯永安路11號0樓
+84963aa3-a7ec-49f2-95dc-f6a2a3437fdb,Suppliers/84963aa3-a7ec-49f2-95dc-f6a2a3437fdb,_g1-qat----,S00282,潘哲瑋,05-81550096,edai@example.org,38368 草屯縣奇岩街18號2樓
+8c98617a-3632-4df7-a734-ad3704d0ccea,Suppliers/8c98617a-3632-4df7-a734-ad3704d0ccea,_g1-qatG---,S00283,曹淑華,0962978187,tao32@example.net,20533 永康育英街69號0樓
+452e8be7-01fa-463d-9687-be9e2d031186,Suppliers/452e8be7-01fa-463d-9687-be9e2d031186,_g1-qatK---,S00284,張飛,0960-997595,jingli@example.org,56369 太平縣中山巷7號之3
+66f9abd6-e269-4a2f-96d7-86e69670aeb5,Suppliers/66f9abd6-e269-4a2f-96d7-86e69670aeb5,_g1-qatO---,S00285,董淑貞,0994-877840,sungang@example.com,60517 卑南縣大坪巷839號之8
+ffaec4fb-29bd-4400-843c-87181d88de09,Suppliers/ffaec4fb-29bd-4400-843c-87181d88de09,_g1-qatW---,S00286,楊冠廷,099 30174028,liyong@example.org,95715 屏東萬隆街894號2樓
+489ee7fd-5ba1-45a2-98dd-adc12e3cfd38,Suppliers/489ee7fd-5ba1-45a2-98dd-adc12e3cfd38,_g1-qata---,S00287,潘惠婷,052 72064138,jun19@example.net,42455 雲林市和街路97號1樓
+a8eaaf08-0c1e-47c7-8672-4e5dda7c0159,Suppliers/a8eaaf08-0c1e-47c7-8672-4e5dda7c0159,_g1-qate---,S00288,王雅文,0955566159,gangsu@example.net,136 蘆洲市民享路315號9樓
+aa76b7b2-3882-4143-8d5b-50abf9a26836,Suppliers/aa76b7b2-3882-4143-8d5b-50abf9a26836,_g1-qatm---,S00289,王佩珊,04-5037580,xiuyingma@example.com,628 台北縣新生巷28號之9
+517e7153-d27d-4d1a-8d2e-244f7172091a,Suppliers/517e7153-d27d-4d1a-8d2e-244f7172091a,_g1-qatq---,S00290,孫家銘,07-58589074,taoguiying@example.net,831 八德市北投巷1號之1
+9eb60076-9328-4564-9d6e-1c574979de29,Suppliers/9eb60076-9328-4564-9d6e-1c574979de29,_g1-qaty---,S00291,鄧琬婷,025 39161672,hwan@example.com,61543 頭份縣公園街971號5樓
+7f3a38f4-3688-49f7-aef0-2626ca47759c,Suppliers/7f3a38f4-3688-49f7-aef0-2626ca47759c,_g1-qat2---,S00292,張哲瑋,08-55336703,sunmin@example.com,135 朴子劍南街54號4樓
+04e6bf76-5d70-4684-9907-54c575f40aaf,Suppliers/04e6bf76-5d70-4684-9907-54c575f40aaf,_g1-qau----,S00293,王雅文,06-3508423,caiyong@example.com,530 新營縣光華路8號1樓
+80a12cf2-e405-4b85-bdf7-aa7cb78c7103,Suppliers/80a12cf2-e405-4b85-bdf7-aa7cb78c7103,_g1-qauC---,S00294,奚建宏,01 1450040,na86@example.org,27807 豐原市劍潭街4段4號之3
+faf68d6d-7006-4976-af93-9df077e71ffc,Suppliers/faf68d6d-7006-4976-af93-9df077e71ffc,_g1-qauK---,S00295,萬承翰,0911-768329,luotao@example.com,62851 褒忠縣建國街658號6樓
+6946e899-5cbf-48e1-a02b-21d3042ab015,Suppliers/6946e899-5cbf-48e1-a02b-21d3042ab015,_g1-qauO---,S00296,蔡雅慧,005 92079391,jietao@example.org,53706 永和明德街97號5樓
+410e2e23-6841-4209-a418-2b29a618162c,Suppliers/410e2e23-6841-4209-a418-2b29a618162c,_g1-qauS---,S00297,練信宏,0988-122503,yinxiuying@example.org,779 汐止大智街2號之8
+2c5a7a8a-6007-4576-b015-4d2350a71b17,Suppliers/2c5a7a8a-6007-4576-b015-4d2350a71b17,_g1-qauW---,S00298,李惠婷,026 74151241,lei99@example.org,42134 竹田市淡水巷88號7樓
+2f3a3304-f6ef-4a87-a7dd-2fc3b8a1c58a,Suppliers/2f3a3304-f6ef-4a87-a7dd-2fc3b8a1c58a,_g1-qaue---,S00299,張美玲,0940673413,juanhao@example.net,855 汐止大同街99號5樓
+87c4b197-2a56-46cd-a685-824f16f3efde,Suppliers/87c4b197-2a56-46cd-a685-824f16f3efde,_g1-qaui---,S00300,鄭志宏,06-8608821,vqian@example.org,813 橫山自由街63號之4
+c7535cd7-f65c-42e0-aaf7-93079351c0ca,Suppliers/c7535cd7-f65c-42e0-aaf7-93079351c0ca,_g1-qaum---,S00301,靳庭瑋,05-5474205,fang12@example.net,685 苗栗市象山街1段71號9樓
+2fab71aa-48ad-47e9-af88-bad6298c3867,Suppliers/2fab71aa-48ad-47e9-af88-bad6298c3867,_g1-qauq---,S00302,宋佳穎,030 54883516,penglei@example.com,782 草屯古亭巷3號之9
+5fe009d9-ae48-4ec3-8dd7-e56fac9bcbea,Suppliers/5fe009d9-ae48-4ec3-8dd7-e56fac9bcbea,_g1-qauu---,S00303,龍雅雯,0925-260192,wei12@example.org,754 竹北市新店巷5段3號之3
+e2432356-3d12-4015-8bbf-fb58e7fd0124,Suppliers/e2432356-3d12-4015-8bbf-fb58e7fd0124,_g1-qauy---,S00304,顧羽,(04) 17244075,qhu@example.com,283 馬公縣芝山街1號3樓
+dfb3ae71-690c-42a5-8f70-af49e9d8d5d2,Suppliers/dfb3ae71-690c-42a5-8f70-af49e9d8d5d2,_g1-qau6---,S00305,崔傑克,07-52968787,odai@example.net,74560 馬公市關渡巷78號之8
+f58bb093-2cee-4433-898b-09a862505142,Suppliers/f58bb093-2cee-4433-898b-09a862505142,_g1-qav----,S00306,徐家銘,(06) 77875786,fang75@example.com,45535 基隆自由街68號之5
+3ad8c6a3-865a-469d-bc80-07ba1c0f0e43,Suppliers/3ad8c6a3-865a-469d-bc80-07ba1c0f0e43,_g1-qavC---,S00307,朱柏翰,009 32702724,ajiang@example.org,149 桃園新生路629號9樓
+b479e709-a003-4e3c-a4f5-3e62b0107405,Suppliers/b479e709-a003-4e3c-a4f5-3e62b0107405,_g1-qavG---,S00308,尚淑玲,06-2048696,syuan@example.net,874 北斗市蘆洲路9號9樓
+e56a9347-ecc5-4b9b-8351-c3651da30252,Suppliers/e56a9347-ecc5-4b9b-8351-c3651da30252,_g1-qavK---,S00309,丁冠宇,02-9792001,ldu@example.org,559 新北市勝利街574號之3
+e514f0c3-27d1-4cb6-b16f-8878512010b6,Suppliers/e514f0c3-27d1-4cb6-b16f-8878512010b6,_g1-qavS---,S00310,謝佳穎,02 1789083,jie88@example.net,765 屏東縣中山街9段80號之3
+46876bb0-440a-4a8b-b795-da429ab68a25,Suppliers/46876bb0-440a-4a8b-b795-da429ab68a25,_g1-qavW---,S00311,褚哲瑋,04-5565291,hougang@example.com,306 台中長春路2段6號2樓
+fab8e9ef-10bc-4d57-ab50-c0def5ebafb2,Suppliers/fab8e9ef-10bc-4d57-ab50-c0def5ebafb2,_g1-qava---,S00312,顏家瑜,00-5190796,xieyang@example.com,778 台中光復街67號之8
+02f1ee3b-5917-4f2e-9ae3-9083be84e027,Suppliers/02f1ee3b-5917-4f2e-9ae3-9083be84e027,_g1-qave---,S00313,周惠雯,012 67466675,wanqiang@example.net,190 阿里山小碧潭巷9段910號之2
+6224e703-21bb-47d2-a9f7-6764e06aec5c,Suppliers/6224e703-21bb-47d2-a9f7-6764e06aec5c,_g1-qavi---,S00314,趙庭瑋,(06) 91524265,min95@example.com,298 板橋市景美巷3號之9
+0407f733-4f75-4a3e-a42c-9a2740390ed6,Suppliers/0407f733-4f75-4a3e-a42c-9a2740390ed6,_g1-qavm---,S00315,王欣怡,0919961679,songyang@example.com,146 北港縣紅樹林巷43號4樓
+7fb5881e-01d5-48c6-8d41-adfd2736abeb,Suppliers/7fb5881e-01d5-48c6-8d41-adfd2736abeb,_g1-qavq---,S00316,何俊傑,083 72100781,tlei@example.com,818 樹林縣水源路6號之9
+2a2ec610-ea8e-41cf-8265-a0dcf4a3b5ad,Suppliers/2a2ec610-ea8e-41cf-8265-a0dcf4a3b5ad,_g1-qavy---,S00317,周惠婷,08-84570038,pxiao@example.org,96939 馬公縣民權路1段51號之7
+ad6b7b56-feda-4189-9fde-8629585b6953,Suppliers/ad6b7b56-feda-4189-9fde-8629585b6953,_g1-qav2---,S00318,董佳蓉,053 74115427,chenyan@example.com,197 宜蘭縣和街街11號4樓
+9e3cce3e-ceaa-4936-8d52-90caa3c30380,Suppliers/9e3cce3e-ceaa-4936-8d52-90caa3c30380,_g1-qav6---,S00319,王佳蓉,0953-300577,zhugang@example.org,92163 花蓮新生巷21號之4
+a4131267-d22a-474f-b7f6-cb278df89fa2,Suppliers/a4131267-d22a-474f-b7f6-cb278df89fa2,_g1-qaw----,S00320,程美琪,0936-780832,lduan@example.org,85678 中和市民生路291號之3
+207a2a3f-c1ce-426b-94d0-a93b75cefe84,Suppliers/207a2a3f-c1ce-426b-94d0-a93b75cefe84,_g1-qawG---,S00321,李佳樺,0919455441,eyang@example.com,80431 大里市關渡巷675號9樓
+2263e96a-d373-4173-8f48-2ea54063f9ea,Suppliers/2263e96a-d373-4173-8f48-2ea54063f9ea,_g1-qawK---,S00322,戴怡婷,01 3791859,xiaoyong@example.net,74694 花蓮縣光華路58號6樓
+0ff3b532-6987-4f24-838e-52e1b277945f,Suppliers/0ff3b532-6987-4f24-838e-52e1b277945f,_g1-qawO---,S00323,李雅惠,084 90086224,yongcheng@example.com,38540 蘆洲市松山街6號3樓
+7ee7f194-5202-426f-a8e6-f4debe55c5fb,Suppliers/7ee7f194-5202-426f-a8e6-f4debe55c5fb,_g1-qawS---,S00324,楊飛,(04) 69036682,jiemo@example.org,406 桃園市華興街14號之8
+3d143f50-4991-49bd-8fa3-59e47d18ccf1,Suppliers/3d143f50-4991-49bd-8fa3-59e47d18ccf1,_g1-qawa---,S00325,林宜君,(03) 89210484,yan10@example.net,30361 彰化市龍山寺街8段6號0樓
+50a86698-4cca-4178-bf51-ecbcdc08e3b3,Suppliers/50a86698-4cca-4178-bf51-ecbcdc08e3b3,_g1-qawe---,S00326,孫怡婷,02 3696372,jingfan@example.com,62518 阿里山小碧潭路7號9樓
+89ea62c9-d52e-4b5b-ac08-82c08153b92b,Suppliers/89ea62c9-d52e-4b5b-ac08-82c08153b92b,_g1-qawi---,S00327,趙婷婷,03 8424967,rdai@example.com,45029 馬公市民生巷5號9樓
+1f357cca-d6c1-4c6b-9a51-28cba19d1fae,Suppliers/1f357cca-d6c1-4c6b-9a51-28cba19d1fae,_g1-qawm---,S00328,韓怡婷,(01) 79586733,liyi@example.org,263 新營淡水街454號5樓
+b3f71b6a-0f9c-4689-84c7-987f3f4081bb,Suppliers/b3f71b6a-0f9c-4689-84c7-987f3f4081bb,_g1-qawq---,S00329,王鈺婷,04-38200194,jingtao@example.org,345 竹北市博愛巷64號7樓
+07e6dea6-46d3-4142-8a33-e7ed1de560ec,Suppliers/07e6dea6-46d3-4142-8a33-e7ed1de560ec,_g1-qawu---,S00330,張慧君,007 99592662,xia69@example.com,767 澎湖民享巷2號之3
+970eaa7b-095c-491b-be81-80114d956b9d,Suppliers/970eaa7b-095c-491b-be81-80114d956b9d,_g1-qaw2---,S00331,劉美玲,0928-412252,shifang@example.net,960 竹田新生街21號7樓
+5f917110-b4c8-4280-86bd-e20b863b17d6,Suppliers/5f917110-b4c8-4280-86bd-e20b863b17d6,_g1-qaw6---,S00332,張雅涵,0934-016346,yaojie@example.net,28023 桃園縣大勇路800號1樓
+b380ac03-e621-42d3-bab2-0456504e77b9,Suppliers/b380ac03-e621-42d3-bab2-0456504e77b9,_g1-qax----,S00333,林柏翰,(09) 71746258,liugang@example.net,75978 臺中永和巷5號之5
+ff26c695-039a-4801-a7cd-0d2f9bcaf068,Suppliers/ff26c695-039a-4801-a7cd-0d2f9bcaf068,_g1-qaxG---,S00334,汪冠霖,03 3153125,fang61@example.org,368 頭份市文山巷22號2樓
+503a6170-e7b5-4827-9f9b-19872a1cb281,Suppliers/503a6170-e7b5-4827-9f9b-19872a1cb281,_g1-qaxK---,S00335,王宜庭,07-39657288,lfu@example.net,939 永和市關渡街727號之4
+b5a29b24-0631-4b33-8468-48c8ff330daa,Suppliers/b5a29b24-0631-4b33-8468-48c8ff330daa,_g1-qaxO---,S00336,王冠廷,04-25569149,xia09@example.net,67408 桃園石牌巷73號之4
+7024946e-8253-4ef3-a624-60bc67869a8d,Suppliers/7024946e-8253-4ef3-a624-60bc67869a8d,_g1-qaxS---,S00337,馮馨儀,07-44262385,wanyong@example.org,662 樹林民有街6號之7
+3476df50-0b1e-4bde-959d-217fd285cc36,Suppliers/3476df50-0b1e-4bde-959d-217fd285cc36,_g1-qaxW---,S00338,李瑋婷,(04) 35208352,jingguo@example.net,759 朴子縣中山街79號之6
+bb4e065a-46bf-49aa-a4f6-6e4faa439008,Suppliers/bb4e065a-46bf-49aa-a4f6-6e4faa439008,_g1-qaxe---,S00339,張琬婷,06 2552979,qiang80@example.net,588 牡丹縣正義街4號1樓
+387325f1-544e-4725-9825-5b99cbd3f6eb,Suppliers/387325f1-544e-4725-9825-5b99cbd3f6eb,_g1-qaxi---,S00340,周建宏,06 8658417,hexia@example.net,934 澎湖四維街5段759號之0
+560f9d01-ace8-4d9f-b9d1-3af92368ac3e,Suppliers/560f9d01-ace8-4d9f-b9d1-3af92368ac3e,_g1-qaxm---,S00341,李雅婷,07-6267185,renwei@example.org,309 嘉義市小碧潭路84號之3
+93e41253-76ff-4d21-b837-332aa76752f9,Suppliers/93e41253-76ff-4d21-b837-332aa76752f9,_g1-qaxq---,S00342,聞雅雯,04-81479569,yanlei@example.org,79020 豐原平和路1號之7
+2299fb5f-bd0f-4985-88e3-f5ede799702f,Suppliers/2299fb5f-bd0f-4985-88e3-f5ede799702f,_g1-qaxu---,S00343,李佳蓉,(06) 73019629,kli@example.net,428 楊梅新北投路164號2樓
+15aab503-b110-40d9-8fa0-ebcd5d52faba,Suppliers/15aab503-b110-40d9-8fa0-ebcd5d52faba,_g1-qaxy---,S00344,張雅雯,0979-998241,chaojiang@example.net,64355 臺東福德街4號7樓
+b069b988-0b5c-48db-a5fd-649304b75c1d,Suppliers/b069b988-0b5c-48db-a5fd-649304b75c1d,_g1-qax6---,S00345,王傑克,029 55222942,liaogang@example.org,373 台北市民享街8號2樓
+8d6e9ac5-ac1f-4e8d-a934-08433e5b2c18,Suppliers/8d6e9ac5-ac1f-4e8d-a934-08433e5b2c18,_g1-qayC---,S00346,李佩君,04-5058753,naxiao@example.net,429 桃園縣中和街2號7樓
+e989101b-3075-451d-b0a1-2cf68375609d,Suppliers/e989101b-3075-451d-b0a1-2cf68375609d,_g1-qayK---,S00347,寧宜君,05-9094486,na13@example.com,28479 蘆竹動物園巷23號之1
+4f8ea15f-d16a-45e2-8c98-7d70a0b7551a,Suppliers/4f8ea15f-d16a-45e2-8c98-7d70a0b7551a,_g1-qayO---,S00348,楊惠如,0970-855393,jiayang@example.net,92339 古坑縣頂福州路56號8樓
+ea4bbd81-008a-4742-82f1-32e4c1c125f6,Suppliers/ea4bbd81-008a-4742-82f1-32e4c1c125f6,_g1-qayS---,S00349,陳中山,021 86609217,mingzhang@example.org,199 蘆竹太平巷306號9樓
+a00fa3c8-d82a-4010-9445-559380a79f45,Suppliers/a00fa3c8-d82a-4010-9445-559380a79f45,_g1-qaya---,S00350,黃威廷,(05) 32605160,wei79@example.com,341 北斗民治巷9號之3
+72ab0045-1f0f-4468-8e29-0fb654777ac9,Suppliers/72ab0045-1f0f-4468-8e29-0fb654777ac9,_g1-qaye---,S00351,韓婷婷,0962-055093,junyao@example.org,195 桃園忠義巷1號之1
+1db0b839-1502-4c1f-a7bc-797690ee2b92,Suppliers/1db0b839-1502-4c1f-a7bc-797690ee2b92,_g1-qayi---,S00352,林怡君,0944-894586,lei38@example.net,85955 南投市象山路8段22號3樓
+97e353c2-0319-4262-b061-a2e88ae15d72,Suppliers/97e353c2-0319-4262-b061-a2e88ae15d72,_g1-qaym---,S00353,袁淑華,04-77001608,nayao@example.com,822 太平市太平巷47號6樓
+2bc8340c-01fb-46ed-8a82-a957e0f43e54,Suppliers/2bc8340c-01fb-46ed-8a82-a957e0f43e54,_g1-qayu---,S00354,張怡如,086 48543142,cyi@example.com,73787 中和雙連路166號之4
+90857ec6-c65d-4bb9-802d-a6559f0d2e91,Suppliers/90857ec6-c65d-4bb9-802d-a6559f0d2e91,_g1-qayy---,S00355,馬宜君,05 8953189,yongjia@example.org,613 台東縣光明街61號2樓
+0793de65-9676-4fb8-af3f-c9e151e7e20b,Suppliers/0793de65-9676-4fb8-af3f-c9e151e7e20b,_g1-qay6---,S00356,趙承翰,01-8698040,jie53@example.org,155 屏東國凱八德巷6號之7
+3fa1fb76-8697-46d1-b6b2-6d7d359f24e2,Suppliers/3fa1fb76-8697-46d1-b6b2-6d7d359f24e2,_g1-qaz----,S00357,李志偉,05-6838648,caotao@example.net,51345 基隆大坪路325號2樓
+ed31c6d1-45f1-4de6-98ca-6df6eff19fef,Suppliers/ed31c6d1-45f1-4de6-98ca-6df6eff19fef,_g1-qazC---,S00358,孔依婷,010 87797162,jieshen@example.org,901 竹北市永寧巷136號之9
+30df1350-30a0-4836-bc4e-3ae0826066c5,Suppliers/30df1350-30a0-4836-bc4e-3ae0826066c5,_g1-qazK---,S00359,王淑娟,0951-843427,pzheng@example.net,906 豐原新興路5段1號之0
+3f587e8e-4cdd-46a2-95fc-2332d1f6f0e5,Suppliers/3f587e8e-4cdd-46a2-95fc-2332d1f6f0e5,_g1-qazO---,S00360,盧佳蓉,(02) 96187590,yqiu@example.com,133 嘉義長春路768號之9
+ed026318-f827-43db-8eab-809c27c62c46,Suppliers/ed026318-f827-43db-8eab-809c27c62c46,_g1-qazS---,S00361,歐陽美琪,07-85127760,qiangye@example.org,931 太保縣自由街2號之1
+fa328cca-09a6-46d9-8859-3d4246c232ee,Suppliers/fa328cca-09a6-46d9-8859-3d4246c232ee,_g1-qaza---,S00362,廖佳蓉,00 6373757,guyang@example.net,53708 臺中市南街9段2號之9
+eb0248c0-4cd6-4552-9f32-27fc71f289a3,Suppliers/eb0248c0-4cd6-4552-9f32-27fc71f289a3,_g1-qaze---,S00363,孟淑芬,0946-352877,qiuping@example.com,60772 竹田興巷761號之5
+d5575425-cea5-4b48-a4f3-0d47cf0a6861,Suppliers/d5575425-cea5-4b48-a4f3-0d47cf0a6861,_g1-qazm---,S00364,梁淑華,05-31246330,igong@example.org,790 連江市忠義街5段41號1樓
+8d629ebb-ed4f-4283-91a4-d528fa040ccf,Suppliers/8d629ebb-ed4f-4283-91a4-d528fa040ccf,_g1-qazq---,S00365,竇怡如,00-62057948,fgu@example.com,710 北竿中正巷87號之5
+56216e72-4a3e-476a-a4f6-72f1f8a71032,Suppliers/56216e72-4a3e-476a-a4f6-72f1f8a71032,_g1-qazu---,S00366,蕭雅芳,(01) 23040514,guiyingyuan@example.net,57155 草屯民族巷5段35號9樓
+c9027d2d-b611-4773-8e0d-e9e68e05352b,Suppliers/c9027d2d-b611-4773-8e0d-e9e68e05352b,_g1-qaz2---,S00367,羅詩涵,(02) 99365049,fengjing@example.net,81702 新竹東興街3段6號3樓
+f203924b-19b8-4f33-9fab-270ef5acebc4,Suppliers/f203924b-19b8-4f33-9fab-270ef5acebc4,_g1-qaz6---,S00368,章雅芳,04-2180720,chao10@example.org,19551 苗栗景美巷2段6號之4
+fe78dc3f-6cc2-4094-8e5c-c57065c8b7a2,Suppliers/fe78dc3f-6cc2-4094-8e5c-c57065c8b7a2,_g1-qa0----,S00369,張怡如,(01) 49043968,rren@example.net,461 台東市新生路19號之0
+7a88131f-82a5-445b-97f0-9669037f7f1b,Suppliers/7a88131f-82a5-445b-97f0-9669037f7f1b,_g1-qa0G---,S00370,湯家瑋,0972-395679,li92@example.net,99174 三重市新店路64號6樓
+b703e2d2-e98a-412f-92e5-254200695e6b,Suppliers/b703e2d2-e98a-412f-92e5-254200695e6b,_g1-qa0K---,S00371,趙怡安,09-32408360,xiuyingdong@example.org,717 新營縣延平街1號之7
+200c20e9-2eff-4fc3-90ef-7aed24094f7b,Suppliers/200c20e9-2eff-4fc3-90ef-7aed24094f7b,_g1-qa0O---,S00372,徐美玲,(05) 50850178,xiulan55@example.org,113 高雄中興街97號之1
+ba188f6e-8c13-4247-aa06-808afee4c187,Suppliers/ba188f6e-8c13-4247-aa06-808afee4c187,_g1-qa0W---,S00373,陳雅筑,(02) 87408251,tao85@example.net,993 彰化民權路459號2樓
+1072c1ee-ceb8-4adf-9b6e-a75592355cec,Suppliers/1072c1ee-ceb8-4adf-9b6e-a75592355cec,_g1-qa0a---,S00374,黃怡如,08-7382020,hjiang@example.org,257 北斗縣永寧巷99號之4
+cea5219a-f8ac-43df-b645-2f715008718f,Suppliers/cea5219a-f8ac-43df-b645-2f715008718f,_g1-qa0e---,S00375,何怡安,(04) 12385467,ming15@example.net,75242 南投土城路8號之3
+3b37b265-aafe-4bd3-80aa-223c9924ed08,Suppliers/3b37b265-aafe-4bd3-80aa-223c9924ed08,_g1-qa0m---,S00376,朱惠如,0933-166225,emeng@example.org,733 樹林縣建國街355號之2
+a0e7e7db-9539-42cb-944b-16f6cdbff949,Suppliers/a0e7e7db-9539-42cb-944b-16f6cdbff949,_g1-qa0q---,S00377,孫家瑋,0951693263,tfan@example.net,89373 新北和平街6號之9
+700a7d1d-d871-4b9a-9c68-f49ba1f29135,Suppliers/700a7d1d-d871-4b9a-9c68-f49ba1f29135,_g1-qa0u---,S00378,李欣怡,087 89067221,cdong@example.com,190 阿里山市大同路6號之4
+11311057-6b4b-444f-bf0a-7d3d84dacd87,Suppliers/11311057-6b4b-444f-bf0a-7d3d84dacd87,_g1-qa02---,S00379,樂雅涵,0966812920,chaozhu@example.org,580 平鎮松山路3段116號之9
+f20527db-8901-4289-ba43-3aeaaaf64adc,Suppliers/f20527db-8901-4289-ba43-3aeaaaf64adc,_g1-qa06---,S00380,劉飛,06 9398343,tluo@example.org,33013 臺東市廣慈巷5號之6
+a277e43a-7828-4554-9f6c-02dc7b827ada,Suppliers/a277e43a-7828-4554-9f6c-02dc7b827ada,_g1-qa1----,S00381,楊慧君,0960-815014,fangguo@example.com,38853 白沙縣復興巷2號之7
+d1861d0e-86a6-4c6c-9001-43e965a2f296,Suppliers/d1861d0e-86a6-4c6c-9001-43e965a2f296,_g1-qa1G---,S00382,豐俊賢,038 53903179,chao94@example.net,384 南投新生街94號4樓
+a980ebab-3e62-4880-9394-331e7c096971,Suppliers/a980ebab-3e62-4880-9394-331e7c096971,_g1-qa1K---,S00383,張淑娟,04-71110743,yangxia@example.com,76531 北港市信義路69號之4
+557bc0c5-577b-4daa-88a1-9bfba7e70a59,Suppliers/557bc0c5-577b-4daa-88a1-9bfba7e70a59,_g1-qa1O---,S00384,陳威廷,0924-037794,pingyao@example.org,100 連江市關渡路91號9樓
+6c432360-b154-463f-80f8-fb98ede499e3,Suppliers/6c432360-b154-463f-80f8-fb98ede499e3,_g1-qa1W---,S00385,李琬婷,05 6498612,shiyan@example.net,67866 新竹縣昆陽巷44號之7
+e80afd31-92e2-4f14-ad6c-469bda3f85e2,Suppliers/e80afd31-92e2-4f14-ad6c-469bda3f85e2,_g1-qa1a---,S00386,劉琬婷,02-35132260,zqiao@example.net,144 光復士林巷27號之3
+71b4f599-ec7a-4ace-a9e4-f93054daaf8b,Suppliers/71b4f599-ec7a-4ace-a9e4-f93054daaf8b,_g1-qa1i---,S00387,黃俊賢,086 34331606,ming58@example.net,91898 蘆洲中山巷51號3樓
+1553b14b-f371-4659-9146-652cd376cf46,Suppliers/1553b14b-f371-4659-9146-652cd376cf46,_g1-qa1m---,S00388,黎怡安,08-12272106,na50@example.org,199 阿里山縣石牌巷2號之7
+b7dcb625-d5ba-4924-9926-d869dd356baa,Suppliers/b7dcb625-d5ba-4924-9926-d869dd356baa,_g1-qa1q---,S00389,王怡安,0930-412540,suyang@example.com,551 橫山五福路47號6樓
+19cbe729-dc28-4c0b-9d82-975b99411401,Suppliers/19cbe729-dc28-4c0b-9d82-975b99411401,_g1-qa1y---,S00390,朱承翰,02 8949111,zhongchao@example.net,49308 橫山育英路9段26號之3
+5e191886-59c1-4221-8041-2678d796600e,Suppliers/5e191886-59c1-4221-8041-2678d796600e,_g1-qa12---,S00391,孫威廷,0909-440411,gangyao@example.org,19615 南投縣大仁巷91號4樓
+179c89e6-e013-41de-846a-850696e65a7b,Suppliers/179c89e6-e013-41de-846a-850696e65a7b,_g1-qa2----,S00392,姚家瑋,01-2814988,guiying27@example.com,45590 台北縣中興路64號之3
+d1dcba06-bc7e-4202-a133-407b61d90890,Suppliers/d1dcba06-bc7e-4202-a133-407b61d90890,_g1-qa2C---,S00393,李冠霖,(02) 79650265,leilei@example.com,956 花蓮廣慈路9段6號2樓
+6100821c-3fe5-4ed6-824a-d6bf87a3081a,Suppliers/6100821c-3fe5-4ed6-824a-d6bf87a3081a,_g1-qa2K---,S00394,張冠廷,03 6446172,xuwei@example.com,26708 褒忠平和路668號9樓
+5fdca5bf-e5a4-4173-b152-ed55b41c07f7,Suppliers/5fdca5bf-e5a4-4173-b152-ed55b41c07f7,_g1-qa2O---,S00395,史怡如,023 80147707,mlei@example.net,90974 鳳山復興街27號2樓
+d4c17dd8-d66e-4232-99ce-3843ac395d63,Suppliers/d4c17dd8-d66e-4232-99ce-3843ac395d63,_g1-qa2S---,S00396,蔡俊宏,0970-532169,chengyan@example.net,775 三重縣福安路902號4樓
+186f1b8a-8992-47fa-b612-13005af84224,Suppliers/186f1b8a-8992-47fa-b612-13005af84224,_g1-qa2W---,S00397,劉飛,06-66812685,gangxiang@example.net,842 台北南路4號1樓
+f1d035e0-e6b0-41b4-bae9-8055ce75fcb0,Suppliers/f1d035e0-e6b0-41b4-bae9-8055ce75fcb0,_g1-qa2e---,S00398,郭佳玲,09-13141844,yinna@example.com,17718 三重文昌路118號3樓
+fbde6b47-2876-4b7c-a72e-f2eaffe99ec9,Suppliers/fbde6b47-2876-4b7c-a72e-f2eaffe99ec9,_g1-qa2i---,S00399,陳宇軒,0949-666368,xiuying24@example.org,47201 板橋迴龍巷198號6樓
+43aaa815-0a5a-4933-8f4b-a4b11bc14a5a,Suppliers/43aaa815-0a5a-4933-8f4b-a4b11bc14a5a,_g1-qa2m---,S00400,孫雅玲,0937-471589,tao76@example.net,896 台南四維路5號9樓
+c4182cd3-70fe-478f-97d3-a4c95eaaff1f,Suppliers/c4182cd3-70fe-478f-97d3-a4c95eaaff1f,_g1-qa2u---,S00401,李宗翰,0947-638864,tfang@example.com,574 豐原學府巷8號3樓
+9add2721-2b11-4122-9553-50d61f9459a6,Suppliers/9add2721-2b11-4122-9553-50d61f9459a6,_g1-qa22---,S00402,陳雅芳,03-78892593,gongna@example.com,697 宜蘭縣大仁巷6段13號之0
+c381a7b7-fd91-4011-af6f-0590ff39067c,Suppliers/c381a7b7-fd91-4011-af6f-0590ff39067c,_g1-qa26---,S00403,黃志豪,08-9501470,xiulan73@example.net,946 南投市文昌路43號2樓
+7848059d-4faa-43cd-9744-c3e600176cca,Suppliers/7848059d-4faa-43cd-9744-c3e600176cca,_g1-qa3C---,S00404,張鈺婷,06 2893166,chengyong@example.org,672 馬公光華巷6號之9
+7f40e85a-1040-4f89-9b41-3ea788d819f2,Suppliers/7f40e85a-1040-4f89-9b41-3ea788d819f2,_g1-qa3G---,S00405,顏雅琪,0921316269,dyao@example.net,161 屏東縣中和路4段664號之4
+327870ee-a9f1-4b51-8241-1c0f68ed295c,Suppliers/327870ee-a9f1-4b51-8241-1c0f68ed295c,_g1-qa3K---,S00406,蔣建宏,0922-064519,zhuqiang@example.org,127 白沙象山路4段89號6樓
+d4f83c2f-a7e6-455d-9396-cf4dc289adea,Suppliers/d4f83c2f-a7e6-455d-9396-cf4dc289adea,_g1-qa3S---,S00407,李婉婷,0929-405492,dongxia@example.net,775 橫山市中正巷94號之4
+0f07c3ba-2e5f-41c8-8f1b-e8f4723f70b1,Suppliers/0f07c3ba-2e5f-41c8-8f1b-e8f4723f70b1,_g1-qa3a---,S00408,譚俊宏,0993594253,na03@example.net,915 臺中西門街1號之4
+00b0da4e-a374-4641-ba5c-16ebf2dbd6f7,Suppliers/00b0da4e-a374-4641-ba5c-16ebf2dbd6f7,_g1-qa3i---,S00409,陳怡如,07-54732683,jxiao@example.org,672 臺中縣忠孝巷8號8樓
+05d3f3df-22ce-458c-8ca2-63879b9dc3ef,Suppliers/05d3f3df-22ce-458c-8ca2-63879b9dc3ef,_g1-qa3m---,S00410,傅慧君,0950-470525,guiyingdai@example.org,49311 永和頂福州巷4號之4
+2352536c-d12e-46d8-ad15-6eb5e602fa38,Suppliers/2352536c-d12e-46d8-ad15-6eb5e602fa38,_g1-qa3u---,S00411,陳淑華,03-34624136,chao51@example.com,71044 草屯縣四維街3號7樓
+108f0460-d5f6-488f-b44c-bd1108349e3e,Suppliers/108f0460-d5f6-488f-b44c-bd1108349e3e,_g1-qa3y---,S00412,黃佳玲,02-64423084,nachang@example.org,63972 橫山縣文化街60號9樓
+a5e7ba2f-1418-4dbb-956a-4dddbe9f243f,Suppliers/a5e7ba2f-1418-4dbb-956a-4dddbe9f243f,_g1-qa36---,S00413,邢婉婷,0915-604498,na79@example.org,912 朴子市永寧巷9號9樓
+025c952b-7889-436f-94e7-feaa83ab2c80,Suppliers/025c952b-7889-436f-94e7-feaa83ab2c80,_g1-qa4C---,S00414,陳雅琪,(08) 54253314,qyi@example.net,19019 三重頂福州巷5段57號之1
+31013793-e5d3-497c-a847-e5fe51b9f792,Suppliers/31013793-e5d3-497c-a847-e5fe51b9f792,_g1-qa4G---,S00415,鞠家銘,(04) 58512004,gdeng@example.org,716 關山縣奇岩巷7號5樓
+0eedb17a-e64c-4eb3-b480-6275ec7192f7,Suppliers/0eedb17a-e64c-4eb3-b480-6275ec7192f7,_g1-qa4K---,S00416,劉惠婷,0984667252,xiulangu@example.com,69826 新營市奇岩巷99號7樓
+cb9bd1fe-e44f-4e78-b942-0b6dc4675642,Suppliers/cb9bd1fe-e44f-4e78-b942-0b6dc4675642,_g1-qa4S---,S00417,傅沖,(05) 12237865,juntao@example.net,46867 豐原大同街1號之7
+46966c8d-07d5-43b9-8091-9d91b954c8ee,Suppliers/46966c8d-07d5-43b9-8091-9d91b954c8ee,_g1-qa4W---,S00418,李淑華,0926-904395,fchang@example.net,41214 梅山雙連街6號之3
+b7dee9ee-2f36-472b-a4bd-8f4ad71f8c47,Suppliers/b7dee9ee-2f36-472b-a4bd-8f4ad71f8c47,_g1-qa4e---,S00419,陳宇軒,0951-827682,htang@example.org,23375 新營公園街746號之6
+2ab3b52b-77e6-4148-8833-27d524401059,Suppliers/2ab3b52b-77e6-4148-8833-27d524401059,_g1-qa4i---,S00420,劉惠婷,03 6939982,chenggang@example.org,71298 彰化大仁巷1段478號1樓
+82a14031-45e4-4e70-9493-188c6e8f519e,Suppliers/82a14031-45e4-4e70-9493-188c6e8f519e,_g1-qa4m---,S00421,劉淑芬,0940351321,yaoyang@example.org,316 基隆縣文山路2號之0
+4ef37b97-aa9f-4904-83ba-4ab03de402f2,Suppliers/4ef37b97-aa9f-4904-83ba-4ab03de402f2,_g1-qa4u---,S00422,郭志偉,(05) 85805608,yigang@example.com,219 台南縣奇岩路57號之7
+d7ea20e6-e722-49cb-a543-c4eb2070cd86,Suppliers/d7ea20e6-e722-49cb-a543-c4eb2070cd86,_g1-qa4y---,S00423,李郁雯,0959499308,pcheng@example.net,299 古坑市大智街4段59號1樓
+3c9d3055-4240-4771-903a-68dfec574f77,Suppliers/3c9d3055-4240-4771-903a-68dfec574f77,_g1-qa46---,S00424,洪建宏,031 32136490,junzhang@example.org,98144 關山縣成功路2號0樓
+8866829c-7d26-4174-9fa5-18558d8513da,Suppliers/8866829c-7d26-4174-9fa5-18558d8513da,_g1-qa5C---,S00425,王志宏,00 1510902,li96@example.net,79331 新營大橋頭巷52號5樓
+2438075a-89e7-42d0-80d6-8ad3bbd0277e,Suppliers/2438075a-89e7-42d0-80d6-8ad3bbd0277e,_g1-qa5G---,S00426,鄭怡婷,00 7618100,xiulanyu@example.org,74156 北港大坪路82號7樓
+fa5e9617-e1ef-4ff6-8654-7bb4e7aac2b4,Suppliers/fa5e9617-e1ef-4ff6-8654-7bb4e7aac2b4,_g1-qa5K---,S00427,王志豪,00-6532850,qxiang@example.org,696 褒忠縣雙連巷7段8號之7
+dd569899-da82-47fb-abce-bcfc52d8cc4a,Suppliers/dd569899-da82-47fb-abce-bcfc52d8cc4a,_g1-qa5S---,S00428,孫怡如,(03) 97309174,pliu@example.com,71985 中和市興巷40號之6
+1424ab66-5122-4161-a5d3-7668cc8107dc,Suppliers/1424ab66-5122-4161-a5d3-7668cc8107dc,_g1-qa5W---,S00429,楊淑娟,06 2867523,juan23@example.net,88144 竹田縣長春路22號之1
+6da9b6e8-6906-4f7d-8b2e-1a26dbf70219,Suppliers/6da9b6e8-6906-4f7d-8b2e-1a26dbf70219,_g1-qa5e---,S00430,邱信宏,(08) 77077817,yang99@example.net,176 草屯縣南巷338號7樓
+607952ea-174b-4285-8bcd-3662456e0e3a,Suppliers/607952ea-174b-4285-8bcd-3662456e0e3a,_g1-qa5i---,S00431,俞佩君,(02) 50596116,wangming@example.com,37122 橫山北投巷1段9號之4
+8d6762e4-2981-4d03-b660-cf34ef075f4b,Suppliers/8d6762e4-2981-4d03-b660-cf34ef075f4b,_g1-qa5q---,S00432,黃淑惠,021 64876836,tanglei@example.com,540 汐止市民權路787號之8
+1c758e52-f59f-4f64-871d-0ed1616f90b0,Suppliers/1c758e52-f59f-4f64-871d-0ed1616f90b0,_g1-qa5u---,S00433,張佩君,0993-615821,ozou@example.com,321 桃園三民街402號6樓
+e823ef44-0f5f-4df9-99a5-7f9688d6524f,Suppliers/e823ef44-0f5f-4df9-99a5-7f9688d6524f,_g1-qa6----,S00434,李家瑜,07-5089743,kanggang@example.com,355 澎湖育英巷745號之9
+7351a3c2-4a69-4caf-b63d-152e4c9c5ee3,Suppliers/7351a3c2-4a69-4caf-b63d-152e4c9c5ee3,_g1-qa6C---,S00435,丁家瑋,07-2536906,yong44@example.net,17184 新竹市永和巷17號之4
+519d0fbd-42d2-4abb-9aec-9145bfcd2f2a,Suppliers/519d0fbd-42d2-4abb-9aec-9145bfcd2f2a,_g1-qa6K---,S00436,孫宇軒,0947-206489,qiaomin@example.net,70562 古坑縣新生路8號之6
+cf26be2f-a8a1-42c2-acbf-23ea0658c1de,Suppliers/cf26be2f-a8a1-42c2-acbf-23ea0658c1de,_g1-qa6O---,S00437,王宇軒,062 19481885,rlong@example.net,901 嘉義縣育英街647號9樓
+d3e9f2cf-7919-4c7b-83b0-fb119dbd9222,Suppliers/d3e9f2cf-7919-4c7b-83b0-fb119dbd9222,_g1-qa6W---,S00438,李雅萍,00-6084897,sunxia@example.net,44938 嘉義蘆洲路68號之4
+2b05a1b8-e7cb-4939-b6f8-5143209c9855,Suppliers/2b05a1b8-e7cb-4939-b6f8-5143209c9855,_g1-qa6a---,S00439,方雅玲,02-5349439,yanlong@example.net,265 雲林縣太平路8號3樓
+9b8980cb-f698-40eb-b310-a8f4e712fd6e,Suppliers/9b8980cb-f698-40eb-b310-a8f4e712fd6e,_g1-qa6i---,S00440,姚家豪,(06) 81827920,rliang@example.net,128 臺東縣永和巷33號3樓
+a9e045ff-f421-45d2-a188-9ffdd164f02e,Suppliers/a9e045ff-f421-45d2-a188-9ffdd164f02e,_g1-qa6m---,S00441,歐家瑜,00-9819211,daina@example.org,386 平鎮縣劍南巷4號5樓
+e722072d-dc0e-4018-8892-3649d466a8e6,Suppliers/e722072d-dc0e-4018-8892-3649d466a8e6,_g1-qa6u---,S00442,劉怡婷,0976054545,juan69@example.org,618 竹北奇岩路6號1樓
+30f50519-8fd6-4f60-8f68-59542c62416c,Suppliers/30f50519-8fd6-4f60-8f68-59542c62416c,_g1-qa6y---,S00443,郭淑貞,005 61754312,guiying52@example.net,502 北港縣昆陽路553號3樓
+610118a6-3ad2-4dc2-bdcb-e79a8c668733,Suppliers/610118a6-3ad2-4dc2-bdcb-e79a8c668733,_g1-qa66---,S00444,岑中山,0922903487,gyan@example.net,48717 馬公縣忠義巷4段6號之4
+21ea1bda-75be-4f37-8889-f5116d10dfbd,Suppliers/21ea1bda-75be-4f37-8889-f5116d10dfbd,_g1-qa7----,S00445,高佳玲,08 1676657,caoping@example.org,10265 台東縣正義街981號0樓
+9c9d2f6d-52e5-42d8-94b5-458920f03226,Suppliers/9c9d2f6d-52e5-42d8-94b5-458920f03226,_g1-qa7C---,S00446,邵靜宜,(01) 24274238,fhe@example.org,46412 花蓮縣林森街8段542號之4
+a634d26e-be34-44ed-99e2-bf19b32bdfd9,Suppliers/a634d26e-be34-44ed-99e2-bf19b32bdfd9,_g1-qa7K---,S00447,石家豪,0967655119,weimo@example.com,32154 板橋市文山巷8號6樓
+f5c53e4e-c746-48e1-826a-815380f534ba,Suppliers/f5c53e4e-c746-48e1-826a-815380f534ba,_g1-qa7O---,S00448,張依婷,06-29546018,na18@example.com,64654 北港市關渡街5段30號之9
+b839a96f-7503-41a1-8ade-b7dae0a783d8,Suppliers/b839a96f-7503-41a1-8ade-b7dae0a783d8,_g1-qa7W---,S00449,樊家瑋,04-58549266,yongye@example.com,145 永康迴龍街482號之0
+441e5d88-538a-4e03-ac1a-4f878fdc3650,Suppliers/441e5d88-538a-4e03-ac1a-4f878fdc3650,_g1-qa7a---,S00450,羅怡萱,063 47781559,junlu@example.com,639 桃園新興巷9號1樓
+61dd63c3-c44e-479d-a5b8-579911a17587,Suppliers/61dd63c3-c44e-479d-a5b8-579911a17587,_g1-qa7i---,S00451,甘詩婷,030 10357980,juan55@example.org,82790 新竹東湖路5號6樓
+448cce3c-aa9a-424d-9bcd-ad7b1bf6746f,Suppliers/448cce3c-aa9a-424d-9bcd-ad7b1bf6746f,_g1-qa7m---,S00452,陳志豪,0982-519389,cuina@example.com,243 永和中興街5段192號之2
+e97ab648-5010-4222-9368-07b795a4c146,Suppliers/e97ab648-5010-4222-9368-07b795a4c146,_g1-qa7q---,S00453,鞠佩珊,0952-114812,xye@example.com,80330 褒忠縣南巷13號5樓
+5b5c2f9a-860c-4580-bcd7-d7304d25be92,Suppliers/5b5c2f9a-860c-4580-bcd7-d7304d25be92,_g1-qa7u---,S00454,馬柏翰,093 44373376,ilu@example.org,218 北港縣雙連街5段573號0樓
+17d798cf-72c9-4356-ac01-24a2793042c6,Suppliers/17d798cf-72c9-4356-ac01-24a2793042c6,_g1-qa72---,S00455,姜宜君,06-8242585,xiulanxiao@example.com,342 太平復興路8號7樓
+387395aa-a032-4f1f-89b6-f0f4f3549c00,Suppliers/387395aa-a032-4f1f-89b6-f0f4f3549c00,_g1-qa76---,S00456,駱雅筑,06 8222113,luojun@example.org,37012 樹林市中華巷6號之6
+8bc3a6d4-b72d-4180-913f-4d8e6cbb98ee,Suppliers/8bc3a6d4-b72d-4180-913f-4d8e6cbb98ee,_g1-qa8----,S00457,陳雅慧,0961390763,zhujing@example.org,646 汐止育英街345號6樓
+94a09d19-b806-4f65-b8f0-a52e3c1c7b4e,Suppliers/94a09d19-b806-4f65-b8f0-a52e3c1c7b4e,_g1-qa8C---,S00458,蔣彥廷,030 70999219,zcao@example.com,734 朴子大安巷782號之4
+e8441251-6fe6-438b-9e85-fa01bc5fe132,Suppliers/e8441251-6fe6-438b-9e85-fa01bc5fe132,_g1-qa8G---,S00459,蔡家瑜,0915-827004,yangchen@example.org,48368 斗六市迴龍街8號9樓
+b2b32012-54a5-463d-bce0-45f93526ec4d,Suppliers/b2b32012-54a5-463d-bce0-45f93526ec4d,_g1-qa8O---,S00460,艾嘉玲,01-7702623,hlai@example.org,27988 桃園三民街543號之1
+05f50aaa-6ec4-40db-9d7c-7c5208fa4ebf,Suppliers/05f50aaa-6ec4-40db-9d7c-7c5208fa4ebf,_g1-qa8S---,S00461,劉雅文,0989808954,tao96@example.com,60051 南投光華路506號之8
+4360a250-c694-4bea-a000-9c322d960698,Suppliers/4360a250-c694-4bea-a000-9c322d960698,_g1-qa8W---,S00462,余雅婷,03-9403036,guiying52@example.com,94079 北斗忠孝路38號8樓
+13281557-41ed-4630-805f-5f233c72c23e,Suppliers/13281557-41ed-4630-805f-5f233c72c23e,_g1-qa8a---,S00463,余飛,0994-046674,guiyinghu@example.net,412 關山光復巷4段4號之1
+5303a458-38b6-4405-b12c-c40d2503b008,Suppliers/5303a458-38b6-4405-b12c-c40d2503b008,_g1-qa8e---,S00464,張志豪,0952-412777,liangyan@example.com,37523 竹田南巷893號之3
+aa4f2323-06bc-41e0-a69e-567bfe3868a3,Suppliers/aa4f2323-06bc-41e0-a69e-567bfe3868a3,_g1-qa8m---,S00465,武宜君,(00) 81987669,edong@example.org,84709 鳳山光明巷359號之9
+2f7d9727-a787-4a7f-a077-b163d12dd8d0,Suppliers/2f7d9727-a787-4a7f-a077-b163d12dd8d0,_g1-qa8q---,S00466,陳羽,05-35743458,wei41@example.net,36135 嘉義縣信義街90號4樓
+cf374e8c-0b1e-45a6-abfc-6e0281113dc2,Suppliers/cf374e8c-0b1e-45a6-abfc-6e0281113dc2,_g1-qa8u---,S00467,陸慧君,06 6061146,leizhao@example.org,803 蘆洲市光明巷91號之7
+27ca773d-1e1c-4ee4-af33-751a047bf856,Suppliers/27ca773d-1e1c-4ee4-af33-751a047bf856,_g1-qa8y---,S00468,羅雅萍,02-5355224,nzeng@example.com,436 豐原縣新興街3號7樓
+d14e19de-668e-46e0-8e31-9793796de5bd,Suppliers/d14e19de-668e-46e0-8e31-9793796de5bd,_g1-qa82---,S00469,安宗翰,(02) 35310416,yan78@example.org,359 太保市新北投路3號3樓
+5f1d1042-8845-416c-88ad-108a58a2d18c,Suppliers/5f1d1042-8845-416c-88ad-108a58a2d18c,_g1-qa86---,S00470,馬雅玲,071 71533195,fengyang@example.org,842 桃園五福巷3號1樓
+1dd5b9a9-cff6-41c2-a5a5-092552c8ac03,Suppliers/1dd5b9a9-cff6-41c2-a5a5-092552c8ac03,_g1-qa9----,S00471,朱靜宜,018 56371223,guiying63@example.org,68060 中壢縣昆陽路3號3樓
+438d1396-3662-4eee-93b2-f987858daac9,Suppliers/438d1396-3662-4eee-93b2-f987858daac9,_g1-qa9C---,S00472,嶽庭瑋,0945-692455,jingkong@example.com,88962 卑南縣動物園巷9號7樓
+574ca628-d937-44bb-b889-16d58831c8af,Suppliers/574ca628-d937-44bb-b889-16d58831c8af,_g1-qa9G---,S00473,孫雅萍,005 38709717,kliao@example.org,142 新竹縣新興巷5段7號5樓
+9136ff98-e838-404b-9361-afe6150173b7,Suppliers/9136ff98-e838-404b-9361-afe6150173b7,_g1-qa9O---,S00474,陳郁婷,05 4619550,bxia@example.com,96916 白沙新生巷31號8樓
+386fe57b-3b9e-4376-a5ec-2d7891b188bb,Suppliers/386fe57b-3b9e-4376-a5ec-2d7891b188bb,_g1-qa9S---,S00475,劉怡婷,08-37968268,ideng@example.com,312 北港民族路442號之0
+4e726e78-a4ab-4a24-9c10-9244b4a1b07d,Suppliers/4e726e78-a4ab-4a24-9c10-9244b4a1b07d,_g1-qa9W---,S00476,周宜君,07-92946188,pingqiao@example.net,41431 平鎮新埔路40號8樓
+aca6b17b-8a17-4ed7-9010-f6d3a4d365b5,Suppliers/aca6b17b-8a17-4ed7-9010-f6d3a4d365b5,_g1-qa9a---,S00477,莫馨儀,0967946756,cuiguiying@example.net,73321 斗六市松山路6號2樓
+b7c774e8-c2d5-4c9f-8031-e86fffe498d5,Suppliers/b7c774e8-c2d5-4c9f-8031-e86fffe498d5,_g1-qa9e---,S00478,邱柏翰,05-4548265,guping@example.net,56717 南投莒光巷362號之6
+935dd655-f8ae-4fd0-bf67-b305c0000544,Suppliers/935dd655-f8ae-4fd0-bf67-b305c0000544,_g1-qa9i---,S00479,謝俊賢,0917794830,yongyuan@example.net,52996 新竹成功街8號之4
+e258a255-b9e8-4d8a-b19a-ecdd1bd31e99,Suppliers/e258a255-b9e8-4d8a-b19a-ecdd1bd31e99,_g1-qa9q---,S00480,邢怡如,0955751073,mlin@example.net,96642 大里縣新北投街3段341號之6
+51316138-91e2-4672-aa67-0296e6f11722,Suppliers/51316138-91e2-4672-aa67-0296e6f11722,_g1-qa9u---,S00481,虞惠婷,(05) 84221269,qiangxu@example.net,65684 永和景美路3號之4
+809f264a-717a-4bdf-ba39-93622df109e9,Suppliers/809f264a-717a-4bdf-ba39-93622df109e9,_g1-qa9y---,S00482,王俊傑,02-78616936,guiying45@example.com,896 澎湖市奇岩街14號3樓
+6d1bc40b-8702-42ec-9eb8-e4bf372d0cf0,Suppliers/6d1bc40b-8702-42ec-9eb8-e4bf372d0cf0,_g1-qa92---,S00483,王靜怡,(03) 65886935,jun55@example.net,883 臺東市新生巷1號之0
+17110cfb-741f-47fb-834f-1827c12f7574,Suppliers/17110cfb-741f-47fb-834f-1827c12f7574,_g1-qb-----,S00484,盧佳穎,083 74316627,jing61@example.net,575 豐原縣古亭街816號5樓
+d40cb12d-b482-4961-afc0-1f87bc75062a,Suppliers/d40cb12d-b482-4961-afc0-1f87bc75062a,_g1-qb-C---,S00485,朱淑華,08-89550270,li66@example.com,182 永和縣大勇巷71號之3
+9d9a45da-ae09-4c8c-ad30-a782414cf0b0,Suppliers/9d9a45da-ae09-4c8c-ad30-a782414cf0b0,_g1-qb-G---,S00486,馬淑慧,0941-537647,xiuying74@example.org,99483 竹北縣永安巷5段55號7樓
+4e30acd0-7c56-4440-9cd4-c17c90d305a9,Suppliers/4e30acd0-7c56-4440-9cd4-c17c90d305a9,_g1-qb-K---,S00487,曾思穎,07-7054797,yansun@example.com,38705 竹北五福巷1段18號之5
+609e8c7a-0853-4863-821b-5067cafc297e,Suppliers/609e8c7a-0853-4863-821b-5067cafc297e,_g1-qb-O---,S00488,黃淑芬,02-24688141,tao95@example.org,62761 馬公新生路575號8樓
+5950d95e-bd0f-4894-9230-9ecede1e16a5,Suppliers/5950d95e-bd0f-4894-9230-9ecede1e16a5,_g1-qb-S---,S00489,李怡君,0933-951400,juantang@example.net,563 楊梅民富街2段388號1樓
+b051824c-ad6e-4a13-86ab-76362ff505be,Suppliers/b051824c-ad6e-4a13-86ab-76362ff505be,_g1-qb-W---,S00490,袁雅慧,000 45545576,fshao@example.net,510 台南民有街3號4樓
+41c9d2fd-f7e8-417e-9bbb-3d74e04682a4,Suppliers/41c9d2fd-f7e8-417e-9bbb-3d74e04682a4,_g1-qb-a---,S00491,朱宜君,0965130281,taojun@example.net,93686 永康市土城巷8號之1
+bb7c3b2f-09bc-4672-b52a-f52c34140764,Suppliers/bb7c3b2f-09bc-4672-b52a-f52c34140764,_g1-qb-i---,S00492,黃雅雯,04-63887052,ytao@example.org,861 牡丹四維街99號之5
+fcbe9176-e97e-485d-be02-508bc39e20e7,Suppliers/fcbe9176-e97e-485d-be02-508bc39e20e7,_g1-qb-m---,S00493,張雅慧,03-56114732,xiuyingmeng@example.org,13840 鳳山劍潭巷7號3樓
+44dd8629-dadd-41a5-9628-5b8596830a9a,Suppliers/44dd8629-dadd-41a5-9628-5b8596830a9a,_g1-qb-u---,S00494,張冠霖,01-4192405,tao02@example.net,55737 板橋光復路72號之1
+901a8538-6bde-40a9-ba74-dae5610893ca,Suppliers/901a8538-6bde-40a9-ba74-dae5610893ca,_g1-qb-y---,S00495,鄧傑克,001 35132256,rzou@example.com,740 斗六縣大勇路6號7樓
+f2978ccd-1787-4ba4-8106-721657289949,Suppliers/f2978ccd-1787-4ba4-8106-721657289949,_g1-qb-6---,S00496,鄭靜宜,0934-316792,axia@example.org,547 平鎮自由巷461號之9
+a94a06c7-8fc8-48ae-8a32-34f19bde8a17,Suppliers/a94a06c7-8fc8-48ae-8a32-34f19bde8a17,_g1-qb_----,S00497,李佩君,07-44292070,yuqiang@example.com,128 北竿中央巷754號5樓
+dee6ade1-9547-48da-bfeb-9ee2b0461c5f,Suppliers/dee6ade1-9547-48da-bfeb-9ee2b0461c5f,_g1-qb_C---,S00498,玉惠雯,0950-976558,dhan@example.com,346 花蓮太平街4號之2
+eee7313e-174d-4978-88f0-923901e04fcb,Suppliers/eee7313e-174d-4978-88f0-923901e04fcb,_g1-qb_K---,S00499,張怡婷,00 4701559,gongming@example.com,81694 牡丹市育英巷340號之1
+01b8bd20-c40f-4f34-8aa9-a1bdb26e5f89,Suppliers/01b8bd20-c40f-4f34-8aa9-a1bdb26e5f89,_g1-qb_S---,S00500,吳婷婷,0969-825334,cuichao@example.org,99945 板橋縣德路269號8樓
+3bafc9b1-698c-4b94-80de-dd8f667af2f5,Suppliers/3bafc9b1-698c-4b94-80de-dd8f667af2f5,_g1-qb_W---,S00501,張嘉玲,08 4832564,dqiao@example.com,257 橫山縣莒光路1號之9
+e935c27a-3d6a-4092-a2cd-3b181b948f75,Suppliers/e935c27a-3d6a-4092-a2cd-3b181b948f75,_g1-qb_a---,S00502,韋龍,(03) 31614997,ktao@example.net,94761 基隆市松山路6段53號之5
+01c481fb-c054-49d6-8ed4-a0b503bcb4fe,Suppliers/01c481fb-c054-49d6-8ed4-a0b503bcb4fe,_g1-qb_i---,S00503,張欣怡,020 53068545,tao59@example.com,580 古坑古亭路74號之9
+fd2a9e7e-ef56-449d-abeb-488c167f7c16,Suppliers/fd2a9e7e-ef56-449d-abeb-488c167f7c16,_g1-qb_m---,S00504,張宜君,0982-796561,yan71@example.com,39095 汐止縣中和路30號之4
+d0aaf11e-f8fb-48a0-b04d-ba39bbebbac8,Suppliers/d0aaf11e-f8fb-48a0-b04d-ba39bbebbac8,_g1-qb_u---,S00505,鄧怡如,07 6354492,qshi@example.com,99512 新營市中華街46號1樓
+a874f813-a49f-49ca-9569-a58924d0f69c,Suppliers/a874f813-a49f-49ca-9569-a58924d0f69c,_g1-qb_2---,S00506,周佳樺,043 34651254,cchang@example.net,158 宜蘭縣萬隆巷7段7號2樓
+44f08d7b-86ee-4fc5-9faf-5076f1dc01ee,Suppliers/44f08d7b-86ee-4fc5-9faf-5076f1dc01ee,_g1-qb_6---,S00507,方志宏,02 5470063,wxiong@example.net,79339 太平市大安巷10號之7
+8a31f144-ed1e-4a02-a1cb-7b5851480856,Suppliers/8a31f144-ed1e-4a02-a1cb-7b5851480856,_g1-qbAC---,S00508,傅怡伶,005 36761789,fangcao@example.org,22349 屏東縣華興街6段244號4樓
+58772fb5-f095-4a2f-a3bd-e5adc3300388,Suppliers/58772fb5-f095-4a2f-a3bd-e5adc3300388,_g1-qbAG---,S00509,李淑娟,04-29326330,tao99@example.org,19177 牡丹市新店巷96號9樓
+86fa08ca-f2b9-42ed-8b6c-74ac34f0b9d8,Suppliers/86fa08ca-f2b9-42ed-8b6c-74ac34f0b9d8,_g1-qbAO---,S00510,劉彥廷,042 11841512,sunjuan@example.com,26038 草屯民治街6號之9
+a6a4cb08-9d14-40d2-928b-f9429b7e8fb8,Suppliers/a6a4cb08-9d14-40d2-928b-f9429b7e8fb8,_g1-qbAS---,S00511,王淑芬,0999637798,pmo@example.net,825 桃園大智街9號之6
+6b517fda-f6e3-4549-98f3-742b35ba2a40,Suppliers/6b517fda-f6e3-4549-98f3-742b35ba2a40,_g1-qbAW---,S00512,周懿,(01) 30271046,gaomin@example.com,89302 北港三民路1號4樓
+4bcc3455-0299-4254-aa44-da2a5dce6f98,Suppliers/4bcc3455-0299-4254-aa44-da2a5dce6f98,_g1-qbAe---,S00513,王怡婷,08 2541049,duanxiulan@example.com,19776 關山縣紅樹林路49號之4
+7b58dbc2-05b2-4b13-b40a-79266f75e4fa,Suppliers/7b58dbc2-05b2-4b13-b40a-79266f75e4fa,_g1-qbAi---,S00514,張惠婷,(06) 28892985,chao02@example.net,52365 桃園縣新莊巷9段9號9樓
+6f033320-b4e4-43ee-9954-84976f72136f,Suppliers/6f033320-b4e4-43ee-9954-84976f72136f,_g1-qbAq---,S00515,耿家銘,00 6250638,hanjun@example.com,47383 汐止市新生街1號6樓
+65cb1862-a516-404e-929c-32399672fc52,Suppliers/65cb1862-a516-404e-929c-32399672fc52,_g1-qbAy---,S00516,徐靜宜,(08) 46198864,wenxia@example.net,546 臺中蘆洲路24號0樓
+2788241b-8844-42cd-8fb2-aaf3e1c8c8d7,Suppliers/2788241b-8844-42cd-8fb2-aaf3e1c8c8d7,_g1-qbB----,S00517,張雅萍,00 4877456,zhongchao@example.com,37821 北斗新生巷28號9樓
+cfa90149-4eaf-4cc2-9718-7f530f8dbd25,Suppliers/cfa90149-4eaf-4cc2-9718-7f530f8dbd25,_g1-qbBK---,S00518,楊雅琪,01-3759693,jun55@example.net,978 彰化縣府中街944號3樓
+51540c76-4e9f-4691-995e-c0f6c0f2689b,Suppliers/51540c76-4e9f-4691-995e-c0f6c0f2689b,_g1-qbBW---,S00519,楊家瑜,07-3274917,taosu@example.com,125 鳳山廣慈街913號之0
+2cbfe722-251b-45df-89e1-801ead9b306c,Suppliers/2cbfe722-251b-45df-89e1-801ead9b306c,_g1-qbBi---,S00520,李佳樺,0970261824,xiaye@example.net,550 彰化市文山路58號6樓
+81c464d1-4fe2-42b0-8ccb-5f25e4baea48,Suppliers/81c464d1-4fe2-42b0-8ccb-5f25e4baea48,_g1-qbBm---,S00521,陳欣怡,(04) 92852110,fangshi@example.net,923 屏東大仁街3段788號之3
+cd654c1c-d548-4366-a487-c7b9fc3e7c7a,Suppliers/cd654c1c-d548-4366-a487-c7b9fc3e7c7a,_g1-qbBu---,S00522,楊家瑜,(05) 17643437,xia14@example.org,320 北斗縣中山街4號之2
+7c68cdf8-2a8d-4bf5-bdb4-cc645c12e683,Suppliers/7c68cdf8-2a8d-4bf5-bdb4-cc645c12e683,_g1-qbB2---,S00523,洪庭瑋,031 81014965,xiuyinghu@example.net,38549 中和新店街6段9號0樓
+709cb90c-163c-4276-b901-8474d9dba585,Suppliers/709cb90c-163c-4276-b901-8474d9dba585,_g1-qbB6---,S00524,黃淑惠,(02) 40803520,chao47@example.net,45663 北港縣大安路67號之2
+c543de95-f9ed-4d31-9469-494747cbe28d,Suppliers/c543de95-f9ed-4d31-9469-494747cbe28d,_g1-qbC----,S00525,何婉婷,02-50203771,sshi@example.net,555 台北縣新埔街1段60號之5
+8f4487c9-2d23-4f9e-ad46-dc866296148a,Suppliers/8f4487c9-2d23-4f9e-ad46-dc866296148a,_g1-qbCG---,S00526,範雅涵,09 8146594,zhongguiying@example.org,859 宜蘭大坪巷2號0樓
+4c94b2ce-1a1e-4dfe-b91d-8908aabda7d3,Suppliers/4c94b2ce-1a1e-4dfe-b91d-8908aabda7d3,_g1-qbCK---,S00527,張怡伶,060 68944815,ocheng@example.com,165 草屯市石牌路6號之6
+a3517fde-8465-4800-97a9-f5f4db4630d3,Suppliers/a3517fde-8465-4800-97a9-f5f4db4630d3,_g1-qbCS---,S00528,武哲瑋,08 5896244,yanma@example.net,950 臺中縣平和街7段28號4樓
+00a6fd22-bec4-47a2-b5e6-80df4a9a8dc8,Suppliers/00a6fd22-bec4-47a2-b5e6-80df4a9a8dc8,_g1-qbCW---,S00529,楊靜怡,00-62019881,suyang@example.com,72066 朴子市昆陽路6段8號3樓
+d007c6b4-7d39-4797-935c-8c380672eb92,Suppliers/d007c6b4-7d39-4797-935c-8c380672eb92,_g1-qbCa---,S00530,韓羽,01 6433258,xwen@example.net,87442 馬公市土城巷359號6樓
+fab2cee2-e2f2-45c1-83d9-f36f3454b3a7,Suppliers/fab2cee2-e2f2-45c1-83d9-f36f3454b3a7,_g1-qbCe---,S00531,張惠婷,0945-293949,tao72@example.net,698 永和新店路4段80號9樓
+7a487877-b794-4e7e-b513-da4663d7fed5,Suppliers/7a487877-b794-4e7e-b513-da4663d7fed5,_g1-qbCi---,S00532,李家瑜,(03) 16298134,jluo@example.com,122 光復市大智巷371號4樓
+6b8d58c7-ab02-4261-8539-9ba9c27e999a,Suppliers/6b8d58c7-ab02-4261-8539-9ba9c27e999a,_g1-qbCq---,S00533,徐信宏,02-13540876,baijie@example.net,91971 新營頂福州巷1號4樓
+636e07c7-79d5-43c8-af11-c4b03ce9f132,Suppliers/636e07c7-79d5-43c8-af11-c4b03ce9f132,_g1-qbCu---,S00534,李美玲,(05) 88357942,zhongwei@example.org,27987 屏東市士林路6號3樓
+d163fe84-b707-4dd0-a16a-6d1b4c925175,Suppliers/d163fe84-b707-4dd0-a16a-6d1b4c925175,_g1-qbCy---,S00535,余哲瑋,075 13873291,gangwei@example.net,46916 臺中縣芝山巷49號6樓
+4fc381d1-68a6-409f-ad86-168aafd7a393,Suppliers/4fc381d1-68a6-409f-ad86-168aafd7a393,_g1-qbC2---,S00536,謝婷婷,099 75955208,qianmin@example.org,36235 大里永安路25號之1
+d10ed486-8593-4321-bd36-fc1fe00c3e6f,Suppliers/d10ed486-8593-4321-bd36-fc1fe00c3e6f,_g1-qbC6---,S00537,徐依婷,0920928694,tangxiuying@example.com,53204 新營縣自強巷401號3樓
+13ca2761-7039-4683-8fd0-a1bd4b3ab300,Suppliers/13ca2761-7039-4683-8fd0-a1bd4b3ab300,_g1-qbDC---,S00538,姜威廷,0950-536169,yangqiu@example.com,403 基隆縣中央巷70號6樓
+c1974677-e499-49d6-a4dc-925df33bac91,Suppliers/c1974677-e499-49d6-a4dc-925df33bac91,_g1-qbDG---,S00539,孫慧君,0965-108003,dujun@example.net,62916 澎湖市長春街57號7樓
+032c10a8-c575-42df-9a2b-2bf887d258b3,Suppliers/032c10a8-c575-42df-9a2b-2bf887d258b3,_g1-qbDK---,S00540,向慧君,02-6720726,olei@example.net,656 金門長春路394號3樓
+a7211387-8318-472e-8eca-f065f2eab1ea,Suppliers/a7211387-8318-472e-8eca-f065f2eab1ea,_g1-qbDO---,S00541,孫志豪,09 8867370,yuanqiang@example.net,28814 永康市延平巷26號之4
+9b451801-9b79-49a1-8e36-9ce478872c5f,Suppliers/9b451801-9b79-49a1-8e36-9ce478872c5f,_g1-qbDW---,S00542,李佳慧,023 58407295,changjie@example.com,97284 楊梅明德路74號之8
+93c88b63-7b18-4944-9b0f-db97e7af9f2e,Suppliers/93c88b63-7b18-4944-9b0f-db97e7af9f2e,_g1-qbDa---,S00543,葉惠如,007 69719864,weimao@example.org,11082 台南市自由巷2段3號0樓
+40b38c48-d411-435b-9784-1526deffc8eb,Suppliers/40b38c48-d411-435b-9784-1526deffc8eb,_g1-qbDe---,S00544,張威廷,076 42224506,ktao@example.net,74697 新北縣水源巷4號5樓
+2691d7f7-3337-40f0-bf3f-2c489dfc91eb,Suppliers/2691d7f7-3337-40f0-bf3f-2c489dfc91eb,_g1-qbDq---,S00545,李冠霖,087 14512559,yuna@example.net,755 光復永和路271號4樓
+d183f93c-d6cd-4b47-b434-020da114045f,Suppliers/d183f93c-d6cd-4b47-b434-020da114045f,_g1-qbDy---,S00546,張彥廷,05-3730762,jingxu@example.net,980 澎湖市民權巷12號5樓
+627fa65f-b7b9-498a-a65b-fd7c7c6fc1c1,Suppliers/627fa65f-b7b9-498a-a65b-fd7c7c6fc1c1,_g1-qbE----,S00547,閻俊賢,0964849995,leipeng@example.net,24132 褒忠市芝山路34號之4
+4d044726-714c-478a-8240-d675ef463994,Suppliers/4d044726-714c-478a-8240-d675ef463994,_g1-qbEK---,S00548,董雅雯,01-37623773,edai@example.com,266 牡丹市興巷4段9號之5
+dc7f9d67-e773-4285-8837-e058438bca7d,Suppliers/dc7f9d67-e773-4285-8837-e058438bca7d,_g1-qbES---,S00549,李冠霖,0963-810234,ping95@example.com,701 牡丹市士林街355號2樓
+32d0176e-bde7-4425-bc02-ef3dd75de110,Suppliers/32d0176e-bde7-4425-bc02-ef3dd75de110,_g1-qbEe---,S00550,孟佳蓉,00-8148873,fang90@example.com,507 牡丹民生路2號7樓
+ae3d86dd-c820-4571-acbc-dd564796c02d,Suppliers/ae3d86dd-c820-4571-acbc-dd564796c02d,_g1-qbEq---,S00551,隋詩婷,06-5176764,rwei@example.com,64949 頭份市關渡路9號之8
+ec7d63a2-8ef7-4542-9893-e17db6c8df91,Suppliers/ec7d63a2-8ef7-4542-9893-e17db6c8df91,_g1-qbE2---,S00552,李冠廷,0997-657738,wangqiang@example.com,18540 樹林大勇街921號4樓
+430f6a54-29b6-4bf1-b0af-1ef905294aa4,Suppliers/430f6a54-29b6-4bf1-b0af-1ef905294aa4,_g1-qbFC---,S00553,鄧淑惠,0907-345457,fangguo@example.org,699 白沙市建國街2號2樓
+c6940a2e-86c0-4286-b1a6-b56207beb200,Suppliers/c6940a2e-86c0-4286-b1a6-b56207beb200,_g1-qbFO---,S00554,李佳穎,(05) 33734012,sjia@example.net,71392 澎湖萬隆街59號之6
+cf8738a9-95a2-4f92-95ad-ea3c336d4697,Suppliers/cf8738a9-95a2-4f92-95ad-ea3c336d4697,_g1-qbFa---,S00555,陳建宏,0908734958,mengguiying@example.net,57554 台中縣永和巷70號之3
+dad5f4d6-2801-425b-a0db-9c6214f4ecfb,Suppliers/dad5f4d6-2801-425b-a0db-9c6214f4ecfb,_g1-qbFi---,S00556,席佳蓉,060 85661710,yong10@example.com,667 汐止縣新莊街8段2號之2
+e29b57f4-3236-44b9-8190-3025bae17a2f,Suppliers/e29b57f4-3236-44b9-8190-3025bae17a2f,_g1-qbFu---,S00557,元冠宇,05 4315853,mchen@example.org,851 牡丹縣天母路6號之9
+0ebdc682-012a-41bf-9756-898c7897da1d,Suppliers/0ebdc682-012a-41bf-9756-898c7897da1d,_g1-qbF6---,S00558,王琬婷,07 8491236,yan25@example.org,66959 新營縣關渡街20號0樓
+6a81d404-e634-4b28-8ee5-f26ef2e08d01,Suppliers/6a81d404-e634-4b28-8ee5-f26ef2e08d01,_g1-qbGG---,S00559,張雅雯,0942-087622,ming25@example.com,989 卑南民族巷7號3樓
+d5b06fc9-9b85-4892-b47b-9d196168b198,Suppliers/d5b06fc9-9b85-4892-b47b-9d196168b198,_g1-qbGS---,S00560,朱飛,0941018942,gongtao@example.org,760 卑南永寧路4段987號之5
+d2ae5490-7ed4-488c-b688-e3f1a55752c7,Suppliers/d2ae5490-7ed4-488c-b688-e3f1a55752c7,_g1-qbGe---,S00561,王佳樺,0965983256,luxia@example.net,83166 白沙德街57號5樓
+7a5a27b6-dc38-4503-9952-37cee5c4eab5,Suppliers/7a5a27b6-dc38-4503-9952-37cee5c4eab5,_g1-qbGq---,S00562,劉詩涵,09-87177312,ikang@example.net,28816 新營平和巷82號4樓
+7fefc5b2-bc84-4e23-a0d1-b9e6a2276a06,Suppliers/7fefc5b2-bc84-4e23-a0d1-b9e6a2276a06,_g1-qbGy---,S00563,顏雅文,08-7302994,nqiu@example.org,906 基隆光復巷6號5樓
+371da242-05c1-4a52-9bd1-562662cf6287,Suppliers/371da242-05c1-4a52-9bd1-562662cf6287,_g1-qbH----,S00564,李淑貞,0972-110364,shiyan@example.org,593 板橋市建國路28號之3
+8e183dc4-951f-47b8-b55b-446a87fb4142,Suppliers/8e183dc4-951f-47b8-b55b-446a87fb4142,_g1-qbHK---,S00565,範雅雯,00-4909134,gangzhong@example.net,28750 台中新生街33號之6
+16402e4b-1ab7-4b99-9842-ddb7342337b7,Suppliers/16402e4b-1ab7-4b99-9842-ddb7342337b7,_g1-qbHW---,S00566,王婷婷,06-78265113,lei39@example.net,79196 台東縣新莊巷7段3號之1
+eec89e2b-ba69-40d1-9c99-903a30fec7de,Suppliers/eec89e2b-ba69-40d1-9c99-903a30fec7de,_g1-qbHe---,S00567,溫冠廷,0986-109511,cchen@example.com,69223 豐原縣福德路32號之1
+72715caa-b725-43c5-8eec-268a6174c11b,Suppliers/72715caa-b725-43c5-8eec-268a6174c11b,_g1-qbHu---,S00568,王雅玲,04-1066958,yong94@example.org,541 樹林光華巷7號之5
+9b267de2-9cf5-422e-999b-4fc66fed100b,Suppliers/9b267de2-9cf5-422e-999b-4fc66fed100b,_g1-qbH2---,S00569,王淑芬,(03) 38753115,yong37@example.com,74815 太平大坪路297號之2
+9a74aef0-968f-46ec-a097-947f6375a8f2,Suppliers/9a74aef0-968f-46ec-a097-947f6375a8f2,_g1-qbI----,S00570,母柏翰,0910-288418,yangjia@example.net,612 永康縣新生路6段75號之2
+c400cba4-ccd3-41cf-b1dd-17a8a4cfbf2e,Suppliers/c400cba4-ccd3-41cf-b1dd-17a8a4cfbf2e,_g1-qbIK---,S00571,高冠廷,09 2397098,min35@example.net,79614 南投市新埔路50號之5
+9db621b2-4dda-4f7f-9e87-af0d8394e250,Suppliers/9db621b2-4dda-4f7f-9e87-af0d8394e250,_g1-qbIS---,S00572,鐘彥廷,031 64854697,sdai@example.com,646 中壢縣土城巷62號7樓
+f7283835-909d-441d-87ee-53d6492f3c21,Suppliers/f7283835-909d-441d-87ee-53d6492f3c21,_g1-qbIa---,S00573,羅彥廷,05-4831837,cjiang@example.com,121 太保縣東興路25號9樓
+ad85678e-fb7b-4fd5-bb4d-d6eb00ea8262,Suppliers/ad85678e-fb7b-4fd5-bb4d-d6eb00ea8262,_g1-qbIm---,S00574,趙美玲,00 5966958,ming04@example.org,68238 連江林森路15號之7
+52e093de-62b7-4fcd-807c-2b874701a819,Suppliers/52e093de-62b7-4fcd-807c-2b874701a819,_g1-qbIq---,S00575,陳佳慧,(07) 14092274,kxie@example.com,387 高雄華興路325號之1
+cefe9ce5-a96e-4d20-a7dc-a8f43923965b,Suppliers/cefe9ce5-a96e-4d20-a7dc-a8f43923965b,_g1-qbI2---,S00576,王淑惠,0917512781,changfang@example.org,415 梅山市仁愛街92號之8
+cf82b1e6-dcc8-44c9-8919-62a3e1324c5e,Suppliers/cf82b1e6-dcc8-44c9-8919-62a3e1324c5e,_g1-qbJC---,S00577,王俊賢,0959781781,czhong@example.net,543 橫山縣迴龍路25號之4
+7e3afa83-044f-47df-ab25-176f5d59a239,Suppliers/7e3afa83-044f-47df-ab25-176f5d59a239,_g1-qbJK---,S00578,劉俊賢,(02) 82612877,nshao@example.net,14736 台中新生路478號2樓
+d742adc9-88a8-4c7a-ade5-eac890bdebbf,Suppliers/d742adc9-88a8-4c7a-ade5-eac890bdebbf,_g1-qbJW---,S00579,莫鈺婷,(05) 17183061,dtao@example.org,98165 澎湖市新生路2段69號1樓
+6be4d3a9-5c99-4e4f-902b-81cea57c7423,Suppliers/6be4d3a9-5c99-4e4f-902b-81cea57c7423,_g1-qbJe---,S00580,但雅惠,07-19826654,qiangwan@example.com,975 永和縣延平巷434號4樓
+926a2baa-7219-4f64-a3ff-9de70bf54314,Suppliers/926a2baa-7219-4f64-a3ff-9de70bf54314,_g1-qbJm---,S00581,成嘉玲,069 96093623,juanhou@example.com,836 彰化市四維街879號之7
+80d86738-f78b-4342-a689-ad35281fbcf0,Suppliers/80d86738-f78b-4342-a689-ad35281fbcf0,_g1-qbJy---,S00582,王雅筑,01-5932599,taogong@example.org,695 北港紅樹林路654號3樓
+ae34c201-8d74-4264-aa23-ff40808ae4d9,Suppliers/ae34c201-8d74-4264-aa23-ff40808ae4d9,_g1-qbK----,S00583,羅傑克,0992053243,min10@example.org,14350 蘆洲縣大仁街9段249號3樓
+84e399f5-5a14-4ee2-8ff9-0de4726460b6,Suppliers/84e399f5-5a14-4ee2-8ff9-0de4726460b6,_g1-qbKG---,S00584,王淑貞,08 2107209,guoyong@example.com,353 朴子市中興巷536號之2
+34107fdf-1bda-4f67-ac8d-55b6798405a4,Suppliers/34107fdf-1bda-4f67-ac8d-55b6798405a4,_g1-qbKS---,S00585,張雅琪,05-18337482,rzou@example.net,141 太保市新生巷5號之7
+a49de652-4a1d-4413-888d-784a0e62924b,Suppliers/a49de652-4a1d-4413-888d-784a0e62924b,_g1-qbKe---,S00586,張傑克,0933452621,lizeng@example.net,958 新竹縣新莊巷53號之9
+8cd3e301-549b-4709-abe2-c2c09072326a,Suppliers/8cd3e301-549b-4709-abe2-c2c09072326a,_g1-qbKq---,S00587,梁冠霖,01-19046005,fang06@example.org,56326 梅山福德路8號之3
+60b88bfd-4957-44c0-9e12-a4c52e16d117,Suppliers/60b88bfd-4957-44c0-9e12-a4c52e16d117,_g1-qbKy---,S00588,周心怡,(08) 39917416,tao28@example.com,78198 新北市西門街48號6樓
+2fad7f25-2a4d-4d36-bb71-d5b49596d570,Suppliers/2fad7f25-2a4d-4d36-bb71-d5b49596d570,_g1-qbL----,S00589,楊佳玲,0976719150,huchao@example.com,968 豐原水源路4號之1
+4b189974-612f-4039-add0-4324bd6e14a5,Suppliers/4b189974-612f-4039-add0-4324bd6e14a5,_g1-qbLG---,S00590,戴惠婷,0934474690,jiexie@example.net,212 永和縣福安巷8號1樓
+3f685569-5f59-4a16-84e6-4f300cea6a0a,Suppliers/3f685569-5f59-4a16-84e6-4f300cea6a0a,_g1-qbLS---,S00591,劉志豪,0921-066447,ofu@example.org,16729 新北市新生巷5段4號之8
+5d9eba94-8062-458c-b888-fda65eb09b35,Suppliers/5d9eba94-8062-458c-b888-fda65eb09b35,_g1-qbLe---,S00592,檀龍,08-81763196,xieguiying@example.net,515 高雄劍南街718號1樓
+ead2d7f8-42aa-4d67-b944-4882ea6fbcb8,Suppliers/ead2d7f8-42aa-4d67-b944-4882ea6fbcb8,_g1-qbLm---,S00593,劉雅惠,0930242993,fangbai@example.net,355 竹北永安巷2號8樓
+cc72ded8-9459-4b1b-8f65-514b3e016b41,Suppliers/cc72ded8-9459-4b1b-8f65-514b3e016b41,_g1-qbLu---,S00594,錢雅萍,0906924829,gongwei@example.com,791 頭份市自由街92號8樓
+e0ad6127-442c-4a0f-b09a-42d59086c7ac,Suppliers/e0ad6127-442c-4a0f-b09a-42d59086c7ac,_g1-qbL2---,S00595,魏志宏,06 3641710,lei71@example.org,71655 竹田縣雙連街890號9樓
+28ee97b7-e296-4835-b743-90674405dc48,Suppliers/28ee97b7-e296-4835-b743-90674405dc48,_g1-qbL6---,S00596,劉婉婷,04-87684619,yongqiao@example.net,23792 太保自立路3號之8
+e0000b4f-08d8-46a3-8c95-c6197c328ad1,Suppliers/e0000b4f-08d8-46a3-8c95-c6197c328ad1,_g1-qbMC---,S00597,魏惠雯,070 30755861,qiaoxiulan@example.org,57437 基隆市福安路289號之0
+e8949efa-5e70-4645-bd38-932bb294a52a,Suppliers/e8949efa-5e70-4645-bd38-932bb294a52a,_g1-qbMG---,S00598,鄭雅玲,0919203876,gang90@example.com,671 牡丹市新北投巷51號3樓
+a649f6e6-b84e-444f-b658-34e326f05a92,Suppliers/a649f6e6-b84e-444f-b658-34e326f05a92,_g1-qbMK---,S00599,徐郁雯,004 26169983,natang@example.com,21265 新北市大勇街3段211號之4
+58229fb0-7268-43df-b819-8124b5853df1,Suppliers/58229fb0-7268-43df-b819-8124b5853df1,_g1-qbMO---,S00600,劉婉婷,0913-478445,cuili@example.org,65740 板橋新埔路562號之1
+de386efc-fa5b-4199-a3bb-78d6130f2ec1,Suppliers/de386efc-fa5b-4199-a3bb-78d6130f2ec1,_g1-qbMW---,S00601,景志宏,(08) 96420845,daixia@example.net,893 屏東龍山寺街68號0樓
+e6c8c712-80a0-48c7-8aed-306a6cb9f0d2,Suppliers/e6c8c712-80a0-48c7-8aed-306a6cb9f0d2,_g1-qbMa---,S00602,楊宜庭,08 7059637,vdu@example.org,466 連江市石牌路1段660號0樓
+0c398a8a-c837-4312-9719-3a7af2d2d6c9,Suppliers/0c398a8a-c837-4312-9719-3a7af2d2d6c9,_g1-qbMi---,S00603,陳美玲,09-22628496,juanqian@example.org,473 臺東新生巷92號之0
+6190ec33-1646-4ccf-9c01-4ecd41dd87b6,Suppliers/6190ec33-1646-4ccf-9c01-4ecd41dd87b6,_g1-qbMm---,S00604,黃欣怡,071 45962859,kxue@example.net,251 樹林縣象山路888號之6
+867f717f-3f17-489d-8de2-8676a0090518,Suppliers/867f717f-3f17-489d-8de2-8676a0090518,_g1-qbMu---,S00605,徐雅慧,071 63752820,zhaoyang@example.net,52341 彰化迴龍巷83號3樓
+d5f0429a-5157-48b8-843d-5b026d9db1fb,Suppliers/d5f0429a-5157-48b8-843d-5b026d9db1fb,_g1-qbM2---,S00606,王宇軒,094 77891623,yanhou@example.com,165 新營松山街4號之0
+558dada5-1a2a-45f1-ad5e-b873b76ca13b,Suppliers/558dada5-1a2a-45f1-ad5e-b873b76ca13b,_g1-qbN----,S00607,林佳慧,02 3554618,xiongxiulan@example.net,178 光復縣和街街16號7樓
+c01f13da-08a3-4c78-a729-813f13baad75,Suppliers/c01f13da-08a3-4c78-a729-813f13baad75,_g1-qbNG---,S00608,燕思穎,050 88814193,hjia@example.net,74901 朴子縣天母路4段91號6樓
+dbc54f72-38e0-430d-9f4f-637c77b7fca5,Suppliers/dbc54f72-38e0-430d-9f4f-637c77b7fca5,_g1-qbNO---,S00609,梁雅萍,030 92348263,yandeng@example.net,856 北斗迴龍街98號7樓
+dcba8357-58c0-4632-a826-f57775049c1e,Suppliers/dcba8357-58c0-4632-a826-f57775049c1e,_g1-qbNW---,S00610,陳怡安,(03) 23755459,jiaxiuying@example.net,422 桃園興路4號5樓
+78b637af-cd55-4562-a20d-35d9ede9fe15,Suppliers/78b637af-cd55-4562-a20d-35d9ede9fe15,_g1-qbNe---,S00611,邸俊賢,0947941700,chaowen@example.net,393 光復永安路861號之3
+7407a827-e186-4c5c-8f89-e17dd9da1578,Suppliers/7407a827-e186-4c5c-8f89-e17dd9da1578,_g1-qbNm---,S00612,張雅雯,055 53873032,vcao@example.net,61218 鳳山市中興巷5號之7
+c4d8b83c-02ba-4b9a-b7d6-1bf84fdf3ef6,Suppliers/c4d8b83c-02ba-4b9a-b7d6-1bf84fdf3ef6,_g1-qbNy---,S00613,楊佩君,06 6809566,efeng@example.net,18791 八德林森街8段42號6樓
+516cefa2-f9cb-4e5c-94ed-182024faa5fc,Suppliers/516cefa2-f9cb-4e5c-94ed-182024faa5fc,_g1-qbN6---,S00614,黃宗翰,0969060727,na38@example.net,35903 古坑文山街16號之9
+fe58b4f8-782d-4bfe-a12a-a304ff3c727a,Suppliers/fe58b4f8-782d-4bfe-a12a-a304ff3c727a,_g1-qbOC---,S00615,任家瑜,09 3112762,schen@example.com,545 高雄市大同路5號2樓
+fb5381db-04e3-4494-8584-7346a81b3542,Suppliers/fb5381db-04e3-4494-8584-7346a81b3542,_g1-qbOK---,S00616,樊怡婷,01-4132848,fang09@example.org,442 永和縣象山巷698號之6
+7c82e139-77f9-466f-a6de-8a54d8f15d6c,Suppliers/7c82e139-77f9-466f-a6de-8a54d8f15d6c,_g1-qbOS---,S00617,黃美琪,0972127119,fengjun@example.com,568 光復縣新店巷362號之7
+da76c22d-8420-4926-8b31-99b010e8010f,Suppliers/da76c22d-8420-4926-8b31-99b010e8010f,_g1-qbOe---,S00618,李傑克,0998-140595,jinxiuying@example.net,92846 台東縣新莊路98號1樓
+1fc38289-194f-4f07-9e72-c02ce44b1cfc,Suppliers/1fc38289-194f-4f07-9e72-c02ce44b1cfc,_g1-qbOm---,S00619,聶信宏,093 79010822,qxie@example.org,37313 阿里山縣和平街168號之0
+014c8cdd-d6e4-4dc6-b136-f5fe739a4432,Suppliers/014c8cdd-d6e4-4dc6-b136-f5fe739a4432,_g1-qbOq---,S00620,趙家銘,04-6584112,pingxie@example.org,49291 汐止市福德巷7號之1
+ced28d21-47f9-450a-87ab-72cb26341226,Suppliers/ced28d21-47f9-450a-87ab-72cb26341226,_g1-qbOy---,S00621,楊雅文,0986-257115,xuyong@example.com,45963 白沙市萬隆路1號之6
+f7e55736-4a1c-4953-b6d8-2a4d0fc229c0,Suppliers/f7e55736-4a1c-4953-b6d8-2a4d0fc229c0,_g1-qbO2---,S00622,張雅慧,0918154360,gangyang@example.net,622 臺中縣民富路2號之8
+49ef642d-62e3-43a3-9fc3-fd59e06506a3,Suppliers/49ef642d-62e3-43a3-9fc3-fd59e06506a3,_g1-qbO6---,S00623,郭雅芳,07-91061965,vfeng@example.com,350 竹田芝山巷950號之4
+e0de3b5b-e797-429e-a8f2-5b0a7b6c4a56,Suppliers/e0de3b5b-e797-429e-a8f2-5b0a7b6c4a56,_g1-qbPC---,S00624,苑冠宇,0916-779916,chao80@example.net,205 平鎮市忠孝巷83號之4
+301dccba-9e52-4938-8b06-dc3896af7fba,Suppliers/301dccba-9e52-4938-8b06-dc3896af7fba,_g1-qbPG---,S00625,俞怡伶,0961-153324,lei28@example.com,627 阿里山土城街3號之8
+b3f29d4f-d6bd-4b1c-8e60-2c053a7a474d,Suppliers/b3f29d4f-d6bd-4b1c-8e60-2c053a7a474d,_g1-qbPK---,S00626,梁庭瑋,0941370713,xiulandai@example.com,587 金門復興街5號1樓
+cf08ec5f-02e9-460a-817b-25710b9fe475,Suppliers/cf08ec5f-02e9-460a-817b-25710b9fe475,_g1-qbPS---,S00627,陳俊宏,(03) 61855786,chaoqian@example.net,72811 光復市永安巷491號5樓
+79e03d89-413f-4e8d-b3a1-f1d741e9271f,Suppliers/79e03d89-413f-4e8d-b3a1-f1d741e9271f,_g1-qbPW---,S00628,羅雅慧,0927835860,gangguo@example.org,930 苗栗市大坪街9號之7
+622b8f35-d945-4cf2-8ac5-a445dc74e786,Suppliers/622b8f35-d945-4cf2-8ac5-a445dc74e786,_g1-qbPe---,S00629,王淑娟,04-46860303,xuelei@example.org,692 中壢市博愛街1號之5
+56061ce5-7c2d-4fe2-a41c-e57dd4accbe5,Suppliers/56061ce5-7c2d-4fe2-a41c-e57dd4accbe5,_g1-qbPi---,S00630,李郁雯,010 30149218,xiuying70@example.net,53314 三重景美路7號6樓
+33114fe0-938f-4f61-830a-b779a1afc50c,Suppliers/33114fe0-938f-4f61-830a-b779a1afc50c,_g1-qbPm---,S00631,劉雅玲,09-6629000,ptan@example.net,585 中壢忠義巷592號7樓
+a49a08e0-becc-4d3e-9f05-539c3a1e4cd1,Suppliers/a49a08e0-becc-4d3e-9f05-539c3a1e4cd1,_g1-qbPq---,S00632,姬靜怡,0910938411,liaolei@example.net,72287 新營市忠義街4段5號8樓
+ae01a563-8365-45b4-9b16-97703324b596,Suppliers/ae01a563-8365-45b4-9b16-97703324b596,_g1-qbPy---,S00633,孫怡如,022 64871298,fengmin@example.org,64164 大里土城街79號9樓
+f6bdd962-cef3-4547-9dfa-a84ed44b01ae,Suppliers/f6bdd962-cef3-4547-9dfa-a84ed44b01ae,_g1-qbP2---,S00634,劉淑貞,077 92989999,kangxiuying@example.com,23458 連江莒光路7號4樓
+fd845b8e-52c2-43f4-ad25-3ffdabcb0d8a,Suppliers/fd845b8e-52c2-43f4-ad25-3ffdabcb0d8a,_g1-qbP6---,S00635,柳中山,07-84446732,qinguiying@example.net,143 桃園縣大仁巷2號之1
+9ed0f7f5-f171-4fb7-b224-b610c87bafab,Suppliers/9ed0f7f5-f171-4fb7-b224-b610c87bafab,_g1-qbQC---,S00636,王俊傑,05-4295106,yang72@example.org,99821 台南民生巷1號9樓
+01e47241-61db-4a70-965c-8fbdae781d90,Suppliers/01e47241-61db-4a70-965c-8fbdae781d90,_g1-qbQG---,S00637,熊詩婷,0957305266,fang38@example.org,96464 八德龍山寺巷72號之1
+3283d088-354c-42d3-9a75-aa90414cdca0,Suppliers/3283d088-354c-42d3-9a75-aa90414cdca0,_g1-qbQK---,S00638,韓龍,05-3255125,cren@example.org,917 北港縣西門街58號之3
+033d09c1-2414-4015-bdc8-afdaa1e082fd,Suppliers/033d09c1-2414-4015-bdc8-afdaa1e082fd,_g1-qbQS---,S00639,孫美琪,03 3314777,qianjun@example.com,28515 汐止國凱八德路50號之1
+ea8b6dbc-3b09-41a1-8b4c-1fa1832e56b0,Suppliers/ea8b6dbc-3b09-41a1-8b4c-1fa1832e56b0,_g1-qbQW---,S00640,羅佩君,004 17641482,chengjie@example.com,776 豐原市土城街5段320號之4
+ef03be98-df30-4b2a-98a1-f5a3e141cb56,Suppliers/ef03be98-df30-4b2a-98a1-f5a3e141cb56,_g1-qbQa---,S00641,徐家豪,0931-625595,jinwei@example.net,57090 蘆洲市民有巷6號5樓
+531bf463-92fa-4f74-9db8-9f48b01032c7,Suppliers/531bf463-92fa-4f74-9db8-9f48b01032c7,_g1-qbQi---,S00642,張宜君,03-57263440,duanfang@example.org,594 桃園劍南街6段10號之1
+0b90255c-3fa5-404b-8f32-78394828b604,Suppliers/0b90255c-3fa5-404b-8f32-78394828b604,_g1-qbQm---,S00643,梁雅慧,07 1370059,vdai@example.org,598 台東縣光復街582號之7
+0b65c2d0-1bdc-4169-9ad1-a1f6a3c53c34,Suppliers/0b65c2d0-1bdc-4169-9ad1-a1f6a3c53c34,_g1-qbQq---,S00644,王冠宇,07-36784648,xiulan78@example.net,32824 平鎮縣龍山寺路508號6樓
+54873190-1720-4b98-a09a-bafaaa50ff95,Suppliers/54873190-1720-4b98-a09a-bafaaa50ff95,_g1-qbQy---,S00645,王傑克,0924349720,ganghe@example.net,34257 八德勝利路8段71號之9
+793a3583-c885-45a6-a178-5e9c98e5a82a,Suppliers/793a3583-c885-45a6-a178-5e9c98e5a82a,_g1-qbQ2---,S00646,楊郁婷,008 50589072,lei55@example.com,263 阿里山新生巷30號0樓
+927c3918-905a-4a28-940f-9e57d4d2bdca,Suppliers/927c3918-905a-4a28-940f-9e57d4d2bdca,_g1-qbQ6---,S00647,盧淑惠,03-2610008,zhongxiulan@example.org,93746 新營中山路95號2樓
+78452379-39c3-40c8-b830-d0f4a8bba966,Suppliers/78452379-39c3-40c8-b830-d0f4a8bba966,_g1-qbR----,S00648,莊家豪,03-65370372,jun63@example.org,70253 朴子正義街62號0樓
+bc6b9d5e-1cf3-40ee-88ad-6a5af4d57472,Suppliers/bc6b9d5e-1cf3-40ee-88ad-6a5af4d57472,_g1-qbRC---,S00649,劉欣怡,0985696417,dhe@example.org,389 高雄大安街1號之9
+3e6a61c1-b2e1-4b55-a3b9-50c3513e0bef,Suppliers/3e6a61c1-b2e1-4b55-a3b9-50c3513e0bef,_g1-qbRK---,S00650,王俊宏,009 22486268,futao@example.com,81936 臺東長安巷995號之3
+4cf02771-f970-447d-967f-52fed5c9fbcf,Suppliers/4cf02771-f970-447d-967f-52fed5c9fbcf,_g1-qbRO---,S00651,吳家豪,00 3748462,chaoyuan@example.com,429 苗栗關渡街5號之0
+71e8cb3b-4e32-4672-9300-e8076ef337cd,Suppliers/71e8cb3b-4e32-4672-9300-e8076ef337cd,_g1-qbRW---,S00652,陳淑貞,05-9458134,bzhu@example.com,864 中壢國凱八德巷9段7號0樓
+6acf8c67-af22-4546-aeca-a2c3541d3ee5,Suppliers/6acf8c67-af22-4546-aeca-a2c3541d3ee5,_g1-qbRe---,S00653,湛家瑜,08 7480156,hwei@example.org,21452 連江市頂福州路9段326號之0
+7099312d-c769-4304-8d5f-40225df2885b,Suppliers/7099312d-c769-4304-8d5f-40225df2885b,_g1-qbRi---,S00654,鞠雅筑,094 17977768,mojun@example.net,98296 褒忠縣自強路81號3樓
+955c73e2-fe53-4d5d-812e-83d2379d70ae,Suppliers/955c73e2-fe53-4d5d-812e-83d2379d70ae,_g1-qbRq---,S00655,熊雅涵,09-6164728,mingzhu@example.com,450 古坑市動物園巷6段524號之4
+390ebf13-c417-4b57-bd01-18a3590b969d,Suppliers/390ebf13-c417-4b57-bd01-18a3590b969d,_g1-qbRy---,S00656,祁瑋婷,0997253929,li83@example.org,58153 連江縣劍潭街34號6樓
+daa443e2-8ca5-4382-aa6c-44607cbaa9ff,Suppliers/daa443e2-8ca5-4382-aa6c-44607cbaa9ff,_g1-qbR6---,S00657,陳怡婷,00 6798787,wangfang@example.com,475 連江縣新生巷6號之8
+51ab40d5-b692-484d-9cc3-4c2748c4d2c6,Suppliers/51ab40d5-b692-484d-9cc3-4c2748c4d2c6,_g1-qbSC---,S00658,王冠廷,03-6978308,mmao@example.com,107 鳳山縣光明路3號8樓
+d5e64235-59b5-495a-98db-a10595791279,Suppliers/d5e64235-59b5-495a-98db-a10595791279,_g1-qbSG---,S00659,朱詩婷,0929699014,daiping@example.net,327 平鎮縣萬隆街323號之8
+f60449dc-a1fa-4509-8d25-258f9aef5ab8,Suppliers/f60449dc-a1fa-4509-8d25-258f9aef5ab8,_g1-qbSS---,S00660,陳淑惠,08-6445998,yan67@example.com,37360 關山三民路9段80號之2
+28df8f86-0415-4203-9b3a-1398bfbb889e,Suppliers/28df8f86-0415-4203-9b3a-1398bfbb889e,_g1-qbSW---,S00661,李雅文,05 9774925,jing83@example.net,612 竹北縣中山路881號之3
+6647b2e4-f5cb-489e-945e-4aa09bb0518a,Suppliers/6647b2e4-f5cb-489e-945e-4aa09bb0518a,_g1-qbSe---,S00662,劉靜怡,04-4089459,xiulanzhong@example.org,530 桃園民族巷76號8樓
+1cdb792f-a54c-4a52-b0e2-641ed12fb330,Suppliers/1cdb792f-a54c-4a52-b0e2-641ed12fb330,_g1-qbSm---,S00663,李志豪,06-2525970,fpan@example.com,52237 基隆學府巷1號之9
+398b60d2-ebcc-483d-a8f9-0aa4a9801d2d,Suppliers/398b60d2-ebcc-483d-a8f9-0aa4a9801d2d,_g1-qbSq---,S00664,廖馨儀,(02) 87248950,hanyang@example.org,459 永康市福德街6段2號之7
+c9d0d0e5-cb13-4893-81a2-8bbcb6907a49,Suppliers/c9d0d0e5-cb13-4893-81a2-8bbcb6907a49,_g1-qbSy---,S00665,顧宜庭,08 2642184,xiulanxu@example.net,84386 斗六大仁街3段1號4樓
+604d3a2a-11b0-499e-9e20-f29e12885823,Suppliers/604d3a2a-11b0-499e-9e20-f29e12885823,_g1-qbS2---,S00666,馬依婷,0976-337838,duping@example.com,21407 楊梅縣民富路1段3號之3
+476e7a02-51e4-4145-bc1d-9adddcb89b99,Suppliers/476e7a02-51e4-4145-bc1d-9adddcb89b99,_g1-qbT----,S00667,吳怡伶,06 7061345,pingren@example.com,322 臺東市大橋頭路66號之8
+70f97ce0-726e-41c0-9caf-da9d77d0f649,Suppliers/70f97ce0-726e-41c0-9caf-da9d77d0f649,_g1-qbTC---,S00668,溫怡君,0998-206120,vding@example.org,56301 花蓮關渡路2號6樓
+fd45daec-0062-4d08-9d95-27332d6e8bef,Suppliers/fd45daec-0062-4d08-9d95-27332d6e8bef,_g1-qbTK---,S00669,李雅萍,0976-311556,bxue@example.org,54693 基隆市劍潭巷65號之5
+71203057-da45-4eea-a0ff-812d343fc2a6,Suppliers/71203057-da45-4eea-a0ff-812d343fc2a6,_g1-qbTS---,S00670,王宜庭,05 9926053,min21@example.net,82859 樹林中和路5號5樓
+39057738-c040-42d4-afdc-33c637570329,Suppliers/39057738-c040-42d4-afdc-33c637570329,_g1-qbTa---,S00671,沈庭瑋,(09) 88166314,xiazhou@example.net,31740 中和大橋頭巷3號之2
+af7daa49-65e0-4c85-8109-b6cc3bf7f9b8,Suppliers/af7daa49-65e0-4c85-8109-b6cc3bf7f9b8,_g1-qbTe---,S00672,周飛,(04) 66933352,jxu@example.org,73184 頭份明德巷23號之4
+8c8905de-669f-4ba0-8b70-e8e5610e58bc,Suppliers/8c8905de-669f-4ba0-8b70-e8e5610e58bc,_g1-qbTi---,S00673,劉佩君,0964-976929,li39@example.com,70457 新營市五福路684號9樓
+cca9700f-fc2c-4ccc-88a3-48648e2271ff,Suppliers/cca9700f-fc2c-4ccc-88a3-48648e2271ff,_g1-qbTq---,S00674,馬建宏,0955018096,xialiao@example.org,13400 金門新生巷4號之6
+fda41c64-6630-4b7e-8fff-372fbe89e92d,Suppliers/fda41c64-6630-4b7e-8fff-372fbe89e92d,_g1-qbTu---,S00675,王羽,0927906796,na36@example.org,490 三重市大橋頭巷59號之0
+ad8fa173-6297-4fc6-8ffa-1c4a5c7b274f,Suppliers/ad8fa173-6297-4fc6-8ffa-1c4a5c7b274f,_g1-qbT2---,S00676,彭惠如,014 16726734,nsun@example.org,566 桃園縣古亭街8段4號8樓
+44b6653e-828c-4618-a58d-40370f15eca9,Suppliers/44b6653e-828c-4618-a58d-40370f15eca9,_g1-qbU----,S00677,蘇嘉玲,09 2545648,xiulanma@example.org,819 豐原民生巷3號之9
+72730501-c785-433f-a081-752800b308fe,Suppliers/72730501-c785-433f-a081-752800b308fe,_g1-qbUC---,S00678,吳嘉玲,096 37084650,kyan@example.org,41208 大里正義巷971號0樓
+e30da624-2f14-4532-ac98-5f23e8ad2120,Suppliers/e30da624-2f14-4532-ac98-5f23e8ad2120,_g1-qbUK---,S00679,蘇羽,07-30230888,cwan@example.net,38090 竹北大同巷5號8樓
+aec52fd5-0d5e-40dd-8065-0c56b723eb27,Suppliers/aec52fd5-0d5e-40dd-8065-0c56b723eb27,_g1-qbUO---,S00680,楊柏翰,0992178517,chaoqin@example.net,71312 朴子東興巷9號3樓
+be572274-ecd8-4b32-961a-e4e07dd88fee,Suppliers/be572274-ecd8-4b32-961a-e4e07dd88fee,_g1-qbUS---,S00681,崔詩婷,(02) 51087283,li99@example.com,574 南投市文化街3號9樓
+94708383-c979-4271-9254-5c0b6c208af1,Suppliers/94708383-c979-4271-9254-5c0b6c208af1,_g1-qbUa---,S00682,王心怡,(01) 40590463,liangchao@example.net,178 台南新生街47號之1
+82d2922c-494c-4e6a-aced-c80f0e8a1f2c,Suppliers/82d2922c-494c-4e6a-aced-c80f0e8a1f2c,_g1-qbUe---,S00683,和美玲,(04) 16010385,yan12@example.net,52601 太保東湖巷6號之3
+216a443a-1635-4282-897e-fb0e2517f7af,Suppliers/216a443a-1635-4282-897e-fb0e2517f7af,_g1-qbUm---,S00684,李婷婷,(00) 21354390,juan20@example.com,614 新北市大同路83號5樓
+652bcee6-5439-4df9-8a05-a875b244a830,Suppliers/652bcee6-5439-4df9-8a05-a875b244a830,_g1-qbUq---,S00685,韓佳玲,000 34608049,xiuyinggu@example.org,115 光復天母街11號5樓
+394cd378-4634-479a-96c2-84f28c51b9f5,Suppliers/394cd378-4634-479a-96c2-84f28c51b9f5,_g1-qbUu---,S00686,張怡伶,096 29184304,taocheng@example.org,257 牡丹西門路4號0樓
+41c7596c-c2d2-477d-973c-09e7af8a3220,Suppliers/41c7596c-c2d2-477d-973c-09e7af8a3220,_g1-qbUy---,S00687,畢建宏,09-2957380,lei43@example.com,142 臺東中和街698號0樓
+37af079b-8b70-4bc6-87c4-2b6ce5b1484c,Suppliers/37af079b-8b70-4bc6-87c4-2b6ce5b1484c,_g1-qbU2---,S00688,林雅雯,092 88500296,qinjun@example.net,597 台東關渡街995號1樓
+580188f7-85c5-460e-9efd-7e5913d277e0,Suppliers/580188f7-85c5-460e-9efd-7e5913d277e0,_g1-qbV----,S00689,符郁婷,09-9878766,yanpeng@example.org,692 永康市長春巷483號1樓
+d8129c44-2b02-4410-bb4f-ad076fe46164,Suppliers/d8129c44-2b02-4410-bb4f-ad076fe46164,_g1-qbVC---,S00690,劉冠宇,075 66962736,wei85@example.org,221 卑南市永安路119號3樓
+e649460f-2494-431e-aed3-424b9b39d9fa,Suppliers/e649460f-2494-431e-aed3-424b9b39d9fa,_g1-qbVG---,S00691,陳家瑜,0937-182492,min17@example.org,26736 臺東五福路50號之4
+2258c203-a4aa-4d29-bbd3-e811b0926431,Suppliers/2258c203-a4aa-4d29-bbd3-e811b0926431,_g1-qbVW---,S00692,毛怡伶,01-9637490,chao57@example.com,52116 八德縣南路6號3樓
+eb85a257-b3c5-4c18-9930-61764dad7192,Suppliers/eb85a257-b3c5-4c18-9930-61764dad7192,_g1-qbVa---,S00693,沈建宏,0910498911,ming41@example.org,590 臺中市自由巷38號之8
+db3c4363-edfb-4e54-a135-c38f54102a3a,Suppliers/db3c4363-edfb-4e54-a135-c38f54102a3a,_g1-qbVi---,S00694,曹鈺婷,(07) 10852520,nazheng@example.org,88566 鳳山民權街222號3樓
+69d89232-7604-4ab9-be44-59663e7c24b5,Suppliers/69d89232-7604-4ab9-be44-59663e7c24b5,_g1-qbVm---,S00695,蕭怡君,(00) 11656470,yanjuan@example.com,56766 北竿市新興巷3號之3
+9094ddb4-a094-49e3-a7e2-1b1774378116,Suppliers/9094ddb4-a094-49e3-a7e2-1b1774378116,_g1-qbVq---,S00696,楊龍,027 85737922,jiewan@example.com,285 卑南明德街975號0樓
+3c1c4655-e0dc-4f29-84f2-c7d1383c97c3,Suppliers/3c1c4655-e0dc-4f29-84f2-c7d1383c97c3,_g1-qbVy---,S00697,徐佳慧,02 5942575,juanzou@example.com,429 梅山古亭街602號0樓
+4e0cf5bd-5dae-4969-90bd-23219ff97800,Suppliers/4e0cf5bd-5dae-4969-90bd-23219ff97800,_g1-qbV2---,S00698,郭怡婷,03-7931724,usong@example.com,83749 竹北市中正路9段3號2樓
+9c9a541f-8e03-4723-bc57-78f3f9f811f9,Suppliers/9c9a541f-8e03-4723-bc57-78f3f9f811f9,_g1-qbV6---,S00699,鄧俊賢,061 89144166,osun@example.net,158 苗栗延平巷705號9樓
+8cf26071-f9e5-41bb-99c1-878742e27841,Suppliers/8cf26071-f9e5-41bb-99c1-878742e27841,_g1-qbW----,S00700,張志偉,089 48646548,juanxia@example.com,43453 宜蘭縣復興路813號9樓
+23b07434-7ef9-4643-9056-f4f7349bef84,Suppliers/23b07434-7ef9-4643-9056-f4f7349bef84,_g1-qbWC---,S00701,王雅芳,(05) 32521636,tyi@example.net,220 屏東古亭巷1號7樓
+f8b24371-0795-449d-834e-f374608eed5a,Suppliers/f8b24371-0795-449d-834e-f374608eed5a,_g1-qbWK---,S00702,廖佳穎,03-81605376,tantao@example.com,555 蘆洲天母路9段448號3樓
+75f85a3f-6afa-411a-8af4-f325e093ad4f,Suppliers/75f85a3f-6afa-411a-8af4-f325e093ad4f,_g1-qbWS---,S00703,彭雅涵,01-6200588,lili@example.net,88676 高雄縣新興巷89號6樓
+8355a148-a08b-4127-b54e-8405c81480a5,Suppliers/8355a148-a08b-4127-b54e-8405c81480a5,_g1-qbWW---,S00704,石靜怡,(02) 49338094,ming71@example.net,45620 光復市頂福州路5段34號之5
+94ae0649-dde3-4372-9136-e9f2652080a2,Suppliers/94ae0649-dde3-4372-9136-e9f2652080a2,_g1-qbWa---,S00705,石雅雯,(01) 44885419,licheng@example.org,447 高雄縣大仁街5段59號之7
+a6d160e1-93bd-4f51-938a-75f134addcaf,Suppliers/a6d160e1-93bd-4f51-938a-75f134addcaf,_g1-qbWi---,S00706,蔣佳樺,0979-851849,yong48@example.net,19862 新竹市民有路2號9樓
+dfa4e2d6-1570-4b1c-bdae-087825ac1d40,Suppliers/dfa4e2d6-1570-4b1c-bdae-087825ac1d40,_g1-qbWm---,S00707,王庭瑋,00 5480883,yang15@example.net,90873 雲林民權路4段772號5樓
+87405adb-305c-42dc-80aa-36629b656cb8,Suppliers/87405adb-305c-42dc-80aa-36629b656cb8,_g1-qbWu---,S00708,唐冠廷,00-9860560,xiongli@example.com,14182 南投長春街4段3號之2
+24edf290-db42-49b0-b5f0-d5168a5817ff,Suppliers/24edf290-db42-49b0-b5f0-d5168a5817ff,_g1-qbWy---,S00709,牛佳慧,(06) 57579729,yong52@example.com,28983 新竹縣中華路3段86號之6
+2fc5225c-190c-49fe-8b9f-d3d2f97caf86,Suppliers/2fc5225c-190c-49fe-8b9f-d3d2f97caf86,_g1-qbW2---,S00710,劉佳蓉,08-9699328,juan80@example.org,697 古坑縣象山巷9段8號1樓
+828590c6-5c59-40d9-9069-cacb94e5a2b1,Suppliers/828590c6-5c59-40d9-9069-cacb94e5a2b1,_g1-qbX----,S00711,劉婉婷,07-30285615,xiulanye@example.com,520 臺東市中和巷693號1樓
+e7322b1a-7dc8-449b-8574-0ee7c7364a9d,Suppliers/e7322b1a-7dc8-449b-8574-0ee7c7364a9d,_g1-qbXC---,S00712,謝美琪,0909-343888,hanmin@example.net,25092 朴子平和路1段773號之0
+84cb9972-af5d-4699-a410-e2939b967bdc,Suppliers/84cb9972-af5d-4699-a410-e2939b967bdc,_g1-qbXK---,S00713,袁琬婷,00-4849958,guxiuying@example.org,330 蘆洲市奇岩巷994號之0
+d6808f10-e688-4d17-9920-fb5de0fdb335,Suppliers/d6808f10-e688-4d17-9920-fb5de0fdb335,_g1-qbXS---,S00714,李琬婷,04-7976816,qiaoqiang@example.org,483 中壢市西門街9號之8
+221fa86a-1047-477d-ae9e-79b0898e2715,Suppliers/221fa86a-1047-477d-ae9e-79b0898e2715,_g1-qbXW---,S00715,葛雅惠,08-8901423,qiangyao@example.net,39289 苗栗中央路919號之2
+2c6a8572-f408-4a7c-8f76-8de60f02a5d2,Suppliers/2c6a8572-f408-4a7c-8f76-8de60f02a5d2,_g1-qbXa---,S00716,鄒冠霖,07-93466779,gangdai@example.net,73459 宜蘭育英巷3號之3
+31d66255-8896-463e-8298-df5da369eb02,Suppliers/31d66255-8896-463e-8298-df5da369eb02,_g1-qbXi---,S00717,李威廷,0971848579,qlai@example.net,91237 新營福德街251號5樓
+17cbfdc6-f348-4471-8a61-5fffe604e70a,Suppliers/17cbfdc6-f348-4471-8a61-5fffe604e70a,_g1-qbXm---,S00718,胡馨儀,071 39531379,ewang@example.net,54735 豐原市仁愛巷37號4樓
+54bbfb87-8432-4b6e-b090-9e320191c50d,Suppliers/54bbfb87-8432-4b6e-b090-9e320191c50d,_g1-qbXq---,S00719,馮雅玲,0915-019633,kliao@example.org,732 斗六育英路708號之1
+31c5867c-4f41-445a-8a75-d25c26079485,Suppliers/31c5867c-4f41-445a-8a75-d25c26079485,_g1-qbXu---,S00720,楊雅慧,02-8206517,xiulanjin@example.net,40875 南投大橋頭路1號3樓
+994f32f7-b91e-49b8-a363-7a3616dc4282,Suppliers/994f32f7-b91e-49b8-a363-7a3616dc4282,_g1-qbXy---,S00721,李宜庭,0942685716,jxia@example.net,917 連江市中山街1號之7
+1f5b256f-1a7e-46c5-adb3-836a788c7426,Suppliers/1f5b256f-1a7e-46c5-adb3-836a788c7426,_g1-qbX6---,S00722,宋靜宜,0992595562,stao@example.com,719 宜蘭華興路443號4樓
+f7eea7c2-a4d0-4652-a3af-d4c0f96c8e27,Suppliers/f7eea7c2-a4d0-4652-a3af-d4c0f96c8e27,_g1-qbY----,S00723,李宇軒,02-98433389,qianglei@example.com,505 中和市正義路297號6樓
+f05bf5e3-7139-48fc-bb57-05639625be98,Suppliers/f05bf5e3-7139-48fc-bb57-05639625be98,_g1-qbYC---,S00724,王承翰,0905161836,fang42@example.com,904 楊梅市迴龍路3段51號4樓
+ea686f98-832a-4913-a8a9-e1ce4779a0d6,Suppliers/ea686f98-832a-4913-a8a9-e1ce4779a0d6,_g1-qbYK---,S00725,顏冠宇,0928130513,jun52@example.net,99401 板橋市自立路300號之8
+6b73a196-c361-4e70-9f67-5d80943a0c90,Suppliers/6b73a196-c361-4e70-9f67-5d80943a0c90,_g1-qbYS---,S00726,高家瑜,0927207875,qqian@example.net,669 頭份縣德巷76號之4
+342ff679-de74-4d31-bd83-9e7340ffe464,Suppliers/342ff679-de74-4d31-bd83-9e7340ffe464,_g1-qbYW---,S00727,楊家瑋,0982518192,jun50@example.org,883 桃園縣新興路3號8樓
+a1b5c5b3-a367-48e7-bdda-53cd772def7a,Suppliers/a1b5c5b3-a367-48e7-bdda-53cd772def7a,_g1-qbYa---,S00728,任雅琪,08 3971084,ffang@example.org,47708 平鎮縣迴龍街92號1樓
+53148299-1d67-4cec-8d6b-06ce37d4bb52,Suppliers/53148299-1d67-4cec-8d6b-06ce37d4bb52,_g1-qbYi---,S00729,錢中山,0995-631170,ichang@example.org,638 台南自由路7號1樓
+0529d0e8-45f1-4f13-9d57-47f8ae7d7bba,Suppliers/0529d0e8-45f1-4f13-9d57-47f8ae7d7bba,_g1-qbYm---,S00730,盧家瑋,0911470061,juan08@example.net,34331 台中新興路4號4樓
+b3ced7c7-86ae-4775-8bb7-38488ffee906,Suppliers/b3ced7c7-86ae-4775-8bb7-38488ffee906,_g1-qbYu---,S00731,龐思穎,08-8906455,wding@example.com,34463 梅山三民街74號之0
+e2438c88-7ecb-4fe2-a76a-2ba6729d02da,Suppliers/e2438c88-7ecb-4fe2-a76a-2ba6729d02da,_g1-qbYy---,S00732,姜淑華,00-4718035,wanjun@example.org,22228 古坑市新北投街358號2樓
+807b1374-b491-4057-9ca7-b292984424b7,Suppliers/807b1374-b491-4057-9ca7-b292984424b7,_g1-qbY2---,S00733,馬宜君,(06) 94331138,zgao@example.org,51943 新北縣水源巷878號之0
+2d434fc9-2eeb-4ecb-a7de-c98ff51b94c3,Suppliers/2d434fc9-2eeb-4ecb-a7de-c98ff51b94c3,_g1-qbY6---,S00734,史怡安,0935359932,qiuxiuying@example.net,63335 竹田市光復街198號之0
+41453c06-56b5-4319-8af0-65103b859694,Suppliers/41453c06-56b5-4319-8af0-65103b859694,_g1-qbZC---,S00735,邢美玲,08-9481701,fenggang@example.org,55981 宜蘭市紅樹林街4段25號之1
+3b0e65f3-6ae8-47d5-b726-b55e599a2ee9,Suppliers/3b0e65f3-6ae8-47d5-b726-b55e599a2ee9,_g1-qbZG---,S00736,李雅琪,040 69975467,qmo@example.net,628 北港民富街451號之2
+b9e13f11-cfd9-4c98-b0d9-64e201d2cf01,Suppliers/b9e13f11-cfd9-4c98-b0d9-64e201d2cf01,_g1-qbZO---,S00737,黃哲瑋,077 50304780,pingtan@example.org,261 牡丹市忠孝街70號0樓
+f1cf6bc1-33ac-4f1e-bec4-98736fda92ca,Suppliers/f1cf6bc1-33ac-4f1e-bec4-98736fda92ca,_g1-qbZS---,S00738,郭淑惠,04-13744780,juanduan@example.net,484 北斗縣長安路138號之1
+29f7b2ad-4626-4a7b-8797-b810a357e57f,Suppliers/29f7b2ad-4626-4a7b-8797-b810a357e57f,_g1-qbZW---,S00739,廖筱涵,0900257189,jun96@example.net,748 樹林劍潭路782號2樓
+acfc73e7-190a-48f6-b95f-f3fff0120886,Suppliers/acfc73e7-190a-48f6-b95f-f3fff0120886,_g1-qbZa---,S00740,華雅萍,01-9374285,chao13@example.org,291 嘉義縣自強巷952號0樓
+cba830d2-2927-4244-8970-19d867c17f26,Suppliers/cba830d2-2927-4244-8970-19d867c17f26,_g1-qbZi---,S00741,葉怡君,099 24944076,guiying14@example.net,770 臺中市萬隆巷62號0樓
+d1511671-421f-4075-8cd5-56d25b0f79d8,Suppliers/d1511671-421f-4075-8cd5-56d25b0f79d8,_g1-qbZm---,S00742,徐馨儀,022 13147984,qiang90@example.com,729 台中永和路5號之1
+937c567c-0d12-4fad-b950-bd2ebbf3ec6c,Suppliers/937c567c-0d12-4fad-b950-bd2ebbf3ec6c,_g1-qbZq---,S00743,王鈺婷,05-9068938,yonghu@example.com,769 新竹縣文化路95號之5
+cf00893b-cc3f-4391-8492-4eed51439a2f,Suppliers/cf00893b-cc3f-4391-8492-4eed51439a2f,_g1-qbZu---,S00744,應雅慧,03-4381664,juan16@example.com,964 中和縣明德巷8段357號之5
+122a5ef3-b127-4d2c-92e5-e6e98ee2ce71,Suppliers/122a5ef3-b127-4d2c-92e5-e6e98ee2ce71,_g1-qbZ2---,S00745,張中山,08-73395151,qiangzou@example.org,16700 平鎮市西門街49號1樓
+0cb5d64e-9050-40b6-81d7-16f7cb9fa846,Suppliers/0cb5d64e-9050-40b6-81d7-16f7cb9fa846,_g1-qbZ6---,S00746,滕家銘,06 1320828,yan47@example.com,17624 草屯仁愛巷4段363號3樓
+d3321b1e-5e49-4118-b540-a287b14e6220,Suppliers/d3321b1e-5e49-4118-b540-a287b14e6220,_g1-qba----,S00747,寧雅雯,01 1262441,jiangjing@example.org,71227 朴子市平和街634號之1
+8187241e-d5d3-443b-9c25-bf23818f55ae,Suppliers/8187241e-d5d3-443b-9c25-bf23818f55ae,_g1-qbaG---,S00748,李懿,(01) 62685455,sunqiang@example.org,800 斗六市水源路2段75號之7
+02177e1c-51de-45bf-b6bd-72c12982a6ba,Suppliers/02177e1c-51de-45bf-b6bd-72c12982a6ba,_g1-qbaK---,S00749,馮佩君,(08) 32785572,xiulan02@example.net,659 橫山民有巷16號之5
+05227787-30a8-416d-98b4-4eeb2cacf9ec,Suppliers/05227787-30a8-416d-98b4-4eeb2cacf9ec,_g1-qbaO---,S00750,易婷婷,0967-749731,hechao@example.net,605 苗栗北投路1段89號之5
+2aa6e42b-467c-49da-ae6a-b5e6c9b54c73,Suppliers/2aa6e42b-467c-49da-ae6a-b5e6c9b54c73,_g1-qbaS---,S00751,毛淑貞,(07) 85238697,fang68@example.org,645 南投市三民巷32號之8
+a7330b4d-fcd6-454c-a2d3-36223d885f17,Suppliers/a7330b4d-fcd6-454c-a2d3-36223d885f17,_g1-qbaW---,S00752,劉淑貞,0923568784,tao06@example.com,73578 永康奇岩路2段68號之2
+41b14f63-f9a9-47e4-b072-9252dd3bf36c,Suppliers/41b14f63-f9a9-47e4-b072-9252dd3bf36c,_g1-qbae---,S00753,黃雅慧,01-9098034,rli@example.com,869 太保忠孝街42號之9
+455c214a-bad3-4579-98e6-eb1052d3a66f,Suppliers/455c214a-bad3-4579-98e6-eb1052d3a66f,_g1-qbai---,S00754,胡詩婷,00-7174409,min30@example.com,69579 新北南巷38號8樓
+f037e6da-3e23-4e35-999a-1e318924372f,Suppliers/f037e6da-3e23-4e35-999a-1e318924372f,_g1-qbam---,S00755,曹雅芳,087 68633397,xiuying68@example.net,670 臺東中和路9段8號之4
+87af6ec2-4842-43b7-acf3-a4807351d31e,Suppliers/87af6ec2-4842-43b7-acf3-a4807351d31e,_g1-qbaq---,S00756,桂家銘,(05) 59318507,jingyang@example.com,86157 永和縣明德路32號6樓
+284b8637-25d7-452c-bce3-713754f4b11b,Suppliers/284b8637-25d7-452c-bce3-713754f4b11b,_g1-qbay---,S00757,楊欣怡,08-57366052,li47@example.net,445 橫山市中華巷16號之4
+514a726f-e4e8-4523-9e10-a547b3d15bf8,Suppliers/514a726f-e4e8-4523-9e10-a547b3d15bf8,_g1-qba2---,S00758,祁淑芬,0974-096270,guiying94@example.net,31389 大里市自強街1號之0
+980a0d94-156d-455c-b831-d8c0d1b3a70d,Suppliers/980a0d94-156d-455c-b831-d8c0d1b3a70d,_g1-qba6---,S00759,王慧君,040 36983105,chaohou@example.org,81130 橫山新生巷4段776號1樓
+b1031070-d411-4092-b119-904ad605272f,Suppliers/b1031070-d411-4092-b119-904ad605272f,_g1-qbbC---,S00760,苗沖,00-57057350,osu@example.net,997 桃園四維街92號之6
+94806fa2-daa6-4139-ad1b-641fbe47932a,Suppliers/94806fa2-daa6-4139-ad1b-641fbe47932a,_g1-qbbG---,S00761,劉淑華,06-89445466,wei76@example.org,41306 雲林新莊路89號2樓
+22dbb405-4a3e-4713-94ef-3ca3afd5ab80,Suppliers/22dbb405-4a3e-4713-94ef-3ca3afd5ab80,_g1-qbbK---,S00762,黎淑娟,05-4928101,xiulan56@example.com,64015 竹北縣福德巷5段50號8樓
+c344c3ce-3b46-4595-a2d0-a4a1b3977856,Suppliers/c344c3ce-3b46-4595-a2d0-a4a1b3977856,_g1-qbbS---,S00763,許怡萱,07-55623367,naye@example.com,31484 新北大安路230號6樓
+548160e8-ade4-42ef-9757-1ffadfa7c3ca,Suppliers/548160e8-ade4-42ef-9757-1ffadfa7c3ca,_g1-qbbW---,S00764,廖雅琪,02-8536505,hzeng@example.org,768 屏東縣關渡路1段537號4樓
+91c49397-09f7-4d7c-ae06-a4d6805d893b,Suppliers/91c49397-09f7-4d7c-ae06-a4d6805d893b,_g1-qbba---,S00765,田欣怡,(00) 56977348,qiangxia@example.com,201 頭份縣石牌街98號之9
+5fb4b503-6060-44eb-ae94-ef2efe7f68d5,Suppliers/5fb4b503-6060-44eb-ae94-ef2efe7f68d5,_g1-qbbi---,S00766,呂家瑋,078 48988901,wei78@example.org,465 雲林市北投街914號之7
+465013b7-f5a8-43b3-b3e9-847f09dcce4e,Suppliers/465013b7-f5a8-43b3-b3e9-847f09dcce4e,_g1-qbbm---,S00767,鄒心怡,01-97407402,fang08@example.com,13902 三重大同路5段647號之6
+fd5a3df6-fa6a-468b-a66b-dccec72d40c8,Suppliers/fd5a3df6-fa6a-468b-a66b-dccec72d40c8,_g1-qbbq---,S00768,伍琬婷,0980-561265,bwang@example.net,11394 北斗民族路323號3樓
+e3590f64-17a9-4ba8-a034-a0b9519008db,Suppliers/e3590f64-17a9-4ba8-a034-a0b9519008db,_g1-qbbu---,S00769,戴筱涵,092 40149896,xiuyingzhong@example.org,746 台中市新生路376號9樓
+9ab5157c-02cc-4937-8232-1c4fc50f0f7f,Suppliers/9ab5157c-02cc-4937-8232-1c4fc50f0f7f,_g1-qbby---,S00770,班柏翰,(00) 47785999,jieren@example.com,639 新營新生巷320號之3
+f2682ffc-f7d6-4a5d-866b-633c62c106c7,Suppliers/f2682ffc-f7d6-4a5d-866b-633c62c106c7,_g1-qbb6---,S00771,苗佳蓉,0910-506803,ayao@example.com,19400 台中長安街300號之7
+d27e3e4b-a699-4ab9-89aa-1c0f641ef2a0,Suppliers/d27e3e4b-a699-4ab9-89aa-1c0f641ef2a0,_g1-qbcG---,S00772,梁雅芳,0977028254,fanguiying@example.org,54478 平鎮學府巷7號之9
+68386fa8-6e10-473c-997a-d5fbd35f6de1,Suppliers/68386fa8-6e10-473c-997a-d5fbd35f6de1,_g1-qbcK---,S00773,郭庭瑋,023 24282697,fyao@example.com,97424 蘆竹新興街8號之5
+96e6918f-d02a-4e30-850c-82df88bd3748,Suppliers/96e6918f-d02a-4e30-850c-82df88bd3748,_g1-qbcS---,S00774,高淑玲,(02) 60845736,gangkang@example.com,784 卑南新北投路28號之2
+3d1a47a2-1d46-4659-8127-92e836206a2e,Suppliers/3d1a47a2-1d46-4659-8127-92e836206a2e,_g1-qbcW---,S00775,陳雅涵,0992-883590,syuan@example.org,891 基隆育英路7段8號4樓
+698c4954-e8bc-461b-8f11-e534320c357c,Suppliers/698c4954-e8bc-461b-8f11-e534320c357c,_g1-qbca---,S00776,梁信宏,01 4539458,lei31@example.org,17528 彰化縣雙連路8號1樓
+011d2b96-fe73-464b-bd79-18501898b765,Suppliers/011d2b96-fe73-464b-bd79-18501898b765,_g1-qbce---,S00777,馬淑芬,09-83700329,chaoli@example.net,869 永康市關渡路10號2樓
+643c8c83-ab59-44f5-a5d4-6de00d9d95bd,Suppliers/643c8c83-ab59-44f5-a5d4-6de00d9d95bd,_g1-qbci---,S00778,周志豪,049 59506028,ewang@example.org,46811 關山縣東興巷4段2號之7
+05de4bff-83e2-4f0d-b871-9306550881b4,Suppliers/05de4bff-83e2-4f0d-b871-9306550881b4,_g1-qbcq---,S00779,侯佳蓉,06 6329157,dujun@example.com,397 竹田忠孝巷60號8樓
+1670237e-74ad-482a-a650-3e1916f0b88c,Suppliers/1670237e-74ad-482a-a650-3e1916f0b88c,_g1-qbcu---,S00780,夏淑惠,07-37606761,wenmin@example.com,602 梅山縣永寧街520號6樓
+7d1fe500-a204-4c5c-a693-4ee8420c1a65,Suppliers/7d1fe500-a204-4c5c-a693-4ee8420c1a65,_g1-qbcy---,S00781,孫惠如,0975-320795,gangpan@example.net,72627 澎湖縣新埔路642號0樓
+d7a5ff9f-1c06-4a78-bd08-c1187126193e,Suppliers/d7a5ff9f-1c06-4a78-bd08-c1187126193e,_g1-qbc6---,S00782,潘飛,0960276085,yye@example.com,756 永康縣公園路8號0樓
+436ca286-fb64-4013-838d-7c48c4fdd315,Suppliers/436ca286-fb64-4013-838d-7c48c4fdd315,_g1-qbd----,S00783,張淑貞,071 84742874,jun28@example.org,620 褒忠四維街6號之1
+f85e5c1c-2067-412e-a03b-026a75bcb542,Suppliers/f85e5c1c-2067-412e-a03b-026a75bcb542,_g1-qbdC---,S00784,謝宜君,0900-853662,xiulanlin@example.org,975 草屯大智巷6號1樓
+2ccb8ae9-da7b-44c0-a123-57a30f487528,Suppliers/2ccb8ae9-da7b-44c0-a123-57a30f487528,_g1-qbdG---,S00785,林志偉,(01) 41222898,mingmo@example.net,112 古坑天母街1段381號2樓
+1b60efda-e923-4628-b5fb-c82525765743,Suppliers/1b60efda-e923-4628-b5fb-c82525765743,_g1-qbdK---,S00786,戴筱涵,0964973905,jiaguiying@example.org,725 南投象山巷278號之5
+1cb85e27-eba2-4029-abb3-3915d42d108b,Suppliers/1cb85e27-eba2-4029-abb3-3915d42d108b,_g1-qbdS---,S00787,劉家豪,05 5623397,zsu@example.com,10546 竹田迴龍巷99號3樓
+d654bf67-3065-4027-a62c-60904f2cfdb1,Suppliers/d654bf67-3065-4027-a62c-60904f2cfdb1,_g1-qbdW---,S00788,黃家豪,(05) 82232261,hanguiying@example.org,91175 桃園縣民有路5號9樓
+43cf6563-34e4-43a6-ac23-08e9934a1d87,Suppliers/43cf6563-34e4-43a6-ac23-08e9934a1d87,_g1-qbda---,S00789,李傑克,000 77857249,haojing@example.net,43064 北港縣新生巷2段444號之3
+17e6a07f-2e91-4a19-96e4-a9bc3bf44586,Suppliers/17e6a07f-2e91-4a19-96e4-a9bc3bf44586,_g1-qbde---,S00790,鄭佳樺,(08) 51077582,jun00@example.net,980 牡丹育英巷8號2樓
+bc4411a9-2748-4fe6-bb5e-97aa19b21079,Suppliers/bc4411a9-2748-4fe6-bb5e-97aa19b21079,_g1-qbdm---,S00791,余思穎,0905960386,lei78@example.com,93914 竹田市光明街4段7號6樓
+41c047b6-17c4-4a87-8908-cabbef89d935,Suppliers/41c047b6-17c4-4a87-8908-cabbef89d935,_g1-qbdq---,S00792,袁靜怡,0980629682,kyang@example.net,476 竹北縣中央街844號之3
+a1a8dd11-07ba-4ed4-ac27-f7e87a37d71d,Suppliers/a1a8dd11-07ba-4ed4-ac27-f7e87a37d71d,_g1-qbdu---,S00793,王婷婷,023 37923994,qqian@example.net,155 台中四維街813號之2
+c67e2016-59b2-46e7-ba8d-1ac76b127000,Suppliers/c67e2016-59b2-46e7-ba8d-1ac76b127000,_g1-qbdy---,S00794,劉冠宇,(07) 19399896,yong43@example.com,962 台東市西門街788號0樓
+0ad628c1-8102-41df-8cc1-aaff3a7f2d0d,Suppliers/0ad628c1-8102-41df-8cc1-aaff3a7f2d0d,_g1-qbd6---,S00795,汪怡君,(09) 31377537,xhan@example.net,62832 白沙市民富巷4號4樓
+a75dd8dd-d748-4e1e-a0b2-902ca88ecd84,Suppliers/a75dd8dd-d748-4e1e-a0b2-902ca88ecd84,_g1-qbe----,S00796,高佩珊,0933-502130,taoxia@example.com,80800 板橋縣景美路1段31號之9
+503cf0eb-0f8c-4699-b57f-3a70c9a986b7,Suppliers/503cf0eb-0f8c-4699-b57f-3a70c9a986b7,_g1-qbeC---,S00797,左美玲,0916-792375,zhu@example.org,43941 三重忠義路1號之2
+f0da1116-e790-48bb-b68f-f32bd5a2d2d0,Suppliers/f0da1116-e790-48bb-b68f-f32bd5a2d2d0,_g1-qbeK---,S00798,王宜君,070 83746605,jun95@example.com,690 南投南路4段5號2樓
+90fdf671-3cb2-4640-9667-1b2d22033641,Suppliers/90fdf671-3cb2-4640-9667-1b2d22033641,_g1-qbeO---,S00799,趙怡婷,0942232137,zhouqiang@example.com,18638 光復市太平巷9段453號3樓
+3a6eb01a-60e6-4bf6-8df9-87348ead87fe,Suppliers/3a6eb01a-60e6-4bf6-8df9-87348ead87fe,_g1-qbeS---,S00800,蕭思穎,01-7802566,guiying64@example.com,379 桃園民有街6段3號1樓
+0ba1ec65-c91b-4595-943c-63bb51d2cbe1,Suppliers/0ba1ec65-c91b-4595-943c-63bb51d2cbe1,_g1-qbeW---,S00801,姜惠雯,0913-562755,na04@example.com,17161 光復縣南路5號0樓
+9f348eac-9763-4fe9-9274-8f0d23376928,Suppliers/9f348eac-9763-4fe9-9274-8f0d23376928,_g1-qbee---,S00802,秦俊賢,07 8449126,guiying86@example.org,802 北港長春巷97號6樓
+d344df15-738c-4991-856c-2cf1f1e0da29,Suppliers/d344df15-738c-4991-856c-2cf1f1e0da29,_g1-qbei---,S00803,李冠廷,(05) 37363758,mincheng@example.net,87048 連江市奇岩巷93號0樓
+b1fb5e86-08b4-4d89-905f-3685cdffd95e,Suppliers/b1fb5e86-08b4-4d89-905f-3685cdffd95e,_g1-qbem---,S00804,王依婷,0912327754,xiuyingxu@example.org,66220 北竿市自強路680號4樓
+c18bf11f-86c3-40e6-88dd-21249ad50814,Suppliers/c18bf11f-86c3-40e6-88dd-21249ad50814,_g1-qbeq---,S00805,張雅文,(03) 27519021,gang37@example.net,44976 中壢芝山巷5段9號9樓
+f4e970c1-1deb-4133-90c2-281ad772c7e3,Suppliers/f4e970c1-1deb-4133-90c2-281ad772c7e3,_g1-qbey---,S00806,李依婷,024 47757183,adu@example.com,28296 褒忠象山巷7號1樓
+d97ab2e0-a896-4f72-ba2c-bbe00978c97c,Suppliers/d97ab2e0-a896-4f72-ba2c-bbe00978c97c,_g1-qbe2---,S00807,範雅慧,0995293424,ifan@example.org,95125 永和縣學府街4段1號1樓
+96bfb090-a21e-43ce-a79b-236f530e8cf7,Suppliers/96bfb090-a21e-43ce-a79b-236f530e8cf7,_g1-qbe6---,S00808,傅宜君,0986-165329,qiang76@example.com,62740 北竿市新生巷51號3樓
+e6999b27-7a59-4c66-b1c5-3aa92affec2c,Suppliers/e6999b27-7a59-4c66-b1c5-3aa92affec2c,_g1-qbf----,S00809,黃欣怡,04-66611484,yongyao@example.com,506 褒忠龍山寺街486號0樓
+2a033c12-cdf3-4a0e-a30b-ed6f78fcd887,Suppliers/2a033c12-cdf3-4a0e-a30b-ed6f78fcd887,_g1-qbfG---,S00810,陳家銘,051 16034072,pingshao@example.org,98891 雲林市土城巷919號之0
+06ec4897-e04c-430c-aa7c-d2d8d3f600e3,Suppliers/06ec4897-e04c-430c-aa7c-d2d8d3f600e3,_g1-qbfK---,S00811,李雅筑,00-2039008,gaowei@example.org,718 新北關渡巷951號7樓
+887873a0-ada0-46d3-8b52-1501ddae8a6f,Suppliers/887873a0-ada0-46d3-8b52-1501ddae8a6f,_g1-qbfO---,S00812,林承翰,00-17733407,pingxue@example.org,42633 草屯文昌巷408號之5
+88e53beb-93c7-4861-bdda-e968ab015235,Suppliers/88e53beb-93c7-4861-bdda-e968ab015235,_g1-qbfS---,S00813,劉飛,0986102250,ping80@example.com,47634 汐止市水源街7號0樓
+cd920bc4-ce32-43bf-a7a1-fc8484a47a26,Suppliers/cd920bc4-ce32-43bf-a7a1-fc8484a47a26,_g1-qbfa---,S00814,陳冠霖,028 75294276,wenxia@example.org,94457 雲林士林路237號8樓
+4e7171c2-b87a-48bd-83e6-a3a3a27acdbb,Suppliers/4e7171c2-b87a-48bd-83e6-a3a3a27acdbb,_g1-qbfe---,S00815,吳家銘,095 97075598,qiugang@example.org,568 光復萬隆街9號之2
+42dc087a-5744-40c8-b769-c6e343ba4e6d,Suppliers/42dc087a-5744-40c8-b769-c6e343ba4e6d,_g1-qbfi---,S00816,錢靜怡,012 15548292,jing22@example.net,591 大里中華街289號之5
+1d7fcccf-c597-4d4c-b72a-4f681f476144,Suppliers/1d7fcccf-c597-4d4c-b72a-4f681f476144,_g1-qbfm---,S00817,何怡婷,0935-060317,xiuying11@example.net,383 橫山市民治街365號之1
+5549975d-4f39-4e84-a7a1-18883c7d31ae,Suppliers/5549975d-4f39-4e84-a7a1-18883c7d31ae,_g1-qbfu---,S00818,宋雅婷,(09) 36184062,chaocao@example.com,64018 苗栗東湖巷34號4樓
+e973e81f-3f9a-48e9-a768-17625af830e0,Suppliers/e973e81f-3f9a-48e9-a768-17625af830e0,_g1-qbfy---,S00819,丁威廷,090 54547627,jiali@example.net,27871 連江市頂福州街41號2樓
+943b73f4-3157-4736-99d0-92c5ccfda415,Suppliers/943b73f4-3157-4736-99d0-92c5ccfda415,_g1-qbf2---,S00820,李宜庭,033 26054516,chao57@example.net,492 頭份中正街5號之1
+34fd2eeb-e716-40ea-b015-60a667a60d20,Suppliers/34fd2eeb-e716-40ea-b015-60a667a60d20,_g1-qbf6---,S00821,申淑芬,06 3090966,dlong@example.org,994 台中五福路210號之7
+7ec99a4b-5463-47d4-b155-4a5448c0b629,Suppliers/7ec99a4b-5463-47d4-b155-4a5448c0b629,_g1-qbgC---,S00822,夏怡伶,(00) 29506565,luming@example.com,74186 馬公淡水街6號5樓
+f8b4a9e1-cc32-46ce-ae4c-b014dd97dcd1,Suppliers/f8b4a9e1-cc32-46ce-ae4c-b014dd97dcd1,_g1-qbgG---,S00823,鄧家銘,0988-767787,oyi@example.net,34820 板橋市淡水巷155號9樓
+7d640fee-c59e-4ea1-ab8d-fd10220f5488,Suppliers/7d640fee-c59e-4ea1-ab8d-fd10220f5488,_g1-qbgO---,S00824,申中山,05-67801284,jie42@example.com,574 褒忠民生街2段429號4樓
+7c60d75c-2cc1-4d11-ba2d-ee6e1ecc3676,Suppliers/7c60d75c-2cc1-4d11-ba2d-ee6e1ecc3676,_g1-qbgS---,S00825,譚雅琪,007 84840123,rtang@example.org,560 蘆竹縣長安路2號3樓
+80dce391-3f6f-4005-be8f-e0b58bbd22c3,Suppliers/80dce391-3f6f-4005-be8f-e0b58bbd22c3,_g1-qbga---,S00826,蔣冠宇,0950533684,qiangpeng@example.com,267 台北縣劍南路29號之3
+ec20c856-e7bd-4c7e-b331-72b5c2d34935,Suppliers/ec20c856-e7bd-4c7e-b331-72b5c2d34935,_g1-qbgi---,S00827,喬俊賢,0910-388302,weilei@example.com,454 白沙府中路3號之0
+8d10a8fe-5d8a-4bb9-9ea0-f22b9b9651b3,Suppliers/8d10a8fe-5d8a-4bb9-9ea0-f22b9b9651b3,_g1-qbgq---,S00828,謝淑玲,023 62875230,changyang@example.com,29684 臺東大勇街11號之3
+2928d957-cd9f-4f4a-9160-5e6f1b24c0c2,Suppliers/2928d957-cd9f-4f4a-9160-5e6f1b24c0c2,_g1-qbgu---,S00829,陳淑芬,075 62145818,gang65@example.net,509 頭份市石牌巷53號2樓
+c13bdf12-3de0-45e6-957e-1f8862d6e646,Suppliers/c13bdf12-3de0-45e6-957e-1f8862d6e646,_g1-qbgy---,S00830,黃嘉玲,021 87648092,qiangfan@example.com,114 臺東博愛街73號之8
+90ed9199-71d1-4f66-b6f9-5ad0e53de52e,Suppliers/90ed9199-71d1-4f66-b6f9-5ad0e53de52e,_g1-qbg6---,S00831,王美玲,062 88736808,plong@example.com,84761 南投新北投路51號6樓
+70cdba88-57f7-48cf-b64b-3e5ffb0a8ac6,Suppliers/70cdba88-57f7-48cf-b64b-3e5ffb0a8ac6,_g1-qbh----,S00832,何志宏,(08) 64613576,luogang@example.org,599 桃園大同巷1號之1
+e10bf185-cea7-451e-884a-252e20ae970b,Suppliers/e10bf185-cea7-451e-884a-252e20ae970b,_g1-qbhC---,S00833,鄭郁雯,00-7968358,guxiulan@example.net,12449 桃園信義巷5號之3
+7144b383-8c13-4222-a8a7-f7fd89e34b06,Suppliers/7144b383-8c13-4222-a8a7-f7fd89e34b06,_g1-qbhK---,S00834,彭宇軒,(06) 75120966,caojing@example.net,72594 彰化市長春巷44號之2
+8a9e3d93-5073-4ee1-9f6a-d2ca4ec63a47,Suppliers/8a9e3d93-5073-4ee1-9f6a-d2ca4ec63a47,_g1-qbhO---,S00835,周美玲,0980-415941,guping@example.org,870 臺中縣平和街267號之2
+233a91e8-d68f-4907-bca2-aa08f5ce4bde,Suppliers/233a91e8-d68f-4907-bca2-aa08f5ce4bde,_g1-qbhS---,S00836,高佳玲,00-7822218,nzhao@example.com,17410 楊梅縣迴龍巷12號0樓
+17130328-f25f-4b0d-91e4-aae6d771c2c5,Suppliers/17130328-f25f-4b0d-91e4-aae6d771c2c5,_g1-qbhW---,S00837,沈雅慧,04-5634939,xiuying48@example.net,290 板橋永寧巷838號1樓
+c9a65ea8-0630-4281-8aee-4a3134d26ff3,Suppliers/c9a65ea8-0630-4281-8aee-4a3134d26ff3,_g1-qbha---,S00838,陳佳穎,02-7455986,taobai@example.org,93500 宜蘭新生街9段38號之1
+58e7d685-d262-475e-953f-08ad034cf28f,Suppliers/58e7d685-d262-475e-953f-08ad034cf28f,_g1-qbhi---,S00839,楊怡君,055 40122447,flin@example.com,163 朴子石牌巷982號0樓
+0b4408b5-8e3d-484c-9508-0bc07fbbe18f,Suppliers/0b4408b5-8e3d-484c-9508-0bc07fbbe18f,_g1-qbhm---,S00840,李雅惠,074 72477782,qyi@example.net,883 卑南民生路814號9樓
+24473942-de3d-4fa3-8716-8f7c6f081ac1,Suppliers/24473942-de3d-4fa3-8716-8f7c6f081ac1,_g1-qbhq---,S00841,郭傑克,0971782420,qiang37@example.org,882 苗栗信義路2號之0
+e8e39553-8292-42f9-934c-b2af46f9d91c,Suppliers/e8e39553-8292-42f9-934c-b2af46f9d91c,_g1-qbhy---,S00842,姜俊傑,097 48777498,yanlin@example.net,338 豐原縣大同路3段765號之2
+0ebc590b-629f-4a6d-b70c-990150267118,Suppliers/0ebc590b-629f-4a6d-b70c-990150267118,_g1-qbh6---,S00843,何宗翰,(00) 30209004,yzhou@example.net,341 北港大橋頭路421號3樓
+b6fc3d0e-df5a-49bc-9e20-9f544ab34415,Suppliers/b6fc3d0e-df5a-49bc-9e20-9f544ab34415,_g1-qbi----,S00844,高怡萱,0961-378127,min66@example.net,87401 金門市府中巷9段929號之6
+3f1c39eb-ba1d-402e-b747-bf6b45669bea,Suppliers/3f1c39eb-ba1d-402e-b747-bf6b45669bea,_g1-qbiC---,S00845,鄭思穎,(03) 49305482,xiulan67@example.org,658 牡丹民治巷9號6樓
+8f822c24-d956-4176-b3a5-63a427951b80,Suppliers/8f822c24-d956-4176-b3a5-63a427951b80,_g1-qbiK---,S00846,唐宇軒,0944204968,kwan@example.net,381 板橋縣新生路4號5樓
+dbd50e65-f030-452a-bf60-f31a2cfee0dd,Suppliers/dbd50e65-f030-452a-bf60-f31a2cfee0dd,_g1-qbiO---,S00847,曹俊傑,086 63598766,xiaona@example.org,405 雲林市德街856號之6
+350b956f-1d82-4caa-8948-2b42c7614b6e,Suppliers/350b956f-1d82-4caa-8948-2b42c7614b6e,_g1-qbiS---,S00848,金傑克,(07) 88023499,yanguo@example.com,76596 臺東永和街2段6號2樓
+e6a17709-1be2-44c6-a502-3b8dd86bbd33,Suppliers/e6a17709-1be2-44c6-a502-3b8dd86bbd33,_g1-qbia---,S00849,黎郁雯,080 26928307,utao@example.net,487 阿里山景美路17號5樓
+6f9235e7-5909-4fdf-a48e-f21f4743a104,Suppliers/6f9235e7-5909-4fdf-a48e-f21f4743a104,_g1-qbie---,S00850,李惠婷,(01) 31664536,wangtao@example.com,97642 台南市大坪巷5號5樓
+9221c778-7406-46f0-8a8e-27c4f7ff1e0b,Suppliers/9221c778-7406-46f0-8a8e-27c4f7ff1e0b,_g1-qbii---,S00851,宋依婷,00 2490807,dingtao@example.com,33805 朴子市土城路5段109號8樓
+cf1ee839-9428-4a51-94be-c7fe189dfef1,Suppliers/cf1ee839-9428-4a51-94be-c7fe189dfef1,_g1-qbim---,S00852,彭雅琪,(09) 29327933,weiyang@example.org,88078 高雄大智街5段434號3樓
+28484cc4-b67a-4497-976d-457dae82e1e5,Suppliers/28484cc4-b67a-4497-976d-457dae82e1e5,_g1-qbiu---,S00853,燕家銘,072 12052865,min47@example.com,87499 梅山中華路59號之9
+b0cb7dfb-fa89-4c81-a0d4-81c4b6f7ff8c,Suppliers/b0cb7dfb-fa89-4c81-a0d4-81c4b6f7ff8c,_g1-qbi6---,S00854,柳雅芳,07-74380425,tianxiuying@example.org,476 基隆市廣慈巷9號之3
+ca24c0ce-00ab-4b2c-9df1-83877c4a5430,Suppliers/ca24c0ce-00ab-4b2c-9df1-83877c4a5430,_g1-qbj----,S00855,楊雅琪,08-44327088,uyan@example.org,420 大里延平路54號之8
+e614bc4d-018c-4b1b-a6a5-fa8d0ec25d49,Suppliers/e614bc4d-018c-4b1b-a6a5-fa8d0ec25d49,_g1-qbjC---,S00856,陳雅萍,045 98764668,yanwang@example.com,706 花蓮縣自立街1號8樓
+cb7034c3-8fcc-4699-9b4a-0b2ffd105ef9,Suppliers/cb7034c3-8fcc-4699-9b4a-0b2ffd105ef9,_g1-qbjK---,S00857,李淑慧,(06) 45530197,kliao@example.net,23387 關山市新生路204號6樓
+de1c8ff1-dcb1-4629-8ac5-3770f2bc346b,Suppliers/de1c8ff1-dcb1-4629-8ac5-3770f2bc346b,_g1-qbjO---,S00858,羅惠如,053 34443250,leikong@example.com,389 中和太平路644號4樓
+9f0d46cb-9ba6-4950-b6c9-9f96e631bbf8,Suppliers/9f0d46cb-9ba6-4950-b6c9-9f96e631bbf8,_g1-qbjS---,S00859,陳雅涵,0992-061062,jundai@example.org,401 新營五福巷42號之1
+581fc083-f773-4b81-b37a-3100e0e9f96d,Suppliers/581fc083-f773-4b81-b37a-3100e0e9f96d,_g1-qbjW---,S00860,薛佩珊,(02) 34251014,tantao@example.net,38053 太平市新店路106號8樓
+6ea64843-1106-47aa-8cd8-ef77340e584f,Suppliers/6ea64843-1106-47aa-8cd8-ef77340e584f,_g1-qbje---,S00861,余雅文,002 79739770,jing97@example.org,96899 中和市永安路303號之0
+c86bc754-82e6-443a-a28d-9e431c67b7d9,Suppliers/c86bc754-82e6-443a-a28d-9e431c67b7d9,_g1-qbji---,S00862,林淑華,(00) 84383541,yang53@example.net,88097 竹北縣小碧潭路5號之8
+f3de675c-12f1-42c1-9b4e-671242663674,Suppliers/f3de675c-12f1-42c1-9b4e-671242663674,_g1-qbjm---,S00863,劉怡如,08-58352180,lixia@example.org,75951 卑南市龍山寺街61號之5
+54fddf9f-1e41-487c-a055-4848064fc6df,Suppliers/54fddf9f-1e41-487c-a055-4848064fc6df,_g1-qbju---,S00864,唐雅雯,03 4147464,xiuyingcheng@example.com,29286 朴子民族街98號7樓
+f8c575bc-3579-4925-b421-cf1a5ff17f93,Suppliers/f8c575bc-3579-4925-b421-cf1a5ff17f93,_g1-qbjy---,S00865,周家瑜,0909-057723,shaojuan@example.com,885 太平縣中和街1號4樓
+1e2bdd2a-fb41-47ef-9322-5f09c320dcaf,Suppliers/1e2bdd2a-fb41-47ef-9322-5f09c320dcaf,_g1-qbj2---,S00866,李惠雯,(05) 40044018,lei29@example.net,935 卑南民族路1段39號之3
+defaefdd-c3ac-49e2-a83d-43aa6b5fd97f,Suppliers/defaefdd-c3ac-49e2-a83d-43aa6b5fd97f,_g1-qbk----,S00867,李沖,(09) 14188472,ljia@example.org,545 竹北市劍南巷67號之9
+2c0071e4-6ecd-4fe8-8abe-c52d0a0e45c9,Suppliers/2c0071e4-6ecd-4fe8-8abe-c52d0a0e45c9,_g1-qbkC---,S00868,羅怡伶,(04) 63930005,longlei@example.org,79842 彰化市西門路104號之5
+cf156f24-f7be-4930-91b0-038925e4432b,Suppliers/cf156f24-f7be-4930-91b0-038925e4432b,_g1-qbkG---,S00869,李家瑜,(05) 12062330,jingluo@example.net,15333 白沙民權巷718號之4
+53db89cd-ff89-42d3-9ca9-e4df375f698f,Suppliers/53db89cd-ff89-42d3-9ca9-e4df375f698f,_g1-qbkO---,S00870,周雅萍,(06) 55657757,fangmao@example.net,33431 屏東永和街4號0樓
+141487b0-38f2-41da-9198-93e5ea5afbed,Suppliers/141487b0-38f2-41da-9198-93e5ea5afbed,_g1-qbkS---,S00871,彭雅婷,0970960930,jun13@example.com,699 蘆竹市自由巷690號1樓
+a837adb2-06fd-4a86-8559-b513084d7db4,Suppliers/a837adb2-06fd-4a86-8559-b513084d7db4,_g1-qbkW---,S00872,李彥廷,0905-650900,cxia@example.com,99019 北斗正義路788號之4
+875378a0-6b08-44b7-a656-92a31ca05b5f,Suppliers/875378a0-6b08-44b7-a656-92a31ca05b5f,_g1-qbka---,S00873,方淑玲,04 7266466,fulei@example.org,93454 朴子平和路738號3樓
+85f98437-6285-429a-b982-c291a516c130,Suppliers/85f98437-6285-429a-b982-c291a516c130,_g1-qbke---,S00874,李佳穎,0983355746,qiang12@example.net,40273 關山市和平路30號之4
+88469412-152d-4b5f-b863-fa2b8b3819cf,Suppliers/88469412-152d-4b5f-b863-fa2b8b3819cf,_g1-qbkm---,S00875,蔣郁婷,013 44254568,elu@example.com,872 古坑動物園巷757號0樓
+ff7da5e6-f617-4ce2-9635-d725b5b237f4,Suppliers/ff7da5e6-f617-4ce2-9635-d725b5b237f4,_g1-qbkq---,S00876,蔣怡安,0972988234,qding@example.com,76966 永康縣景美路1號之9
+0c89af65-ba84-4600-8c9f-97485c1959b8,Suppliers/0c89af65-ba84-4600-8c9f-97485c1959b8,_g1-qbku---,S00877,王雅雯,(00) 19979991,jie21@example.net,447 中壢明德路765號6樓
+e9fa9f0f-c61e-49e2-b69a-0c9ab34fcbd3,Suppliers/e9fa9f0f-c61e-49e2-b69a-0c9ab34fcbd3,_g1-qbk2---,S00878,詹佳樺,0948133918,maomin@example.net,33815 北竿中山巷99號之5
+03ef10c8-561c-40bd-98a4-a3857026893e,Suppliers/03ef10c8-561c-40bd-98a4-a3857026893e,_g1-qbk6---,S00879,金雅文,(03) 37244728,syan@example.net,41876 嘉義縣劍南路334號3樓
+0db563c0-484a-4eee-b18e-8ed62c81fb56,Suppliers/0db563c0-484a-4eee-b18e-8ed62c81fb56,_g1-qbl----,S00880,朱雅慧,04-26981530,yyi@example.com,366 台東市忠孝街6號之7
+8c956241-3a01-4df4-8e68-487b315429b1,Suppliers/8c956241-3a01-4df4-8e68-487b315429b1,_g1-qblC---,S00881,張怡婷,00 8658979,yonggong@example.com,175 三重東興巷623號7樓
+69b5d77f-9a54-4bd5-b5ec-ec571da33d8e,Suppliers/69b5d77f-9a54-4bd5-b5ec-ec571da33d8e,_g1-qblG---,S00882,孫詩涵,054 23370602,qianglu@example.net,11279 臺東市仁愛巷645號之8
+5b4b05ee-9037-4b59-815a-52d7f36799a9,Suppliers/5b4b05ee-9037-4b59-815a-52d7f36799a9,_g1-qblO---,S00883,尚俊宏,02-3173628,zoujuan@example.com,374 永和縣淡水路5號2樓
+91b27e64-03ce-4697-ac4b-7bcb201862c3,Suppliers/91b27e64-03ce-4697-ac4b-7bcb201862c3,_g1-qblS---,S00884,薛瑋婷,0957450515,qiang83@example.net,353 澎湖育英街380號1樓
+596ad51f-4c28-471a-945d-77eb9b8a6c5f,Suppliers/596ad51f-4c28-471a-945d-77eb9b8a6c5f,_g1-qblW---,S00885,馬俊宏,07-4947638,juan12@example.com,482 連江市和平街573號4樓
+7c39c2cf-66a3-40f5-adf4-32fe51515692,Suppliers/7c39c2cf-66a3-40f5-adf4-32fe51515692,_g1-qble---,S00886,鞠佳穎,098 13873982,xia40@example.net,433 連江市和平街3段49號1樓
+fa552f52-83d5-4bc3-9263-dd8261c78df9,Suppliers/fa552f52-83d5-4bc3-9263-dd8261c78df9,_g1-qbli---,S00887,趙詩婷,(01) 46380531,ggao@example.net,64449 橫山市和街巷46號5樓
+b48d9c04-e23a-43d4-9e7a-a238167bfb33,Suppliers/b48d9c04-e23a-43d4-9e7a-a238167bfb33,_g1-qblq---,S00888,馮詩婷,(07) 23528052,taoshao@example.net,39958 蘆洲中正巷1號之4
+532b0a22-80f9-4872-af93-e664eae05c3e,Suppliers/532b0a22-80f9-4872-af93-e664eae05c3e,_g1-qbly---,S00889,余懿,00-35102890,gangma@example.org,53324 太平縣自由巷9號之1
+bb3122cf-8513-4456-9e34-bf03eb8a68b2,Suppliers/bb3122cf-8513-4456-9e34-bf03eb8a68b2,_g1-qbl2---,S00890,劉淑惠,034 94784336,lujing@example.net,34699 屏東新埔路2號7樓
+2be5820b-1320-4c16-952f-1d189def0ab1,Suppliers/2be5820b-1320-4c16-952f-1d189def0ab1,_g1-qbm----,S00891,郭思穎,0933-895596,leifang@example.net,500 朴子大安巷683號之4
+8a503d6a-264d-4ef6-8b1d-2094bf0192d0,Suppliers/8a503d6a-264d-4ef6-8b1d-2094bf0192d0,_g1-qbmC---,S00892,陳家瑋,0983287821,qiangli@example.com,399 梅山縣迴龍街3段8號1樓
+9cfcbd5a-225a-40cc-bc6a-de5bf88b06be,Suppliers/9cfcbd5a-225a-40cc-bc6a-de5bf88b06be,_g1-qbmG---,S00893,羅建宏,0932544514,chengqiang@example.net,798 中和縣新莊街539號之4
+264dc821-060e-414c-b132-0c55542536fe,Suppliers/264dc821-060e-414c-b132-0c55542536fe,_g1-qbmO---,S00894,王郁婷,00 1288321,clu@example.org,34315 豐原復興巷11號之8
+9dd4accf-9735-4060-a3e5-9c4dbf44d3d5,Suppliers/9dd4accf-9735-4060-a3e5-9c4dbf44d3d5,_g1-qbmS---,S00895,孫志宏,04-41851187,jun50@example.org,533 嘉義古亭街28號之4
+21a691b7-e5d0-4ac4-834f-bb628a541f0c,Suppliers/21a691b7-e5d0-4ac4-834f-bb628a541f0c,_g1-qbmW---,S00896,鄭怡婷,(00) 20033722,pingren@example.net,85601 中壢民富街310號6樓
+271a8c7e-d90c-4fa9-a0ed-5b2f7b7dfb22,Suppliers/271a8c7e-d90c-4fa9-a0ed-5b2f7b7dfb22,_g1-qbma---,S00897,李柏翰,07-18888177,ndong@example.com,280 澎湖市五福路440號5樓
+9c10fb35-ff7b-4204-bbdb-3456fefc210d,Suppliers/9c10fb35-ff7b-4204-bbdb-3456fefc210d,_g1-qbme---,S00898,鄭惠雯,0961-805586,bkang@example.net,21579 三重縣新埔街591號6樓
+bc7bd24b-113a-4902-bdf3-7091b8ad0714,Suppliers/bc7bd24b-113a-4902-bdf3-7091b8ad0714,_g1-qbmm---,S00899,王淑慧,028 34200443,hanping@example.com,50676 南投市蘆洲街564號之0
+b61e9f59-519e-459c-90d4-21ab009c19d7,Suppliers/b61e9f59-519e-459c-90d4-21ab009c19d7,_g1-qbmu---,S00900,張宇軒,(08) 38384591,cdeng@example.org,978 白沙市光復巷5段83號之1
+416c59ae-4a99-4a7d-8dd1-8b981187c60a,Suppliers/416c59ae-4a99-4a7d-8dd1-8b981187c60a,_g1-qbm2---,S00901,姜志豪,(05) 31169423,sunjuan@example.net,118 馬公市關渡街428號之1
+bc8e9020-f8f2-4638-b17b-29e902e98460,Suppliers/bc8e9020-f8f2-4638-b17b-29e902e98460,_g1-qbm6---,S00902,白思穎,07-95234750,yanguo@example.org,113 雲林縣民治路57號之5
+83748a19-8c02-4b99-aa78-2f8103513bb2,Suppliers/83748a19-8c02-4b99-aa78-2f8103513bb2,_g1-qbnC---,S00903,董冠霖,(04) 48640290,yeyang@example.com,898 大里五福巷883號之0
+b718367b-365b-44f1-9a8e-cd78419a966c,Suppliers/b718367b-365b-44f1-9a8e-cd78419a966c,_g1-qbnG---,S00904,陳淑慧,(01) 15989527,dingguiying@example.org,86312 豐原自由路7段576號之5
+7b792074-5ea5-44aa-b2b2-1ecdd8e499a1,Suppliers/7b792074-5ea5-44aa-b2b2-1ecdd8e499a1,_g1-qbnK---,S00905,範佩君,0933-123781,leishao@example.com,270 金門市龍山寺街7段82號3樓
+cdbf13a2-24e2-4125-9b90-5dd0e244d47f,Suppliers/cdbf13a2-24e2-4125-9b90-5dd0e244d47f,_g1-qbnS---,S00906,劉婷婷,0937-799950,dsong@example.com,863 蘆洲市民權路63號之4
+89a82a96-2f1e-42b4-8f4c-85d4e15b53f0,Suppliers/89a82a96-2f1e-42b4-8f4c-85d4e15b53f0,_g1-qbnW---,S00907,周羽,0971-977612,guiying10@example.com,46308 高雄市關渡巷2段74號1樓
+dfb5e73e-bf71-4cdf-845c-1fa7dc994c87,Suppliers/dfb5e73e-bf71-4cdf-845c-1fa7dc994c87,_g1-qbne---,S00908,李佳蓉,09-10508522,msong@example.com,748 雲林市五福街5號1樓
+55c8187c-990e-4d66-a365-34d56dc70dd0,Suppliers/55c8187c-990e-4d66-a365-34d56dc70dd0,_g1-qbni---,S00909,雍郁婷,004 24098520,fangyuan@example.org,20896 彰化市華興巷857號之4
+51af96c3-4133-4ee4-bd79-20654273a705,Suppliers/51af96c3-4133-4ee4-bd79-20654273a705,_g1-qbnm---,S00910,鐘庭瑋,0900974459,qiang16@example.org,62046 光復市府中街6號4樓
+91e418b9-033e-4dcb-9df0-2f760b6a89ff,Suppliers/91e418b9-033e-4dcb-9df0-2f760b6a89ff,_g1-qbnu---,S00911,畢雅芳,02-12523710,yong94@example.org,950 大里市中華巷44號6樓
+de5b8724-56cb-4464-bbfb-68046c81158c,Suppliers/de5b8724-56cb-4464-bbfb-68046c81158c,_g1-qbny---,S00912,郭雅婷,02-4636224,ulin@example.net,90407 台南中正巷2段3號8樓
+8ec18b62-5a2f-4047-a110-6c7842acc989,Suppliers/8ec18b62-5a2f-4047-a110-6c7842acc989,_g1-qbn2---,S00913,連冠霖,074 23158634,xiulandai@example.net,377 馬公四維街899號7樓
+1df8c307-3749-49c6-9a70-2265c089973c,Suppliers/1df8c307-3749-49c6-9a70-2265c089973c,_g1-qbo----,S00914,謝龍,03-6832726,ping11@example.com,287 大里劍南路4號2樓
+3aa14680-7229-4ec4-8629-50dde4ae57c2,Suppliers/3aa14680-7229-4ec4-8629-50dde4ae57c2,_g1-qboC---,S00915,楊俊宏,03-8509571,gtang@example.com,58152 台南新生巷3號之3
+6ab26271-b248-4c29-bafa-bb624742fa86,Suppliers/6ab26271-b248-4c29-bafa-bb624742fa86,_g1-qboG---,S00916,喬怡如,010 81093502,mengtao@example.com,705 楊梅國凱八德街8號之5
+d2184012-9d4c-4ed5-8314-a2175f3a6a51,Suppliers/d2184012-9d4c-4ed5-8314-a2175f3a6a51,_g1-qboK---,S00917,練宜君,095 11472139,juanwei@example.org,67703 馬公民權巷8號4樓
+7444c8e3-6311-4b18-a9dc-4509b74ed6d0,Suppliers/7444c8e3-6311-4b18-a9dc-4509b74ed6d0,_g1-qboS---,S00918,傅中山,(03) 26905432,leicui@example.org,25200 宜蘭松山巷1號之7
+d350b25d-f80a-4868-9f90-0b04a7f8e94b,Suppliers/d350b25d-f80a-4868-9f90-0b04a7f8e94b,_g1-qboW---,S00919,戴家瑜,096 12847061,jzheng@example.com,20219 員林縣東湖巷966號之2
+75255ecf-8550-457a-bf87-0a9526129951,Suppliers/75255ecf-8550-457a-bf87-0a9526129951,_g1-qboa---,S00920,郭瑋婷,03-93954826,wujie@example.com,99725 蘆洲關渡路10號3樓
+93986259-e181-4ccf-be64-7a526626a114,Suppliers/93986259-e181-4ccf-be64-7a526626a114,_g1-qboi---,S00921,張怡婷,0983467433,longfang@example.com,59932 平鎮市中央巷89號0樓
+e4026d58-8361-4c34-8a4f-e214425c6f0c,Suppliers/e4026d58-8361-4c34-8a4f-e214425c6f0c,_g1-qbom---,S00922,樊心怡,008 29427710,gongyan@example.com,62628 中和士林街7號1樓
+969daa36-5b50-470d-8702-de44533ba1ae,Suppliers/969daa36-5b50-470d-8702-de44533ba1ae,_g1-qboq---,S00923,阮思穎,094 98143946,swang@example.net,28039 太平新生巷948號之0
+85767545-58af-49b0-aadb-daa269ab34eb,Suppliers/85767545-58af-49b0-aadb-daa269ab34eb,_g1-qbou---,S00924,冉家瑋,07-4628951,kli@example.net,467 臺中市劍潭路7號之6
+c39c0c2d-a50f-4cb2-a796-8b1f927a15d4,Suppliers/c39c0c2d-a50f-4cb2-a796-8b1f927a15d4,_g1-qbo2---,S00925,江淑華,00-4669100,qtang@example.org,959 台南縣新埔街40號之5
+466699b2-2023-4a2a-8532-6083f4d46b8a,Suppliers/466699b2-2023-4a2a-8532-6083f4d46b8a,_g1-qbo6---,S00926,陽沖,06-3812954,hyao@example.net,138 澎湖縣文昌巷5段60號6樓
+4d8dc3fa-ab4d-4f09-8c06-7dcd5d637140,Suppliers/4d8dc3fa-ab4d-4f09-8c06-7dcd5d637140,_g1-qbp----,S00927,陳淑慧,08-8182063,haoli@example.org,40472 樹林林森路20號1樓
+a631244f-81a8-4a6c-8b04-3b436c66a348,Suppliers/a631244f-81a8-4a6c-8b04-3b436c66a348,_g1-qbpC---,S00928,江雅惠,017 17957119,jzheng@example.org,890 橫山大仁街8號6樓
+6ce0e2a5-b0e9-4af3-bfc3-c22484b97bad,Suppliers/6ce0e2a5-b0e9-4af3-bfc3-c22484b97bad,_g1-qbpK---,S00929,莫淑娟,09-5572575,jinghuang@example.org,69302 新營市興巷7段3號之4
+eba72c3f-1c63-490b-b1b6-9c8d4d94b08d,Suppliers/eba72c3f-1c63-490b-b1b6-9c8d4d94b08d,_g1-qbpO---,S00930,葛雅文,075 92665839,qyu@example.org,721 南投市自強街226號之4
+8de3b0dc-3a34-4bf8-af51-5e63b26fe8e2,Suppliers/8de3b0dc-3a34-4bf8-af51-5e63b26fe8e2,_g1-qbpS---,S00931,陳俊宏,09-14964187,jhan@example.com,303 彰化文化巷971號5樓
+8aa3f188-14bf-4a4e-9082-cfaedfdceb69,Suppliers/8aa3f188-14bf-4a4e-9082-cfaedfdceb69,_g1-qbpW---,S00932,謝雅雯,00-9847190,ming18@example.org,98519 臺東市東湖路6號1樓
+a14490b4-259d-4faf-a586-6b4a3ffd85d1,Suppliers/a14490b4-259d-4faf-a586-6b4a3ffd85d1,_g1-qbpe---,S00933,陳佳樺,0903492303,qiaoli@example.org,733 宜蘭市大橋頭路862號之5
+f391134a-b8db-4c4c-9d02-51a6925aacb8,Suppliers/f391134a-b8db-4c4c-9d02-51a6925aacb8,_g1-qbpu---,S00934,王承翰,09 5954729,maotao@example.net,672 澎湖市新生街838號之6
+ee129778-fb42-45a3-aa87-b7c57273dd59,Suppliers/ee129778-fb42-45a3-aa87-b7c57273dd59,_g1-qbpy---,S00935,簡雅涵,0931407361,gangdu@example.net,384 臺中太平路27號6樓
+585f14e0-815e-4894-a09b-5cc60e0dbd0b,Suppliers/585f14e0-815e-4894-a09b-5cc60e0dbd0b,_g1-qbp2---,S00936,劉冠宇,0953363631,sliu@example.org,707 彰化縣華興街969號1樓
+c7dbd7a6-9aef-4322-b9f0-70431a0da36e,Suppliers/c7dbd7a6-9aef-4322-b9f0-70431a0da36e,_g1-qbp6---,S00937,楊怡安,0975-632677,lei42@example.com,29097 彰化民族街6號4樓
+27af07bc-5106-4b8d-9297-3532721c5ae2,Suppliers/27af07bc-5106-4b8d-9297-3532721c5ae2,_g1-qbqC---,S00938,陸雅雯,05 4848144,tianjun@example.net,13954 中壢光明街6段4號之1
+3a9545a2-0e4e-4168-b3a3-3938b369b9df,Suppliers/3a9545a2-0e4e-4168-b3a3-3938b369b9df,_g1-qbqG---,S00939,張建宏,05 8282492,xiuyingshen@example.com,295 大里縣新北投街56號之3
+022904ee-5775-41ad-ad7b-ebed7d6d6aab,Suppliers/022904ee-5775-41ad-ad7b-ebed7d6d6aab,_g1-qbqK---,S00940,王淑慧,0979-437583,taomo@example.com,55187 平鎮縣民生街8段350號2樓
+2b6f684b-4053-4036-a1e5-cb1c3c903b80,Suppliers/2b6f684b-4053-4036-a1e5-cb1c3c903b80,_g1-qbqO---,S00941,羅志豪,022 43362018,xiuyingwu@example.com,440 屏東劍潭路38號之7
+42f2026b-d58b-40f7-9009-c292b52be9db,Suppliers/42f2026b-d58b-40f7-9009-c292b52be9db,_g1-qbqW---,S00942,嚴冠宇,(05) 69297223,yinjing@example.com,342 宜蘭大仁路8號0樓
+36d2b3a6-b522-48bb-88a0-1c79c998a3c8,Suppliers/36d2b3a6-b522-48bb-88a0-1c79c998a3c8,_g1-qbqa---,S00943,李宜庭,006 80176068,zwang@example.com,325 阿里山市中和路53號之1
+ea1e68e9-55d6-458e-aa8f-5bb88573ac48,Suppliers/ea1e68e9-55d6-458e-aa8f-5bb88573ac48,_g1-qbqe---,S00944,盧雅惠,097 22973127,sujuan@example.net,55155 楊梅縣新店路493號9樓
+28102a7e-1476-4cf5-944b-a589a20d1e97,Suppliers/28102a7e-1476-4cf5-944b-a589a20d1e97,_g1-qbqi---,S00945,馬欣怡,06 6197210,mengxia@example.com,191 白沙縣和街巷8號之7
+84bb2998-e9a2-43a1-8a60-dfda7055e897,Suppliers/84bb2998-e9a2-43a1-8a60-dfda7055e897,_g1-qbqq---,S00946,楊宗翰,02-6989947,jie95@example.net,79217 雲林市莒光路561號之7
+8289123d-76a0-4a71-947a-5879e8f0d12e,Suppliers/8289123d-76a0-4a71-947a-5879e8f0d12e,_g1-qbqu---,S00947,王雅惠,0930922303,daifang@example.net,593 太平縣新店巷406號6樓
+7579135e-386e-474d-90da-25c25a86faf3,Suppliers/7579135e-386e-474d-90da-25c25a86faf3,_g1-qbqy---,S00948,張佳蓉,09-2013009,changxiuying@example.com,382 南投市育英街1段44號之4
+40e7a59f-f0d3-4be5-b328-e012926a8cc8,Suppliers/40e7a59f-f0d3-4be5-b328-e012926a8cc8,_g1-qbq2---,S00949,楊承翰,07 7266107,yuanfang@example.com,123 嘉義縣華興巷6段81號之1
+0649e40f-9434-415b-a422-8699a941a950,Suppliers/0649e40f-9434-415b-a422-8699a941a950,_g1-qbq6---,S00950,尹雅涵,08-99293701,oluo@example.com,67105 鳳山興街8號4樓
+a53293a6-01ed-4823-9ad8-6e3e3249baae,Suppliers/a53293a6-01ed-4823-9ad8-6e3e3249baae,_g1-qbrC---,S00951,劉淑惠,01 5327917,jinghou@example.com,29760 蘆竹縣忠義街7號之8
+9796e95f-ce17-4f6d-9ab7-d6e87bb6bdf7,Suppliers/9796e95f-ce17-4f6d-9ab7-d6e87bb6bdf7,_g1-qbrG---,S00952,吳雅玲,00-17426629,yang08@example.org,53015 花蓮市北投街6段4號之7
+521b16d1-113b-4a4a-bb57-2caefbb8d688,Suppliers/521b16d1-113b-4a4a-bb57-2caefbb8d688,_g1-qbrO---,S00953,陳佩君,07-46529170,yanxue@example.org,80243 斗六市蘆洲街984號之7
+ce779313-aa7d-4f1f-be7c-06d3a0cc24ab,Suppliers/ce779313-aa7d-4f1f-be7c-06d3a0cc24ab,_g1-qbrS---,S00954,徐嘉玲,0999-862159,liangjie@example.com,976 台南德街3段68號之7
+dee4af19-8e8d-4b8f-86f5-7ceb27541e41,Suppliers/dee4af19-8e8d-4b8f-86f5-7ceb27541e41,_g1-qbrW---,S00955,張佩珊,040 29804923,ufang@example.com,48462 中壢正義路6段141號之2
+0c82c86c-0dc4-44a8-8df0-457050063a45,Suppliers/0c82c86c-0dc4-44a8-8df0-457050063a45,_g1-qbra---,S00956,李淑華,0998-703892,kye@example.com,539 連江新莊街5段362號5樓
+3e6c037e-acd5-49fd-a7fc-27581b2c8faf,Suppliers/3e6c037e-acd5-49fd-a7fc-27581b2c8faf,_g1-qbri---,S00957,聶家銘,02-5796423,xieqiang@example.com,17461 汐止市民治街274號之1
+f6c90d74-d698-497b-9f91-cc6c0ec5d8cb,Suppliers/f6c90d74-d698-497b-9f91-cc6c0ec5d8cb,_g1-qbrm---,S00958,趙怡婷,0915-676044,juanguo@example.org,167 三重中和路553號0樓
+21e74ee3-a525-48eb-99e6-9af260fd8b5d,Suppliers/21e74ee3-a525-48eb-99e6-9af260fd8b5d,_g1-qbru---,S00959,劉琬婷,02 4894282,yan52@example.com,675 雲林忠孝路1段7號之4
+337ba9f4-ee71-4e07-a564-2fa42dfdca93,Suppliers/337ba9f4-ee71-4e07-a564-2fa42dfdca93,_g1-qbry---,S00960,林怡伶,(07) 91106210,liangli@example.org,107 台東市大坪街8段83號6樓
+99a1a441-eb0d-4664-971c-6e07f1a8aa42,Suppliers/99a1a441-eb0d-4664-971c-6e07f1a8aa42,_g1-qbr2---,S00961,邢淑慧,0909-164658,tzhang@example.net,80286 永和民族巷155號5樓
+ee0e60ea-72b9-428d-8bbb-d455206c20e4,Suppliers/ee0e60ea-72b9-428d-8bbb-d455206c20e4,_g1-qbs----,S00962,齊庭瑋,0965-891895,xzou@example.org,361 中和縣奇岩街9段65號3樓
+2fe5904a-029f-4a56-b9c3-98417cd3ca37,Suppliers/2fe5904a-029f-4a56-b9c3-98417cd3ca37,_g1-qbsC---,S00963,羅怡萱,0904854578,xiuyingren@example.net,504 新竹縣雙連路145號之3
+38cbcd13-7f05-4228-a9cc-adda1ffdc5db,Suppliers/38cbcd13-7f05-4228-a9cc-adda1ffdc5db,_g1-qbsK---,S00964,劉宜君,(05) 76416986,mingduan@example.net,46481 卑南市新生巷9號8樓
+9f83f43b-6f77-49dc-82c4-8041532f2409,Suppliers/9f83f43b-6f77-49dc-82c4-8041532f2409,_g1-qbsO---,S00965,王宜庭,00 7639250,zhuping@example.com,18112 台南市新店巷3段8號之1
+c7362cbf-48cd-4343-af1f-71f0c3ad454f,Suppliers/c7362cbf-48cd-4343-af1f-71f0c3ad454f,_g1-qbsW---,S00966,楊鈺婷,0990315758,jie84@example.org,660 中壢市新埔巷778號6樓
+d93a96b1-8af9-4252-91a8-27045b180a11,Suppliers/d93a96b1-8af9-4252-91a8-27045b180a11,_g1-qbsa---,S00967,唐佳穎,011 69407662,zhougang@example.com,63966 新北正義巷6段3號之2
+f1f605d5-6b37-46bd-8f3c-2b19d81b00f6,Suppliers/f1f605d5-6b37-46bd-8f3c-2b19d81b00f6,_g1-qbsi---,S00968,王冠宇,080 81073792,qinjie@example.org,49673 雲林國凱八德街13號之5
+78969dbe-e762-4451-affc-7f9849616baf,Suppliers/78969dbe-e762-4451-affc-7f9849616baf,_g1-qbsm---,S00969,孔家銘,092 31956756,lei05@example.com,43580 臺東北投巷781號之5
+5c4cc5d4-8a6c-40ca-9130-cd99729d285b,Suppliers/5c4cc5d4-8a6c-40ca-9130-cd99729d285b,_g1-qbsq---,S00970,賈詩涵,(00) 46604043,zhangjie@example.org,37259 高雄和平街993號1樓
+de18e843-f4fa-45bb-96e4-6688ad857106,Suppliers/de18e843-f4fa-45bb-96e4-6688ad857106,_g1-qbsy---,S00971,孫志豪,01-86617750,linqiang@example.com,98007 梅山縣文昌巷1段622號之6
+85badd1e-4b76-42d4-bb68-2f021d3b4238,Suppliers/85badd1e-4b76-42d4-bb68-2f021d3b4238,_g1-qbs2---,S00972,郝家瑋,07-72256253,qiang02@example.net,33641 樹林市自由巷1號1樓
+f8cde9cc-9d1e-4b42-8a06-8c8c3c39ff62,Suppliers/f8cde9cc-9d1e-4b42-8a06-8c8c3c39ff62,_g1-qbt----,S00973,陳雅涵,0995747068,yong65@example.net,183 金門縣民生街1段8號2樓
+efd46b9a-378e-4cfb-bb4b-04f07f89c484,Suppliers/efd46b9a-378e-4cfb-bb4b-04f07f89c484,_g1-qbtC---,S00974,楊郁雯,03-3208911,chao93@example.com,13108 中壢縣南巷706號6樓
+9c520e29-2bfa-4ce6-9982-68b8bddc4f1c,Suppliers/9c520e29-2bfa-4ce6-9982-68b8bddc4f1c,_g1-qbtG---,S00975,張婉婷,08-48932540,bgao@example.com,60164 太保廣慈路1號之3
+40fd54c0-621e-4f03-b98e-151dd89fa7e9,Suppliers/40fd54c0-621e-4f03-b98e-151dd89fa7e9,_g1-qbtO---,S00976,金中山,07 2309745,pingqian@example.net,459 新北市迴龍街28號之9
+aa8fb752-3924-4696-9a34-2c665c2fd581,Suppliers/aa8fb752-3924-4696-9a34-2c665c2fd581,_g1-qbtS---,S00977,李馨儀,01-24522870,yangcheng@example.org,115 屏東縣文山路83號9樓
+937c6499-11f0-47c6-9786-f363b82f999c,Suppliers/937c6499-11f0-47c6-9786-f363b82f999c,_g1-qbtW---,S00978,陳飛,00-25339878,jie99@example.org,344 橫山仁愛街64號之7
+4d4c4971-4dd9-43e7-a5b7-ec9ddfb699db,Suppliers/4d4c4971-4dd9-43e7-a5b7-ec9ddfb699db,_g1-qbte---,S00979,陸郁雯,06 6572233,tanyan@example.com,468 屏東縣太平巷95號之7
+dd19865c-ebbe-402a-8ad9-fbda069b38a3,Suppliers/dd19865c-ebbe-402a-8ad9-fbda069b38a3,_g1-qbti---,S00980,王沖,(07) 44027265,xiulanxu@example.net,870 阿里山縣大安巷38號1樓
+e90382e6-00fa-4df2-bc35-b1c6b3cb9307,Suppliers/e90382e6-00fa-4df2-bc35-b1c6b3cb9307,_g1-qbtm---,S00981,閻宗翰,02 2789404,qiuli@example.net,262 草屯市光華巷52號3樓
+85f8d2be-1aa9-4971-a288-f19ca6b797f2,Suppliers/85f8d2be-1aa9-4971-a288-f19ca6b797f2,_g1-qbtu---,S00982,許彥廷,0941-566933,fangxu@example.net,955 楊梅和平巷24號之3
+eb3940a0-7a38-4068-a690-b629cf9769cc,Suppliers/eb3940a0-7a38-4068-a690-b629cf9769cc,_g1-qbty---,S00983,李雅芳,0983827873,yangmin@example.org,126 汐止自由巷3段12號之0
+3b4ec1a4-4101-4a07-b75f-74b6ec0d5dcf,Suppliers/3b4ec1a4-4101-4a07-b75f-74b6ec0d5dcf,_g1-qbt2---,S00984,石慧君,04 6204742,zshao@example.org,197 平鎮文化路45號6樓
+e3ee64b7-ff5a-4119-a40f-e8ece23c377f,Suppliers/e3ee64b7-ff5a-4119-a40f-e8ece23c377f,_g1-qbuS---,S00985,李依婷,0917-588222,wugang@example.org,12474 平鎮市中山街7號之1
+6c3ec9f0-863b-4604-9cbe-cc988c230bdc,Suppliers/6c3ec9f0-863b-4604-9cbe-cc988c230bdc,_g1-qbuW---,S00986,張龍,0904146965,huangwei@example.net,364 永康三民街422號1樓
+e0dc310e-c831-46c7-bfb2-889f5c918ba7,Suppliers/e0dc310e-c831-46c7-bfb2-889f5c918ba7,_g1-qbue---,S00987,蔡信宏,03-99424661,qiangwei@example.org,968 板橋自強巷82號之2
+05c39725-155e-455f-a69f-cea5b9fd0545,Suppliers/05c39725-155e-455f-a69f-cea5b9fd0545,_g1-qbui---,S00988,馬建宏,0905-667792,jxia@example.org,211 苗栗忠孝街2段79號之5
+6ef7d4ea-3757-472f-9d65-c3caf1f368a7,Suppliers/6ef7d4ea-3757-472f-9d65-c3caf1f368a7,_g1-qbuq---,S00989,張家瑜,032 78548410,pingjin@example.net,67194 平鎮縣石牌路4號之0
+d1e815d6-6568-4488-9ce5-e17350c340ff,Suppliers/d1e815d6-6568-4488-9ce5-e17350c340ff,_g1-qbuu---,S00990,劉威廷,0917-807318,ymao@example.org,754 宜蘭博愛路52號之3
+015a6d8f-9b98-48c3-bc2d-d64aa52740ec,Suppliers/015a6d8f-9b98-48c3-bc2d-d64aa52740ec,_g1-qbuy---,S00991,王宗翰,0975-472728,gangyu@example.net,620 台北三民路5段94號4樓
+d4570688-24f5-443b-893c-e0eedf0cc1d4,Suppliers/d4570688-24f5-443b-893c-e0eedf0cc1d4,_g1-qbu6---,S00992,韓依婷,08-4658793,chengqiang@example.com,497 鳳山市中和街20號之2
+1e942c17-f891-4801-8f32-ce6c05144ed5,Suppliers/1e942c17-f891-4801-8f32-ce6c05144ed5,_g1-qbv----,S00993,石怡君,(06) 79775154,mojun@example.com,80139 澎湖縣德路9號之9
+a815cd0d-5b84-468d-b1fe-013f302d5658,Suppliers/a815cd0d-5b84-468d-b1fe-013f302d5658,_g1-qbvC---,S00994,古惠雯,02-3383227,xfu@example.net,39571 新竹忠孝路6號之0
+f86c00ba-05fc-40a6-bf58-3308dbd744c9,Suppliers/f86c00ba-05fc-40a6-bf58-3308dbd744c9,_g1-qbvK---,S00995,唐美琪,0951-225334,juanqiu@example.org,10763 三重學府街121號之7
+b1388b8e-4aa9-41b7-af36-ea70fd2cfe5c,Suppliers/b1388b8e-4aa9-41b7-af36-ea70fd2cfe5c,_g1-qbvO---,S00996,戴淑娟,(05) 40326468,linxiulan@example.net,753 北竿大勇巷4號6樓
+7cab21eb-f777-42e5-930e-fe89470f0382,Suppliers/7cab21eb-f777-42e5-930e-fe89470f0382,_g1-qbvW---,S00997,陳惠雯,0973680687,jingyi@example.net,720 台東縣奇岩路9段7號之9
+e82a8ca2-76f2-4c43-b1fe-fe059bef99db,Suppliers/e82a8ca2-76f2-4c43-b1fe-fe059bef99db,_g1-qbva---,S00998,明庭瑋,(04) 92286163,na63@example.net,334 永和關渡巷2段7號0樓
+7a222808-57b4-4e68-ad09-01f6ba57afbe,Suppliers/7a222808-57b4-4e68-ad09-01f6ba57afbe,_g1-qbvi---,S00999,繆婷婷,0936988396,jing14@example.com,333 竹田大橋頭街65號2樓
+13959606-8081-44e5-abd4-d8e5702a3ec8,Suppliers/13959606-8081-44e5-abd4-d8e5702a3ec8,_g1-qbvm---,S01000,周冠霖,01-40104842,xiulanshi@example.org,132 北竿縣光明巷8號之2
